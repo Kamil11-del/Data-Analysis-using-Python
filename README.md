@@ -39,10 +39,10 @@ By the end of this course, you will be able to:
 
 | # | Module | Topics | Status |
 |---|--------|--------|--------|
-| 01 | **Python Fundamentals** | Variables, loops, functions, OOP | ✅ Complete |
-| 02 | **NumPy** | Arrays, vectorized operations, linear algebra | ✅ Complete |
-| 03 | **Pandas** | DataFrames, data cleaning, merging, groupby | ✅ Complete |
-| 04 | **Data Cleaning** | Handling nulls, duplicates, outliers, type casting | ✅ Complete |
+| 01 | **Python Fundamentals** | Variables, loops, functions, OOP | 🔄 In Progress |
+| 02 | **NumPy** | Arrays, vectorized operations, linear algebra | 🔄 In Progress |
+| 03 | **Pandas** | DataFrames, data cleaning, merging, groupby | 🔄 In Progress |
+| 04 | **Data Cleaning** | Handling nulls, duplicates, outliers, type casting | 🔄 In Progress |
 | 05 | **Data Visualization** | Matplotlib, Seaborn, Plotly | 🔄 In Progress |
 | 06 | **Exploratory Data Analysis** | Descriptive stats, correlation, distributions | 🔄 In Progress |
 | 07 | **Statistics for Data Analysis** | Hypothesis testing, probability, regression | 🔜 Coming Soon |
@@ -131,10 +131,6 @@ jupyter notebook
 │   └── 📓 01_exploratory_data_analysis.ipynb
 ├── 📂 06_statistics/
 │   └── 📓 01_stats_fundamentals.ipynb
-├── 📂 projects/
-│   ├── 📂 01_sales_analysis/
-│   ├── 📂 02_covid_data_analysis/
-│   └── 📂 03_financial_data/
 ├── 📂 datasets/
 │   └── 📄 *.csv / *.xlsx
 ├── 📄 requirements.txt
@@ -158,21 +154,6 @@ Each module folder contains:
 - 💡 Solution notebooks
 - 📊 Sample datasets
 
----
-
-## 📊 Projects
-
-### 🛒 Project 1 — Sales Data Analysis
-> Analyze sales trends, identify top-performing products and regions using Pandas & Matplotlib.
-
-### 🦠 Project 2 — COVID-19 Data Analysis
-> Explore global COVID-19 data, visualize spread trends, and compare country-wise statistics.
-
-### 💰 Project 3 — Financial Data Analysis
-> Analyze stock market data, compute moving averages, and visualize price trends with Plotly.
-
----
-
 ## 🤝 Contributing
 
 Contributions are always welcome! Here's how you can help:
@@ -191,11 +172,11 @@ Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of co
 
 <div align="center">
 
-**Your Name**
+**Muhammad Kamil Khan**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kamil11-del)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-kamil-khan-70096a24b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamil.khanprogrammer@gmail.com)
 
 </div>
 
