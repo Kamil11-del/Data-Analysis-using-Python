@@ -1,0 +1,11 @@
+order_id,customer,city,product,qty,unit_price,order_date
+101,Ahmed Khan,Karachi ,Laptop,1,85000,2024-01-15
+102,fatima ali,lahore,Mouse,3, 1200,2024-01-16
+103,Hassan Raza,ISLAMABAD,Keyboard,2,3500,2024-01-16
+104,Zara Malik,karachi ,Monitor,1,32000,2024-01-17
+105,Ahmed Khan,Karachi ,Laptop,1,85000,2024-01-15
+106,,Lahore,Headphones,2,4500,2024-01-18
+107,Bilal Ahmed,Peshawar,Mouse,1,1200,2024-01-18
+108,Sara Qureshi,Quetta,Keyboard,3,3500,
+109,Nadia Shah,Lahore,Monitor,1,32000,2024-01-19
+110,Omar Farooq,Karachi ,Laptop,2,85000,2024-01-20
