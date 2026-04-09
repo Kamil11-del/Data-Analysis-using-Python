@@ -1,0 +1,495 @@
+order_id,customer_name,city,category,product,quantity,unit_price,payment_method,order_status,order_date,rating,total_revenue,year,month,month_name,quarter,year_month,day_of_week,price_segment,total_revenue_capped,revenue_zscore
+1100,Fatima Farooq,Peshawar,Food & Grocery,Cooking Oil 5L,3,1750,Bank Transfer,Delivered,2023-07-25,4.0,5250,2023,7,July,Q3,2023-07,Tuesday,Mid (500-2k),5250.0,-0.2165994538595767
+1065,Ahmed Butt,Rawalpindi,Clothing,Jeans,4,3200,EasyPaisa,Cancelled,2024-05-17,5.0,12800,2024,5,May,Q2,2024-05,Friday,Premium (2k-10k),12800.0,-0.0494895644123898
+1019,Nadia Nawaz,Multan,Home & Kitchen,Non-Stick Pan,1,2250,JazzCash,Processing,2024-02-25,5.0,2250,2024,2,February,Q1,2024-02,Sunday,Premium (2k-10k),2250.0,-0.2830007344346179
+1246,Faisal Sheikh,Islamabad,Electronics,Usb Cable,2,350,JazzCash,Delivered,2024-02-23,5.0,700,2024,2,February,Q1,2024-02,Friday,Budget (<500),700.0,-0.31730806273172246
+1302,Bilal Ahmed,Rawalpindi,Health & Beauty,Hair Oil,5,350,JazzCash,Shipped,2023-06-28,3.0,1750,2023,6,June,Q2,2023-06,Wednesday,Budget (<500),1750.0,-0.29406761453045804
+1448,Fatima Butt,Peshawar,Sports,Badminton Set,4,1900,Debit Card,Returned,2024-04-16,5.0,7600,2024,4,April,Q2,2024-04,Tuesday,Mid (500-2k),7600.0,-0.16458511740912782
+1477,Saima Baig,Karachi,Electronics,Usb Cable,5,350,Cash on Delivery,Delivered,2023-06-11,5.0,1750,2023,6,June,Q2,2023-06,Sunday,Budget (<500),1750.0,-0.29406761453045804
+1438,Usman Javed,Peshawar,Sports,Sports Shoes,5,5350,Cash on Delivery,Delivered,2023-04-03,,26750,2023,4,April,Q2,2023-04,Monday,Premium (2k-10k),22237.5,0.2592763902615516
+1057,Adnan Ali,Karachi,Home & Kitchen,Water Bottle,1,650,EasyPaisa,Delivered,2024-04-29,4.0,650,2024,4,April,Q2,2024-04,Monday,Mid (500-2k),650.0,-0.3184147507413065
+1142,Junaid Hashmi,Islamabad,Sports,Badminton Set,2,1750,Debit Card,Delivered,2024-03-24,3.0,3500,2024,3,March,Q1,2024-03,Sunday,Mid (500-2k),3500.0,-0.25533353419501736
+1487,Amna Iqbal,Peshawar,Electronics,Charger,5,750,Cash on Delivery,Shipped,2023-03-21,4.0,3750,2023,3,March,Q1,2023-03,Tuesday,Mid (500-2k),3750.0,-0.24980009414709728
+1254,Amna Qureshi,Peshawar,Sports,Protein Powder,2,4950,Debit Card,Delivered,2023-07-10,5.0,9900,2023,7,July,Q3,2023-07,Monday,Premium (2k-10k),9900.0,-0.11367746896826292
+1206,Kamran Butt,Quetta,Clothing,Jeans,5,3200,Credit Card,Cancelled,2023-02-26,5.0,16000,2023,2,February,Q1,2023-02,Sunday,Premium (2k-10k),16000.0,0.021338468200987434
+1359,Nimra Butt,Gujranwala,Health & Beauty,Hair Oil,2,350,Bank Transfer,Shipped,2023-07-12,4.0,700,2023,7,July,Q3,2023-07,Wednesday,Budget (<500),700.0,-0.31730806273172246
+1388,Junaid Iqbal,Karachi,Clothing,Shalwar Kameez,4,2700,Debit Card,Delivered,2023-07-24,5.0,10800,2023,7,July,Q3,2023-07,Monday,Premium (2k-10k),10800.0,-0.09375708479575057
+1434,Tariq Mirza,Sialkot,Electronics,Tablet,4,33500,Cash on Delivery,Delivered,2023-05-29,5.0,134000,2023,5,May,Q2,2023-05,Monday,Luxury (10k+),22237.5,2.633122170819273
+1261,Ahmed Nawaz,Islamabad,Home & Kitchen,Electric Kettle,5,2800,Bank Transfer,Processing,2024-05-18,5.0,14000,2024,5,May,Q2,2024-05,Saturday,Premium (2k-10k),14000.0,-0.022929052182373337
+1094,Hina Malik,Rawalpindi,Sports,Badminton Set,2,1750,Credit Card,Processing,2023-09-04,5.0,3500,2023,9,September,Q3,2023-09,Monday,Mid (500-2k),3500.0,-0.25533353419501736
+1375,Mehwish Qureshi,Lahore,Toys,Action Figure,2,650,JazzCash,Delivered,2024-06-03,4.0,1300,2024,6,June,Q2,2024-06,Monday,Mid (500-2k),1300.0,-0.30402780661671425
+1089,Mehwish Iqbal,Karachi,Health & Beauty,Sanitizer 500Ml,4,300,Debit Card,Delivered,2024-05-22,3.0,1200,2024,5,May,Q2,2024-05,Wednesday,Budget (<500),1200.0,-0.3062411826358823
+1165,Mehwish Ahmed,Quetta,Food & Grocery,Spices Pack,1,250,JazzCash,Shipped,2023-03-08,,250,2023,3,March,Q1,2023-03,Wednesday,Budget (<500),250.0,-0.32726825481797867
+1335,Saima Siddiqui,Sialkot,Health & Beauty,Hair Oil,3,400,Bank Transfer,Cancelled,2023-02-08,4.0,1200,2023,2,February,Q1,2023-02,Wednesday,Budget (<500),1200.0,-0.3062411826358823
+1011,Tariq Javed,Gujranwala,Toys,Puzzle 500Pc,5,1000,Cash on Delivery,Delivered,2023-10-01,5.0,5000,2023,10,October,Q4,2023-10,Sunday,Mid (500-2k),5000.0,-0.2221328939074968
+1389,Adnan Qureshi,Faisalabad,Books & Stationery,English Grammar,1,850,JazzCash,Delivered,2023-02-03,5.0,850,2023,2,February,Q1,2023-02,Friday,Mid (500-2k),850.0,-0.3139879987029704
+1342,Nadia Ansari,Quetta,Toys,Remote Car,4,2800,JazzCash,Shipped,2023-06-17,5.0,11200,2023,6,June,Q2,2023-06,Saturday,Premium (2k-10k),11200.0,-0.08490358071907841
+1222,Sana Butt,Quetta,Toys,Doll,4,850,JazzCash,Delivered,2024-01-15,5.0,3400,2024,1,January,Q1,2024-01,Monday,Mid (500-2k),3400.0,-0.2575469102141854
+1140,Asad Iqbal,Sialkot,Health & Beauty,Face Wash,3,450,EasyPaisa,Shipped,2024-05-12,4.0,1350,2024,5,May,Q2,2024-05,Sunday,Budget (<500),1350.0,-0.3029211186071302
+1416,Imran Qureshi,Islamabad,Food & Grocery,Spices Pack,3,250,Bank Transfer,Delivered,2023-03-06,5.0,750,2023,3,March,Q1,2023-03,Monday,Budget (<500),750.0,-0.31620137472213844
+1037,Nadia Shah,Rawalpindi,Health & Beauty,Vitamin C,2,900,Debit Card,Delivered,2024-02-13,5.0,1800,2024,2,February,Q1,2024-02,Tuesday,Mid (500-2k),1800.0,-0.292960926520874
+1132,Adnan Ahmed,Islamabad,Toys,Toy Kitchen,5,2250,Bank Transfer,Shipped,2023-11-20,4.0,11250,2023,11,November,Q4,2023-11,Monday,Premium (2k-10k),11250.0,-0.08379689270949439
+9092,Zara Raza,Quetta,Food & Grocery,Sugar 5Kg,1,550,Cash on Delivery,Shipped,2023-01-19,5.0,550,2023,1,January,Q1,2023-01,Thursday,Mid (500-2k),550.0,-0.32062812676047453
+1063,Rizwan Ahmed,Faisalabad,Toys,Board Game,4,1500,Debit Card,Processing,2023-12-11,3.0,6000,2023,12,December,Q4,2023-12,Monday,Mid (500-2k),6000.0,-0.19999913371581643
+1272,Kamran Sheikh,Gujranwala,Food & Grocery,Spices Pack,3,250,Cash on Delivery,Delivered,2023-04-12,5.0,750,2023,4,April,Q2,2023-04,Wednesday,Budget (<500),750.0,-0.31620137472213844
+1025,Sara Ali,Sialkot,Clothing,Jacket,1,4550,Debit Card,Delivered,2024-02-18,4.0,4550,2024,2,February,Q1,2024-02,Sunday,Premium (2k-10k),4550.0,-0.23209308599375297
+1426,Sobia Iqbal,Islamabad,Clothing,Jacket,4,4700,Credit Card,Delivered,2024-06-28,,18800,2024,6,June,Q2,2024-06,Friday,Premium (2k-10k),18800.0,0.08331299673769252
+1113,Asad Khan,Karachi,Toys,Coloring Book,4,350,Bank Transfer,Cancelled,2023-03-17,4.0,1400,2023,3,March,Q1,2023-03,Friday,Budget (<500),1400.0,-0.3018144305975462
+1417,Sana Baig,Karachi,Home & Kitchen,Blender,4,3800,Bank Transfer,Delivered,2023-02-10,5.0,15200,2023,2,February,Q1,2023-02,Friday,Premium (2k-10k),15200.0,0.003631460047643126
+1288,Sana Malik,Quetta,Clothing,Shalwar Kameez,3,2900,JazzCash,Returned,2023-03-07,5.0,8700,2023,3,March,Q1,2023-03,Tuesday,Premium (2k-10k),8700.0,-0.14023798119827938
+1125,Zara Siddiqui,Rawalpindi,Toys,Puzzle 500Pc,1,900,Credit Card,Delivered,2023-01-08,4.0,900,2023,1,January,Q1,2023-01,Sunday,Mid (500-2k),900.0,-0.31288131069338637
+1367,Imran Siddiqui,Faisalabad,Toys,Lego Set,1,3300,Cash on Delivery,Shipped,2024-01-04,5.0,3300,2024,1,January,Q1,2024-01,Thursday,Premium (2k-10k),3300.0,-0.25976028623335345
+1409,Kamran Ansari,Islamabad,Home & Kitchen,Non-Stick Pan,3,2250,EasyPaisa,Shipped,2024-05-12,5.0,6750,2024,5,May,Q2,2024-05,Sunday,Premium (2k-10k),6750.0,-0.18339881357205615
+1478,Hassan Hashmi,Peshawar,Electronics,Laptop,3,86250,Debit Card,Returned,2023-04-20,4.0,258750,2023,4,April,Q2,2023-04,Thursday,Luxury (10k+),22237.5,5.3943087547314015
+1174,Hassan Ali,Islamabad,Toys,Coloring Book,4,350,JazzCash,Delivered,2023-11-17,5.0,1400,2023,11,November,Q4,2023-11,Friday,Budget (<500),1400.0,-0.3018144305975462
+1274,Sara Chaudhry,Lahore,Health & Beauty,Vitamin C,1,950,Debit Card,Delivered,2023-02-23,5.0,950,2023,2,February,Q1,2023-02,Thursday,Mid (500-2k),950.0,-0.31177462268380235
+1479,Rabia Baig,Peshawar,Health & Beauty,Sanitizer 500Ml,2,300,Bank Transfer,Shipped,2023-05-18,5.0,600,2023,5,May,Q2,2023-05,Thursday,Budget (<500),600.0,-0.3195214387508905
+1292,Nadia Iqbal,Peshawar,Books & Stationery,Css Notes,5,2150,Credit Card,Delivered,2023-07-03,4.0,10750,2023,7,July,Q3,2023-07,Monday,Premium (2k-10k),10750.0,-0.09486377280533459
+1279,Mehwish Shah,Lahore,Clothing,Jacket,1,4550,Bank Transfer,Shipped,2024-03-15,5.0,4550,2024,3,March,Q1,2024-03,Friday,Premium (2k-10k),4550.0,-0.23209308599375297
+1220,Omar Mirza,Faisalabad,Electronics,Headphones,2,4700,Cash on Delivery,Cancelled,2023-09-06,4.0,9400,2023,9,September,Q3,2023-09,Wednesday,Premium (2k-10k),9400.0,-0.12474434906410312
+1176,Usman Hussain,Rawalpindi,Food & Grocery,Cooking Oil 5L,1,1750,Bank Transfer,Processing,2023-09-12,4.0,1750,2023,9,September,Q3,2023-09,Tuesday,Mid (500-2k),1750.0,-0.29406761453045804
+1347,Sobia Raza,Quetta,Clothing,Dupatta,3,900,JazzCash,Shipped,2023-11-02,4.0,2700,2023,11,November,Q4,2023-11,Thursday,Mid (500-2k),2700.0,-0.27304054234836167
+1138,Zara Sheikh,Multan,Books & Stationery,Pens Box,5,250,JazzCash,Delivered,2023-05-25,5.0,1250,2023,5,May,Q2,2023-05,Thursday,Budget (<500),1250.0,-0.30513449462629827
+1033,Waqas Iqbal,Sialkot,Electronics,Smartphone,1,47000,Debit Card,Delivered,2023-02-06,5.0,47000,2023,2,February,Q1,2023-02,Monday,Luxury (10k+),22237.5,0.7074850341430794
+1029,Junaid Baig,Peshawar,Books & Stationery,English Grammar,4,900,Debit Card,Shipped,2024-06-25,3.0,3600,2024,6,June,Q2,2024-06,Tuesday,Mid (500-2k),3600.0,-0.2531201581758494
+1006,Mehwish Raza,Multan,Books & Stationery,Atlas,3,950,JazzCash,Delivered,2023-10-01,4.0,2850,2023,10,October,Q4,2023-10,Sunday,Mid (500-2k),2850.0,-0.26972047831960966
+1240,Ahmed Siddiqui,Multan,Sports,Football,5,2300,EasyPaisa,Returned,2023-06-23,5.0,11500,2023,6,June,Q2,2023-06,Friday,Premium (2k-10k),11500.0,-0.0782634526615743
+1188,Shahid Shah,Faisalabad,Health & Beauty,Sanitizer 500Ml,5,300,EasyPaisa,Cancelled,2024-06-29,5.0,1500,2024,6,June,Q2,2024-06,Saturday,Budget (<500),1500.0,-0.29960105457837816
+1495,Nadia Chaudhry,Faisalabad,Clothing,Abaya,5,3650,Debit Card,Delivered,2023-11-29,5.0,18250,2023,11,November,Q4,2023-11,Wednesday,Premium (2k-10k),18250.0,0.0711394286322683
+1051,Nadia Javed,Islamabad,Home & Kitchen,Non-Stick Pan,4,2200,Credit Card,Cancelled,2024-03-01,3.0,8800,2024,3,March,Q1,2024-03,Friday,Premium (2k-10k),8800.0,-0.13802460517911133
+1080,Uzma Chaudhry,Islamabad,Sports,Protein Powder,1,4800,Bank Transfer,Shipped,2023-11-25,4.0,4800,2023,11,November,Q4,2023-11,Saturday,Premium (2k-10k),4800.0,-0.2265596459458329
+1108,Sobia Shah,Gujranwala,Electronics,Laptop,3,82800,EasyPaisa,Delivered,2023-03-12,,248400,2023,3,March,Q1,2023-03,Sunday,Luxury (10k+),22237.5,5.165224336747509
+1190,Waqas Shah,Quetta,Health & Beauty,Sanitizer 500Ml,3,300,Debit Card,Shipped,2023-10-22,4.0,900,2023,10,October,Q4,2023-10,Sunday,Budget (<500),900.0,-0.31288131069338637
+1223,Hina Ali,Gujranwala,Home & Kitchen,Dinner Set,1,6350,Credit Card,Processing,2023-10-30,4.0,6350,2023,10,October,Q4,2023-10,Monday,Premium (2k-10k),6350.0,-0.1922523176487283
+1439,Ayesha Sheikh,Gujranwala,Health & Beauty,Multivitamin,3,1150,EasyPaisa,Cancelled,2024-02-18,3.0,3450,2024,2,February,Q1,2024-02,Sunday,Mid (500-2k),3450.0,-0.2564402222046014
+1048,Sobia Butt,Sialkot,Health & Beauty,Sanitizer 500Ml,5,350,Credit Card,Processing,2024-04-01,4.0,1750,2024,4,April,Q2,2024-04,Monday,Budget (<500),1750.0,-0.29406761453045804
+1486,Nadia Hashmi,Lahore,Electronics,Headphones,4,4700,Cash on Delivery,Cancelled,2023-03-04,5.0,18800,2023,3,March,Q1,2023-03,Saturday,Premium (2k-10k),18800.0,0.08331299673769252
+1308,Hina Sheikh,Quetta,Electronics,Smartphone,3,44450,Bank Transfer,Delivered,2024-06-22,4.0,133350,2024,6,June,Q2,2024-06,Saturday,Luxury (10k+),22237.5,2.618735226694681
+1152,Sara Ahmed,Sialkot,Health & Beauty,Shampoo,5,500,Credit Card,Returned,2023-01-21,5.0,2500,2023,1,January,Q1,2023-01,Saturday,Budget (<500),2500.0,-0.27746729438669776
+1183,Imran Malik,Gujranwala,Food & Grocery,Ghee 1Kg,5,650,Bank Transfer,Shipped,2023-12-11,,3250,2023,12,December,Q4,2023-12,Monday,Mid (500-2k),3250.0,-0.2608669742429375
+1205,Waqas Ansari,Lahore,Clothing,Shalwar Kameez,5,2900,EasyPaisa,Returned,2023-06-03,4.0,14500,2023,6,June,Q2,2023-06,Saturday,Premium (2k-10k),14500.0,-0.011862172086533144
+1304,Rizwan Baig,Islamabad,Home & Kitchen,Electric Kettle,3,2850,Debit Card,Delivered,2023-09-23,4.0,8550,2023,9,September,Q3,2023-09,Saturday,Premium (2k-10k),8550.0,-0.14355804522703144
+1268,Uzma Ali,Faisalabad,Food & Grocery,Flour 10Kg,2,900,JazzCash,Delivered,2024-02-07,5.0,1800,2024,2,February,Q1,2024-02,Wednesday,Mid (500-2k),1800.0,-0.292960926520874
+1040,Tariq Farooq,Rawalpindi,Books & Stationery,Ielts Guide,4,1700,Credit Card,Delivered,2024-01-08,5.0,6800,2024,1,January,Q1,2024-01,Monday,Mid (500-2k),6800.0,-0.18229212556247212
+1193,Unknown,Rawalpindi,Home & Kitchen,Pressure Cooker,5,4650,EasyPaisa,Delivered,2023-04-13,5.0,23250,2023,4,April,Q2,2023-04,Thursday,Premium (2k-10k),22237.5,0.18180822959067022
+1209,Uzma Nawaz,Karachi,Books & Stationery,Urdu Novel,2,450,Debit Card,Processing,2024-01-19,5.0,900,2024,1,January,Q1,2024-01,Friday,Budget (<500),900.0,-0.31288131069338637
+1250,Nimra Butt,Karachi,Home & Kitchen,Iron,3,3450,Debit Card,Returned,2023-06-04,5.0,10350,2023,6,June,Q2,2023-06,Sunday,Premium (2k-10k),10350.0,-0.10371727688200674
+1131,Unknown,Peshawar,Health & Beauty,Sunscreen Spf50,2,800,JazzCash,Delivered,2023-06-27,4.0,1600,2023,6,June,Q2,2023-06,Tuesday,Mid (500-2k),1600.0,-0.2973876785592101
+1436,Maryam Butt,Faisalabad,Electronics,Tablet,4,31800,EasyPaisa,Returned,2023-10-20,4.0,127200,2023,10,October,Q4,2023-10,Friday,Luxury (10k+),22237.5,2.4826126015158465
+1109,Omar Farooq,Rawalpindi,Home & Kitchen,Blender,2,3900,Credit Card,Delivered,2023-10-11,4.0,7800,2023,10,October,Q4,2023-10,Wednesday,Premium (2k-10k),7800.0,-0.16015836537079173
+1356,Bilal Hashmi,Multan,Sports,Sports Shoes,4,5750,Bank Transfer,Delivered,2023-02-08,,23000,2023,2,February,Q1,2023-02,Wednesday,Premium (2k-10k),22237.5,0.17627478954275014
+1398,Sobia Mirza,Islamabad,Clothing,Abaya,3,3500,JazzCash,Delivered,2024-06-13,5.0,10500,2024,6,June,Q2,2024-06,Thursday,Premium (2k-10k),10500.0,-0.10039721285325469
+1419,Tariq Baig,Sialkot,Sports,Skipping Rope,3,450,Bank Transfer,Delivered,2024-05-28,4.0,1350,2024,5,May,Q2,2024-05,Tuesday,Budget (<500),1350.0,-0.3029211186071302
+1049,Nimra Nawaz,Quetta,Books & Stationery,Notebook Pack,3,350,Credit Card,Cancelled,2023-09-02,5.0,1050,2023,9,September,Q3,2023-09,Saturday,Budget (<500),1050.0,-0.30956124666463436
+1315,Waqas Qureshi,Peshawar,Electronics,Laptop,2,85750,EasyPaisa,Delivered,2024-06-22,5.0,171500,2024,6,June,Q2,2024-06,Saturday,Luxury (10k+),22237.5,3.463138178007288
+1325,Nimra Sheikh,Faisalabad,Books & Stationery,Pens Box,2,250,Bank Transfer,Returned,2024-05-17,4.0,500,2024,5,May,Q2,2024-05,Friday,Budget (<500),500.0,-0.32173481477005855
+1036,Nimra Mirza,Multan,Home & Kitchen,Storage Box,2,850,Cash on Delivery,Processing,2023-02-09,5.0,1700,2023,2,February,Q1,2023-02,Thursday,Mid (500-2k),1700.0,-0.29517430254004207
+1446,Zara Ahmed,Quetta,Electronics,Laptop,4,83900,JazzCash,Cancelled,2023-10-09,5.0,335600,2023,10,October,Q4,2023-10,Monday,Luxury (10k+),22237.5,7.095288225462038
+1249,Sara Hashmi,Karachi,Sports,Skipping Rope,4,450,Cash on Delivery,Shipped,2023-08-16,,1800,2023,8,August,Q3,2023-08,Wednesday,Budget (<500),1800.0,-0.292960926520874
+1383,Nimra Ali,Sialkot,Sports,Protein Powder,5,4950,EasyPaisa,Delivered,2023-05-12,4.0,24750,2023,5,May,Q2,2023-05,Friday,Premium (2k-10k),22237.5,0.21500886987819082
+1390,Rizwan Hussain,Lahore,Home & Kitchen,Electric Kettle,2,2800,Debit Card,Shipped,2023-02-18,5.0,5600,2023,2,February,Q1,2023-02,Saturday,Premium (2k-10k),5600.0,-0.20885263779248858
+1185,Faisal Siddiqui,Karachi,Toys,Puzzle 500Pc,5,950,Debit Card,Delivered,2024-05-06,4.0,4750,2024,5,May,Q2,2024-05,Monday,Mid (500-2k),4750.0,-0.2276663339554169
+1182,Omar Hashmi,Sialkot,Sports,Cricket Bat,1,4300,Debit Card,Shipped,2024-04-30,,4300,2024,4,April,Q2,2024-04,Tuesday,Premium (2k-10k),4300.0,-0.2376265260416731
+1191,Faisal Sheikh,Multan,Sports,Skipping Rope,2,450,JazzCash,Delivered,2023-12-21,5.0,900,2023,12,December,Q4,2023-12,Thursday,Budget (<500),900.0,-0.31288131069338637
+1224,Omar Mirza,Rawalpindi,Sports,Gym Gloves,4,950,Debit Card,Shipped,2023-09-21,5.0,3800,2023,9,September,Q3,2023-09,Thursday,Mid (500-2k),3800.0,-0.24869340613751328
+1072,Faisal Ali,Islamabad,Food & Grocery,Sugar 5Kg,1,600,Cash on Delivery,Returned,2024-03-02,4.0,600,2024,3,March,Q1,2024-03,Saturday,Mid (500-2k),600.0,-0.3195214387508905
+1263,Nadia Sheikh,Faisalabad,Food & Grocery,Spices Pack,5,250,Bank Transfer,Returned,2024-06-07,4.0,1250,2024,6,June,Q2,2024-06,Friday,Budget (<500),1250.0,-0.30513449462629827
+1425,Maryam Farooq,Lahore,Home & Kitchen,Electric Kettle,4,2700,Cash on Delivery,Delivered,2024-06-19,,10800,2024,6,June,Q2,2024-06,Wednesday,Premium (2k-10k),10800.0,-0.09375708479575057
+1468,Usman Ahmed,Multan,Home & Kitchen,Storage Box,3,850,Credit Card,Shipped,2024-02-27,4.0,2550,2024,2,February,Q1,2024-02,Tuesday,Mid (500-2k),2550.0,-0.27636060637711374
+1248,Amna Butt,Multan,Electronics,Power Bank,5,3250,Cash on Delivery,Delivered,2023-09-12,5.0,16250,2023,9,September,Q3,2023-09,Tuesday,Premium (2k-10k),16250.0,0.02687190824890753
+1039,Faisal Chaudhry,Karachi,Clothing,Abaya,3,3600,JazzCash,Processing,2024-06-07,4.0,10800,2024,6,June,Q2,2024-06,Friday,Premium (2k-10k),10800.0,-0.09375708479575057
+1418,Zara Butt,Faisalabad,Books & Stationery,English Grammar,4,850,JazzCash,Delivered,2024-06-13,5.0,3400,2024,6,June,Q2,2024-06,Thursday,Mid (500-2k),3400.0,-0.2575469102141854
+1154,Nimra Raza,Gujranwala,Health & Beauty,Sunscreen Spf50,1,850,JazzCash,Delivered,2024-04-20,5.0,850,2024,4,April,Q2,2024-04,Saturday,Mid (500-2k),850.0,-0.3139879987029704
+1133,Imran Ahmed,Quetta,Toys,Puzzle 500Pc,3,950,JazzCash,Returned,2023-03-17,5.0,2850,2023,3,March,Q1,2023-03,Friday,Mid (500-2k),2850.0,-0.26972047831960966
+1096,Sobia Sheikh,Islamabad,Clothing,Shawl,3,1550,JazzCash,Processing,2023-09-14,5.0,4650,2023,9,September,Q3,2023-09,Thursday,Mid (500-2k),4650.0,-0.22987970997458496
+1053,Amna Sheikh,Gujranwala,Home & Kitchen,Iron,2,3400,Bank Transfer,Delivered,2024-02-03,5.0,6800,2024,2,February,Q1,2024-02,Saturday,Premium (2k-10k),6800.0,-0.18229212556247212
+1386,Mehwish Mirza,Sialkot,Home & Kitchen,Water Bottle,2,650,JazzCash,Shipped,2023-05-16,4.0,1300,2023,5,May,Q2,2023-05,Tuesday,Mid (500-2k),1300.0,-0.30402780661671425
+1101,Saima Sheikh,Gujranwala,Books & Stationery,English Grammar,3,900,Bank Transfer,Shipped,2023-12-13,4.0,2700,2023,12,December,Q4,2023-12,Wednesday,Mid (500-2k),2700.0,-0.27304054234836167
+1453,Sara Iqbal,Quetta,Food & Grocery,Ghee 1Kg,4,650,Credit Card,Delivered,2024-02-12,4.0,2600,2024,2,February,Q1,2024-02,Monday,Mid (500-2k),2600.0,-0.2752539183675297
+1043,Amna Khan,Faisalabad,Books & Stationery,Notebook Pack,4,350,Credit Card,Shipped,2024-04-21,5.0,1400,2024,4,April,Q2,2024-04,Sunday,Budget (<500),1400.0,-0.3018144305975462
+1411,Saima Baig,Multan,Books & Stationery,Mathematics Book,2,650,JazzCash,Cancelled,2024-04-18,5.0,1300,2024,4,April,Q2,2024-04,Thursday,Mid (500-2k),1300.0,-0.30402780661671425
+1111,Sara Chaudhry,Karachi,Food & Grocery,Tea 500G,5,350,Cash on Delivery,Cancelled,2024-04-04,5.0,1750,2024,4,April,Q2,2024-04,Thursday,Budget (<500),1750.0,-0.29406761453045804
+1115,Maryam Butt,Faisalabad,Toys,Coloring Book,1,350,Cash on Delivery,Returned,2023-08-09,5.0,350,2023,8,August,Q3,2023-08,Wednesday,Budget (<500),350.0,-0.3250548787988106
+1440,Usman Qureshi,Multan,Clothing,Kurta,5,1750,Cash on Delivery,Returned,2023-09-21,,8750,2023,9,September,Q3,2023-09,Thursday,Mid (500-2k),8750.0,-0.13913129318869535
+1470,Omar Mirza,Karachi,Food & Grocery,Basmati Rice 5Kg,5,1150,Cash on Delivery,Shipped,2023-10-03,4.0,5750,2023,10,October,Q4,2023-10,Tuesday,Mid (500-2k),5750.0,-0.20553257376373651
+1471,Waqas Hussain,Karachi,Home & Kitchen,Non-Stick Pan,2,2100,EasyPaisa,Shipped,2024-03-06,5.0,4200,2024,3,March,Q1,2024-03,Wednesday,Premium (2k-10k),4200.0,-0.23983990206084113
+1062,Sara Butt,Faisalabad,Toys,Toy Kitchen,4,2250,Credit Card,Shipped,2023-11-27,4.0,9000,2023,11,November,Q4,2023-11,Monday,Premium (2k-10k),9000.0,-0.13359785314077527
+1260,Asad Sheikh,Islamabad,Food & Grocery,Spices Pack,3,250,JazzCash,Cancelled,2023-02-24,5.0,750,2023,2,February,Q1,2023-02,Friday,Budget (<500),750.0,-0.31620137472213844
+1394,Ahmed Mirza,Quetta,Food & Grocery,Basmati Rice 5Kg,2,1250,Credit Card,Delivered,2023-11-05,5.0,2500,2023,11,November,Q4,2023-11,Sunday,Mid (500-2k),2500.0,-0.27746729438669776
+1005,Hassan Sheikh,Faisalabad,Health & Beauty,Moisturizer,1,650,EasyPaisa,Shipped,2023-03-23,4.0,650,2023,3,March,Q1,2023-03,Thursday,Mid (500-2k),650.0,-0.3184147507413065
+1324,Asad Qureshi,Gujranwala,Sports,Badminton Set,1,1750,EasyPaisa,Delivered,2024-02-24,,1750,2024,2,February,Q1,2024-02,Saturday,Mid (500-2k),1750.0,-0.29406761453045804
+1118,Nimra Ansari,Islamabad,Electronics,Power Bank,1,3150,Debit Card,Processing,2023-02-22,5.0,3150,2023,2,February,Q1,2023-02,Wednesday,Premium (2k-10k),3150.0,-0.2630803502621055
+1123,Adnan Farooq,Gujranwala,Clothing,Shalwar Kameez,2,2700,Credit Card,Delivered,2023-03-25,5.0,5400,2023,3,March,Q1,2023-03,Saturday,Premium (2k-10k),5400.0,-0.21327938983082464
+1087,Usman Iqbal,Peshawar,Books & Stationery,Ielts Guide,3,1850,Credit Card,Cancelled,2023-06-02,5.0,5550,2023,6,June,Q2,2023-06,Friday,Mid (500-2k),5550.0,-0.2099593258020726
+1201,Nadia Hussain,Faisalabad,Health & Beauty,Vitamin C,5,950,Cash on Delivery,Shipped,2024-01-04,4.0,4750,2024,1,January,Q1,2024-01,Thursday,Mid (500-2k),4750.0,-0.2276663339554169
+1370,Waqas Nawaz,Multan,Food & Grocery,Cooking Oil 5L,2,1850,Cash on Delivery,Delivered,2023-04-17,5.0,3700,2023,4,April,Q2,2023-04,Monday,Mid (500-2k),3700.0,-0.25090678215668133
+1112,Shahid Farooq,Lahore,Toys,Board Game,5,1450,Debit Card,Returned,2023-11-05,5.0,7250,2023,11,November,Q4,2023-11,Sunday,Mid (500-2k),7250.0,-0.17233193347621595
+1393,Nimra Butt,Lahore,Sports,Cricket Bat,4,4400,JazzCash,Delivered,2023-06-14,5.0,17600,2023,6,June,Q2,2023-06,Wednesday,Premium (2k-10k),17600.0,0.05675248450767605
+1102,Imran Ahmed,Gujranwala,Home & Kitchen,Electric Kettle,5,2750,Bank Transfer,Delivered,2023-09-28,,13750,2023,9,September,Q3,2023-09,Thursday,Premium (2k-10k),13750.0,-0.028462492230293433
+1493,Bilal Siddiqui,Karachi,Books & Stationery,Notebook Pack,2,350,Cash on Delivery,Shipped,2024-06-07,,700,2024,6,June,Q2,2024-06,Friday,Budget (<500),700.0,-0.31730806273172246
+1463,Uzma Chaudhry,Sialkot,Toys,Remote Car,5,2700,Credit Card,Cancelled,2024-03-21,,13500,2024,3,March,Q1,2024-03,Thursday,Premium (2k-10k),13500.0,-0.03399593227821353
+1030,Sobia Sheikh,Faisalabad,Clothing,Jacket,3,4350,Cash on Delivery,Returned,2023-06-09,5.0,13050,2023,6,June,Q2,2023-06,Friday,Premium (2k-10k),13050.0,-0.043956124364469704
+1277,Nadia Javed,Lahore,Clothing,Kurta,3,1800,JazzCash,Delivered,2024-01-27,4.0,5400,2024,1,January,Q1,2024-01,Saturday,Mid (500-2k),5400.0,-0.21327938983082464
+1216,Rabia Ali,Peshawar,Sports,Skipping Rope,4,450,JazzCash,Processing,2023-07-08,,1800,2023,7,July,Q3,2023-07,Saturday,Budget (<500),1800.0,-0.292960926520874
+1380,Sana Siddiqui,Sialkot,Health & Beauty,Shampoo,1,550,Bank Transfer,Delivered,2024-02-24,4.0,550,2024,2,February,Q1,2024-02,Saturday,Mid (500-2k),550.0,-0.32062812676047453
+1227,Waqas Malik,Karachi,Home & Kitchen,Iron,3,3350,Debit Card,Cancelled,2024-05-14,3.0,10050,2024,5,May,Q2,2024-05,Tuesday,Premium (2k-10k),10050.0,-0.11035740493951086
+1202,Fatima Raza,Quetta,Books & Stationery,English Grammar,4,850,Debit Card,Shipped,2023-05-01,5.0,3400,2023,5,May,Q2,2023-05,Monday,Mid (500-2k),3400.0,-0.2575469102141854
+1498,Ayesha Butt,Karachi,Health & Beauty,Sunscreen Spf50,3,850,EasyPaisa,Delivered,2023-02-21,5.0,2550,2023,2,February,Q1,2023-02,Tuesday,Mid (500-2k),2550.0,-0.27636060637711374
+1066,Saima Khan,Lahore,Books & Stationery,Notebook Pack,4,350,JazzCash,Shipped,2024-04-29,,1400,2024,4,April,Q2,2024-04,Monday,Budget (<500),1400.0,-0.3018144305975462
+1052,Omar Iqbal,Multan,Electronics,Smart Watch,4,11400,JazzCash,Shipped,2024-02-04,5.0,45600,2024,2,February,Q1,2024-02,Sunday,Luxury (10k+),22237.5,0.6764977698747268
+1271,Mehwish Ahmed,Sialkot,Sports,Gym Gloves,4,1000,Bank Transfer,Shipped,2023-11-27,5.0,4000,2023,11,November,Q4,2023-11,Monday,Mid (500-2k),4000.0,-0.2442666540991772
+1433,Adnan Javed,Islamabad,Clothing,Jeans,4,3300,EasyPaisa,Delivered,2023-08-08,,13200,2023,8,August,Q3,2023-08,Tuesday,Premium (2k-10k),13200.0,-0.04063606033571764
+1343,Nimra Ahmed,Faisalabad,Electronics,Smart Watch,1,11600,Credit Card,Delivered,2023-08-15,4.0,11600,2023,8,August,Q3,2023-08,Tuesday,Luxury (10k+),11600.0,-0.07605007664240626
+1270,Unknown,Quetta,Toys,Action Figure,5,650,Debit Card,Delivered,2024-04-14,5.0,3250,2024,4,April,Q2,2024-04,Sunday,Mid (500-2k),3250.0,-0.2608669742429375
+1338,Ayesha Hussain,Peshawar,Books & Stationery,Urdu Novel,5,450,EasyPaisa,Cancelled,2023-08-05,5.0,2250,2023,8,August,Q3,2023-08,Saturday,Budget (<500),2250.0,-0.2830007344346179
+1012,Zara Siddiqui,Multan,Food & Grocery,Spices Pack,1,250,Debit Card,Shipped,2024-05-27,4.0,250,2024,5,May,Q2,2024-05,Monday,Budget (<500),250.0,-0.32726825481797867
+1349,Usman Iqbal,Multan,Sports,Cricket Bat,5,4600,Credit Card,Delivered,2023-12-18,4.0,23000,2023,12,December,Q4,2023-12,Monday,Premium (2k-10k),22237.5,0.17627478954275014
+1331,Rabia Siddiqui,Lahore,Sports,Cricket Bat,5,4550,Credit Card,Delivered,2023-05-04,5.0,22750,2023,5,May,Q2,2023-05,Thursday,Premium (2k-10k),22237.5,0.17074134949483005
+1444,Uzma Qureshi,Quetta,Health & Beauty,Multivitamin,2,1250,JazzCash,Delivered,2023-07-14,5.0,2500,2023,7,July,Q3,2023-07,Friday,Mid (500-2k),2500.0,-0.27746729438669776
+1284,Saima Javed,Sialkot,Books & Stationery,Urdu Novel,4,450,Cash on Delivery,Returned,2023-06-06,5.0,1800,2023,6,June,Q2,2023-06,Tuesday,Budget (<500),1800.0,-0.292960926520874
+1120,Sana Raza,Faisalabad,Home & Kitchen,Electric Kettle,5,2950,Credit Card,Returned,2023-01-27,5.0,14750,2023,1,January,Q1,2023-01,Friday,Premium (2k-10k),14750.0,-0.006328732038613048
+1407,Omar Ansari,Rawalpindi,Sports,Badminton Set,2,1750,Credit Card,Shipped,2023-07-18,4.0,3500,2023,7,July,Q3,2023-07,Tuesday,Mid (500-2k),3500.0,-0.25533353419501736
+9070,Imran Mirza,Islamabad,Electronics,Charger,4,750,Cash on Delivery,Processing,2023-11-06,4.0,3000,2023,11,November,Q4,2023-11,Monday,Mid (500-2k),3000.0,-0.2664004142908576
+1001,Asad Raza,Karachi,Books & Stationery,Notebook Pack,2,350,Cash on Delivery,Returned,2023-03-31,5.0,700,2023,3,March,Q1,2023-03,Friday,Budget (<500),700.0,-0.31730806273172246
+1050,Imran Ahmed,Faisalabad,Home & Kitchen,Storage Box,3,850,Credit Card,Delivered,2023-05-22,4.0,2550,2023,5,May,Q2,2023-05,Monday,Mid (500-2k),2550.0,-0.27636060637711374
+1207,Bilal Butt,Multan,Toys,Lego Set,5,3200,JazzCash,Delivered,2024-02-10,5.0,16000,2024,2,February,Q1,2024-02,Saturday,Premium (2k-10k),16000.0,0.021338468200987434
+1060,Waqas Siddiqui,Gujranwala,Clothing,Shalwar Kameez,3,2800,Debit Card,Shipped,2023-03-12,,8400,2023,3,March,Q1,2023-03,Sunday,Premium (2k-10k),8400.0,-0.14687810925578348
+1480,Junaid Ali,Quetta,Toys,Puzzle 500Pc,5,950,EasyPaisa,Delivered,2023-12-23,5.0,4750,2023,12,December,Q4,2023-12,Saturday,Mid (500-2k),4750.0,-0.2276663339554169
+1307,Omar Qureshi,Faisalabad,Books & Stationery,Atlas,2,950,Credit Card,Delivered,2023-10-30,5.0,1900,2023,10,October,Q4,2023-10,Monday,Mid (500-2k),1900.0,-0.29074755050170603
+1377,Imran Mirza,Islamabad,Toys,Lego Set,1,3150,Cash on Delivery,Returned,2023-01-01,4.0,3150,2023,1,January,Q1,2023-01,Sunday,Premium (2k-10k),3150.0,-0.2630803502621055
+1330,Saima Sheikh,Multan,Home & Kitchen,Pressure Cooker,4,4950,Bank Transfer,Returned,2024-05-01,4.0,19800,2024,5,May,Q2,2024-05,Wednesday,Premium (2k-10k),19800.0,0.1054467569293729
+1189,Amna Ansari,Faisalabad,Toys,Board Game,2,1450,JazzCash,Delivered,2023-11-01,5.0,2900,2023,11,November,Q4,2023-11,Wednesday,Mid (500-2k),2900.0,-0.26861379031002564
+1134,Imran Hussain,Karachi,Electronics,Power Bank,3,3050,Cash on Delivery,Returned,2024-01-29,5.0,9150,2024,1,January,Q1,2024-01,Monday,Premium (2k-10k),9150.0,-0.1302777891120232
+1128,Uzma Ahmed,Peshawar,Sports,Sports Shoes,4,5400,Bank Transfer,Delivered,2023-11-29,4.0,21600,2023,11,November,Q4,2023-11,Wednesday,Premium (2k-10k),21600.0,0.1452875252743976
+1145,Mehwish Chaudhry,Karachi,Toys,Action Figure,5,700,Debit Card,Returned,2023-05-08,5.0,3500,2023,5,May,Q2,2023-05,Monday,Mid (500-2k),3500.0,-0.25533353419501736
+1285,Hassan Siddiqui,Lahore,Home & Kitchen,Dinner Set,5,6400,Credit Card,Delivered,2023-11-14,5.0,32000,2023,11,November,Q4,2023-11,Tuesday,Premium (2k-10k),22237.5,0.37547863126787356
+1385,Kamran Siddiqui,Quetta,Food & Grocery,Flour 10Kg,4,950,Debit Card,Returned,2023-11-03,,3800,2023,11,November,Q4,2023-11,Friday,Mid (500-2k),3800.0,-0.24869340613751328
+1384,Tariq Hashmi,Gujranwala,Health & Beauty,Hair Oil,4,400,Debit Card,Delivered,2023-10-08,5.0,1600,2023,10,October,Q4,2023-10,Sunday,Budget (<500),1600.0,-0.2973876785592101
+1490,Amna Javed,Sialkot,Health & Beauty,Sunscreen Spf50,5,900,Bank Transfer,Shipped,2023-11-19,,4500,2023,11,November,Q4,2023-11,Sunday,Mid (500-2k),4500.0,-0.233199774003337
+1247,Bilal Siddiqui,Peshawar,Books & Stationery,English Grammar,4,850,Cash on Delivery,Cancelled,2024-05-05,5.0,3400,2024,5,May,Q2,2024-05,Sunday,Mid (500-2k),3400.0,-0.2575469102141854
+1198,Mehwish Butt,Quetta,Books & Stationery,Notebook Pack,1,350,Debit Card,Cancelled,2023-09-21,4.0,350,2023,9,September,Q3,2023-09,Thursday,Budget (<500),350.0,-0.3250548787988106
+1067,Shahid Ansari,Multan,Health & Beauty,Multivitamin,4,1150,JazzCash,Delivered,2023-05-04,4.0,4600,2023,5,May,Q2,2023-05,Thursday,Mid (500-2k),4600.0,-0.23098639798416895
+1299,Unknown,Multan,Health & Beauty,Multivitamin,4,1150,Cash on Delivery,Delivered,2023-05-20,4.0,4600,2023,5,May,Q2,2023-05,Saturday,Mid (500-2k),4600.0,-0.23098639798416895
+1341,Imran Ali,Peshawar,Home & Kitchen,Storage Box,3,900,Credit Card,Processing,2023-05-07,3.0,2700,2023,5,May,Q2,2023-05,Sunday,Mid (500-2k),2700.0,-0.27304054234836167
+1213,Maryam Khan,Rawalpindi,Home & Kitchen,Non-Stick Pan,1,2200,Bank Transfer,Delivered,2023-09-08,3.0,2200,2023,9,September,Q3,2023-09,Friday,Premium (2k-10k),2200.0,-0.2841074224442019
+1074,Adnan Shah,Rawalpindi,Books & Stationery,Css Notes,2,2150,Credit Card,Delivered,2023-06-10,3.0,4300,2023,6,June,Q2,2023-06,Saturday,Premium (2k-10k),4300.0,-0.2376265260416731
+1181,Usman Hashmi,Gujranwala,Clothing,Jacket,1,4450,JazzCash,Returned,2024-01-10,4.0,4450,2024,1,January,Q1,2024-01,Wednesday,Premium (2k-10k),4450.0,-0.23430646201292102
+1412,Sana Siddiqui,Quetta,Clothing,Jacket,5,4300,JazzCash,Delivered,2023-07-21,5.0,21500,2023,7,July,Q3,2023-07,Friday,Premium (2k-10k),21500.0,0.14307414925522954
+1177,Rizwan Mirza,Gujranwala,Health & Beauty,Moisturizer,2,700,Credit Card,Cancelled,2024-05-25,5.0,1400,2024,5,May,Q2,2024-05,Saturday,Mid (500-2k),1400.0,-0.3018144305975462
+1494,Faisal Farooq,Islamabad,Clothing,Shalwar Kameez,4,2750,EasyPaisa,Shipped,2024-01-11,4.0,11000,2024,1,January,Q1,2024-01,Thursday,Premium (2k-10k),11000.0,-0.08933033275741449
+1408,Sara Farooq,Karachi,Toys,Doll,3,850,JazzCash,Delivered,2023-07-22,5.0,2550,2023,7,July,Q3,2023-07,Saturday,Mid (500-2k),2550.0,-0.27636060637711374
+1136,Zara Mirza,Lahore,Food & Grocery,Basmati Rice 5Kg,2,1200,Bank Transfer,Returned,2024-06-19,4.0,2400,2024,6,June,Q2,2024-06,Wednesday,Mid (500-2k),2400.0,-0.2796806704058658
+1162,Faisal Ali,Gujranwala,Food & Grocery,Spices Pack,3,250,Cash on Delivery,Delivered,2024-06-26,5.0,750,2024,6,June,Q2,2024-06,Wednesday,Budget (<500),750.0,-0.31620137472213844
+1187,Imran Mirza,Multan,Food & Grocery,Tea 500G,2,400,Credit Card,Cancelled,2023-03-05,4.0,800,2023,3,March,Q1,2023-03,Sunday,Budget (<500),800.0,-0.3150946867125544
+1228,Ahmed Sheikh,Sialkot,Sports,Cricket Bat,1,4500,JazzCash,Returned,2023-10-21,3.0,4500,2023,10,October,Q4,2023-10,Saturday,Premium (2k-10k),4500.0,-0.233199774003337
+1239,Sara Iqbal,Quetta,Sports,Football,1,2100,Credit Card,Delivered,2023-11-29,5.0,2100,2023,11,November,Q4,2023-11,Wednesday,Premium (2k-10k),2100.0,-0.28632079846336994
+1457,Asad Mirza,Multan,Sports,Football,1,2150,EasyPaisa,Shipped,2023-11-21,5.0,2150,2023,11,November,Q4,2023-11,Tuesday,Premium (2k-10k),2150.0,-0.2852141104537859
+1354,Hina Farooq,Quetta,Food & Grocery,Ghee 1Kg,2,700,Bank Transfer,Shipped,2023-07-01,5.0,1400,2023,7,July,Q3,2023-07,Saturday,Mid (500-2k),1400.0,-0.3018144305975462
+1218,Shahid Malik,Multan,Home & Kitchen,Storage Box,2,850,Cash on Delivery,Cancelled,2024-01-15,4.0,1700,2024,1,January,Q1,2024-01,Monday,Mid (500-2k),1700.0,-0.29517430254004207
+1179,Rabia Hashmi,Quetta,Books & Stationery,Ielts Guide,1,1800,JazzCash,Shipped,2024-02-17,5.0,1800,2024,2,February,Q1,2024-02,Saturday,Mid (500-2k),1800.0,-0.292960926520874
+1054,Sobia Javed,Islamabad,Toys,Remote Car,5,2800,Bank Transfer,Delivered,2023-03-27,5.0,14000,2023,3,March,Q1,2023-03,Monday,Premium (2k-10k),14000.0,-0.022929052182373337
+1200,Hassan Javed,Lahore,Food & Grocery,Flour 10Kg,4,950,EasyPaisa,Delivered,2023-09-25,5.0,3800,2023,9,September,Q3,2023-09,Monday,Mid (500-2k),3800.0,-0.24869340613751328
+1483,Sobia Sheikh,Multan,Home & Kitchen,Iron,5,3400,JazzCash,Shipped,2024-02-24,5.0,17000,2024,2,February,Q1,2024-02,Saturday,Premium (2k-10k),17000.0,0.043472228392667824
+1135,Faisal Sheikh,Karachi,Toys,Board Game,3,1500,Credit Card,Delivered,2023-03-05,5.0,4500,2023,3,March,Q1,2023-03,Sunday,Mid (500-2k),4500.0,-0.233199774003337
+1401,Amna Iqbal,Lahore,Food & Grocery,Basmati Rice 5Kg,4,1250,Cash on Delivery,Delivered,2023-03-17,3.0,5000,2023,3,March,Q1,2023-03,Friday,Mid (500-2k),5000.0,-0.2221328939074968
+1413,Nimra Ahmed,Lahore,Electronics,Laptop,5,85650,Credit Card,Delivered,2023-02-07,,428250,2023,2,February,Q1,2023-02,Tuesday,Luxury (10k+),22237.5,9.145981107221226
+1366,Rizwan Farooq,Quetta,Food & Grocery,Cooking Oil 5L,5,1700,Debit Card,Delivered,2023-09-20,4.0,8500,2023,9,September,Q3,2023-09,Wednesday,Mid (500-2k),8500.0,-0.14466473323661547
+1032,Rizwan Chaudhry,Karachi,Electronics,Power Bank,2,3250,JazzCash,Delivered,2024-03-28,,6500,2024,3,March,Q1,2024-03,Thursday,Premium (2k-10k),6500.0,-0.18893225361997623
+1459,Sara Qureshi,Karachi,Food & Grocery,Daal Masoor 1Kg,3,450,Debit Card,Delivered,2023-08-04,4.0,1350,2023,8,August,Q3,2023-08,Friday,Budget (<500),1350.0,-0.3029211186071302
+1121,Ahmed Qureshi,Faisalabad,Books & Stationery,Mathematics Book,3,600,EasyPaisa,Processing,2023-03-13,4.0,1800,2023,3,March,Q1,2023-03,Monday,Mid (500-2k),1800.0,-0.292960926520874
+1289,Waqas Farooq,Lahore,Toys,Toy Kitchen,5,2150,Bank Transfer,Delivered,2024-01-12,4.0,10750,2024,1,January,Q1,2024-01,Friday,Premium (2k-10k),10750.0,-0.09486377280533459
+1396,Sara Iqbal,Sialkot,Sports,Football,3,2150,EasyPaisa,Shipped,2023-12-06,5.0,6450,2023,12,December,Q4,2023-12,Wednesday,Premium (2k-10k),6450.0,-0.19003894162956025
+1437,Fatima Hashmi,Sialkot,Home & Kitchen,Dinner Set,1,6400,Debit Card,Delivered,2023-06-11,4.0,6400,2023,6,June,Q2,2023-06,Sunday,Premium (2k-10k),6400.0,-0.19114562963914428
+1110,Bilal Sheikh,Faisalabad,Food & Grocery,Cooking Oil 5L,1,1750,JazzCash,Delivered,2023-11-28,3.0,1750,2023,11,November,Q4,2023-11,Tuesday,Mid (500-2k),1750.0,-0.29406761453045804
+1296,Kamran Khan,Multan,Books & Stationery,Css Notes,2,2200,EasyPaisa,Processing,2024-05-18,3.0,4400,2024,5,May,Q2,2024-05,Saturday,Premium (2k-10k),4400.0,-0.23541315002250504
+1018,Junaid Ali,Peshawar,Clothing,Jeans,3,3250,EasyPaisa,Returned,2023-05-16,5.0,9750,2023,5,May,Q2,2023-05,Tuesday,Premium (2k-10k),9750.0,-0.11699753299701497
+1406,Mehwish Sheikh,Islamabad,Clothing,Shalwar Kameez,1,2800,Bank Transfer,Returned,2023-03-29,5.0,2800,2023,3,March,Q1,2023-03,Wednesday,Premium (2k-10k),2800.0,-0.2708271663291937
+1345,Usman Hashmi,Faisalabad,Books & Stationery,Urdu Novel,4,450,Bank Transfer,Shipped,2023-08-12,5.0,1800,2023,8,August,Q3,2023-08,Saturday,Budget (<500),1800.0,-0.292960926520874
+1328,Junaid Chaudhry,Lahore,Sports,Badminton Set,3,1850,JazzCash,Delivered,2024-04-01,3.0,5550,2024,4,April,Q2,2024-04,Monday,Mid (500-2k),5550.0,-0.2099593258020726
+1083,Fatima Shah,Sialkot,Health & Beauty,Sanitizer 500Ml,4,350,EasyPaisa,Shipped,2023-05-15,5.0,1400,2023,5,May,Q2,2023-05,Monday,Budget (<500),1400.0,-0.3018144305975462
+1360,Uzma Javed,Karachi,Home & Kitchen,Water Bottle,2,650,Cash on Delivery,Returned,2023-06-23,4.0,1300,2023,6,June,Q2,2023-06,Friday,Mid (500-2k),1300.0,-0.30402780661671425
+1301,Ayesha Hussain,Faisalabad,Clothing,Kurta,2,1850,JazzCash,Delivered,2023-08-09,5.0,3700,2023,8,August,Q3,2023-08,Wednesday,Mid (500-2k),3700.0,-0.25090678215668133
+1024,Omar Siddiqui,Rawalpindi,Electronics,Laptop,3,81250,Credit Card,Cancelled,2024-05-29,,243750,2024,5,May,Q2,2024-05,Wednesday,Luxury (10k+),22237.5,5.062302351856196
+1402,Sara Chaudhry,Sialkot,Clothing,Jeans,3,3150,Bank Transfer,Processing,2024-03-19,5.0,9450,2024,3,March,Q1,2024-03,Tuesday,Premium (2k-10k),9450.0,-0.1236376610545191
+1281,Omar Butt,Gujranwala,Home & Kitchen,Electric Kettle,3,2850,EasyPaisa,Cancelled,2024-01-31,4.0,8550,2024,1,January,Q1,2024-01,Wednesday,Premium (2k-10k),8550.0,-0.14355804522703144
+1149,Maryam Khan,Lahore,Electronics,Charger,2,850,Credit Card,Returned,2024-03-09,4.0,1700,2024,3,March,Q1,2024-03,Saturday,Mid (500-2k),1700.0,-0.29517430254004207
+1496,Sara Nawaz,Gujranwala,Clothing,T-Shirt,1,1250,Credit Card,Processing,2023-03-22,3.0,1250,2023,3,March,Q1,2023-03,Wednesday,Mid (500-2k),1250.0,-0.30513449462629827
+1339,Nimra Nawaz,Sialkot,Health & Beauty,Face Wash,5,500,Cash on Delivery,Shipped,2024-06-02,5.0,2500,2024,6,June,Q2,2024-06,Sunday,Budget (<500),2500.0,-0.27746729438669776
+1144,Sana Farooq,Quetta,Toys,Puzzle 500Pc,4,950,Bank Transfer,Delivered,2023-07-24,4.0,3800,2023,7,July,Q3,2023-07,Monday,Mid (500-2k),3800.0,-0.24869340613751328
+1322,Sara Hussain,Lahore,Electronics,Charger,1,800,Cash on Delivery,Delivered,2023-12-17,4.0,800,2023,12,December,Q4,2023-12,Sunday,Mid (500-2k),800.0,-0.3150946867125544
+1340,Unknown,Gujranwala,Electronics,Tablet,2,33200,EasyPaisa,Delivered,2023-09-13,3.0,66400,2023,9,September,Q3,2023-09,Wednesday,Luxury (10k+),22237.5,1.1368799818616788
+1153,Mehwish Nawaz,Karachi,Sports,Skipping Rope,3,450,JazzCash,Delivered,2023-12-20,4.0,1350,2023,12,December,Q4,2023-12,Wednesday,Budget (<500),1350.0,-0.3029211186071302
+1180,Fatima Javed,Karachi,Home & Kitchen,Blender,5,3700,Bank Transfer,Returned,2024-04-06,,18500,2024,4,April,Q2,2024-04,Saturday,Premium (2k-10k),18500.0,0.0766728686801884
+1178,Rabia Khan,Lahore,Sports,Protein Powder,2,4650,JazzCash,Delivered,2023-02-21,5.0,9300,2023,2,February,Q1,2023-02,Tuesday,Premium (2k-10k),9300.0,-0.12695772508327116
+1170,Ayesha Qureshi,Islamabad,Health & Beauty,Moisturizer,3,700,Credit Card,Shipped,2023-03-22,5.0,2100,2023,3,March,Q1,2023-03,Wednesday,Mid (500-2k),2100.0,-0.28632079846336994
+1157,Mehwish Ali,Peshawar,Books & Stationery,Css Notes,3,2200,Bank Transfer,Cancelled,2024-01-31,5.0,6600,2024,1,January,Q1,2024-01,Wednesday,Premium (2k-10k),6600.0,-0.1867188776008082
+1332,Sara Qureshi,Rawalpindi,Home & Kitchen,Dinner Set,1,6450,Debit Card,Processing,2023-07-26,4.0,6450,2023,7,July,Q3,2023-07,Wednesday,Premium (2k-10k),6450.0,-0.19003894162956025
+1173,Maryam Khan,Quetta,Books & Stationery,Pens Box,4,250,Debit Card,Processing,2023-11-01,5.0,1000,2023,11,November,Q4,2023-11,Wednesday,Budget (<500),1000.0,-0.3106679346742183
+1042,Waqas Siddiqui,Sialkot,Food & Grocery,Daal Masoor 1Kg,4,450,Bank Transfer,Delivered,2023-11-05,5.0,1800,2023,11,November,Q4,2023-11,Sunday,Budget (<500),1800.0,-0.292960926520874
+1046,Junaid Farooq,Islamabad,Sports,Protein Powder,4,4700,Debit Card,Delivered,2023-04-20,5.0,18800,2023,4,April,Q2,2023-04,Thursday,Premium (2k-10k),18800.0,0.08331299673769252
+1259,Waqas Malik,Sialkot,Sports,Sports Shoes,5,5300,Bank Transfer,Processing,2023-07-10,5.0,26500,2023,7,July,Q3,2023-07,Monday,Premium (2k-10k),22237.5,0.25374295021363147
+1334,Shahid Hussain,Islamabad,Sports,Football,4,2100,Credit Card,Delivered,2023-04-19,4.0,8400,2023,4,April,Q2,2023-04,Wednesday,Premium (2k-10k),8400.0,-0.14687810925578348
+1318,Sara Khan,Gujranwala,Sports,Cricket Bat,2,4550,Credit Card,Delivered,2023-04-17,5.0,9100,2023,4,April,Q2,2023-04,Monday,Premium (2k-10k),9100.0,-0.13138447712160722
+1295,Faisal Nawaz,Gujranwala,Home & Kitchen,Dinner Set,1,6800,Cash on Delivery,Delivered,2023-12-21,3.0,6800,2023,12,December,Q4,2023-12,Thursday,Premium (2k-10k),6800.0,-0.18229212556247212
+1236,Asad Chaudhry,Quetta,Toys,Board Game,3,1500,Bank Transfer,Processing,2023-07-10,5.0,4500,2023,7,July,Q3,2023-07,Monday,Mid (500-2k),4500.0,-0.233199774003337
+1085,Nadia Raza,Quetta,Clothing,Jacket,4,4700,JazzCash,Returned,2023-10-07,5.0,18800,2023,10,October,Q4,2023-10,Saturday,Premium (2k-10k),18800.0,0.08331299673769252
+1424,Sara Baig,Multan,Food & Grocery,Flour 10Kg,5,950,JazzCash,Delivered,2023-12-17,5.0,4750,2023,12,December,Q4,2023-12,Sunday,Mid (500-2k),4750.0,-0.2276663339554169
+1155,Asad Qureshi,Islamabad,Clothing,Shawl,1,1450,Cash on Delivery,Delivered,2023-02-12,5.0,1450,2023,2,February,Q1,2023-02,Sunday,Mid (500-2k),1450.0,-0.3007077425879622
+1350,Sobia Sheikh,Quetta,Health & Beauty,Vitamin C,2,1000,Credit Card,Delivered,2023-10-28,4.0,2000,2023,10,October,Q4,2023-10,Saturday,Mid (500-2k),2000.0,-0.288534174482538
+1297,Bilal Chaudhry,Lahore,Electronics,Headphones,5,4450,JazzCash,Cancelled,2023-03-28,4.0,22250,2023,3,March,Q1,2023-03,Tuesday,Premium (2k-10k),22237.5,0.15967446939898985
+1171,Omar Sheikh,Faisalabad,Food & Grocery,Sugar 5Kg,5,550,Credit Card,Delivered,2023-06-07,4.0,2750,2023,6,June,Q2,2023-06,Wednesday,Mid (500-2k),2750.0,-0.2719338543387777
+1009,Tariq Hussain,Islamabad,Books & Stationery,English Grammar,2,850,Credit Card,Shipped,2024-03-14,5.0,1700,2024,3,March,Q1,2024-03,Thursday,Mid (500-2k),1700.0,-0.29517430254004207
+1376,Amna Javed,Multan,Home & Kitchen,Non-Stick Pan,4,2200,Credit Card,Cancelled,2023-04-01,5.0,8800,2023,4,April,Q2,2023-04,Saturday,Premium (2k-10k),8800.0,-0.13802460517911133
+1038,Usman Ahmed,Faisalabad,Health & Beauty,Hair Oil,5,350,Cash on Delivery,Delivered,2023-09-25,4.0,1750,2023,9,September,Q3,2023-09,Monday,Budget (<500),1750.0,-0.29406761453045804
+1010,Sana Baig,Islamabad,Toys,Doll,1,900,EasyPaisa,Delivered,2024-03-08,4.0,900,2024,3,March,Q1,2024-03,Friday,Mid (500-2k),900.0,-0.31288131069338637
+1090,Bilal Butt,Gujranwala,Health & Beauty,Shampoo,4,500,Bank Transfer,Delivered,2023-05-28,5.0,2000,2023,5,May,Q2,2023-05,Sunday,Budget (<500),2000.0,-0.288534174482538
+1168,Ayesha Javed,Quetta,Sports,Sports Shoes,5,5250,JazzCash,Delivered,2024-04-05,5.0,26250,2024,4,April,Q2,2024-04,Friday,Premium (2k-10k),22237.5,0.24820951016571138
+1015,Rizwan Ahmed,Sialkot,Food & Grocery,Flour 10Kg,4,1000,EasyPaisa,Shipped,2024-06-24,5.0,4000,2024,6,June,Q2,2024-06,Monday,Mid (500-2k),4000.0,-0.2442666540991772
+1076,Sobia Baig,Faisalabad,Home & Kitchen,Electric Kettle,1,2800,Debit Card,Delivered,2023-09-30,4.0,2800,2023,9,September,Q3,2023-09,Saturday,Premium (2k-10k),2800.0,-0.2708271663291937
+1404,Ayesha Siddiqui,Gujranwala,Clothing,T-Shirt,4,1200,Debit Card,Delivered,2024-04-30,4.0,4800,2024,4,April,Q2,2024-04,Tuesday,Mid (500-2k),4800.0,-0.2265596459458329
+1346,Ayesha Butt,Gujranwala,Sports,Football,1,2200,Debit Card,Shipped,2023-10-17,5.0,2200,2023,10,October,Q4,2023-10,Tuesday,Premium (2k-10k),2200.0,-0.2841074224442019
+1107,Nadia Ansari,Lahore,Health & Beauty,Multivitamin,1,1200,EasyPaisa,Delivered,2024-04-10,4.0,1200,2024,4,April,Q2,2024-04,Wednesday,Mid (500-2k),1200.0,-0.3062411826358823
+1143,Hina Ansari,Rawalpindi,Toys,Puzzle 500Pc,4,900,EasyPaisa,Shipped,2024-04-25,4.0,3600,2024,4,April,Q2,2024-04,Thursday,Mid (500-2k),3600.0,-0.2531201581758494
+1355,Asad Ali,Karachi,Toys,Puzzle 500Pc,2,950,EasyPaisa,Delivered,2024-05-16,4.0,1900,2024,5,May,Q2,2024-05,Thursday,Mid (500-2k),1900.0,-0.29074755050170603
+1004,Hassan Javed,Lahore,Health & Beauty,Multivitamin,5,1150,Cash on Delivery,Cancelled,2023-05-08,5.0,5750,2023,5,May,Q2,2023-05,Monday,Mid (500-2k),5750.0,-0.20553257376373651
+1415,Shahid Butt,Lahore,Sports,Skipping Rope,5,450,EasyPaisa,Delivered,2024-06-10,4.0,2250,2024,6,June,Q2,2024-06,Monday,Budget (<500),2250.0,-0.2830007344346179
+1475,Tariq Siddiqui,Peshawar,Food & Grocery,Basmati Rice 5Kg,5,1200,JazzCash,Cancelled,2023-11-02,4.0,6000,2023,11,November,Q4,2023-11,Thursday,Mid (500-2k),6000.0,-0.19999913371581643
+1465,Hina Chaudhry,Islamabad,Books & Stationery,Ielts Guide,1,1800,EasyPaisa,Shipped,2023-10-21,5.0,1800,2023,10,October,Q4,2023-10,Saturday,Mid (500-2k),1800.0,-0.292960926520874
+1313,Faisal Farooq,Islamabad,Home & Kitchen,Iron,5,3450,Bank Transfer,Delivered,2023-04-03,3.0,17250,2023,4,April,Q2,2023-04,Monday,Premium (2k-10k),17250.0,0.049005668440587916
+1244,Rizwan Hashmi,Islamabad,Books & Stationery,Mathematics Book,5,700,EasyPaisa,Cancelled,2023-11-18,4.0,3500,2023,11,November,Q4,2023-11,Saturday,Mid (500-2k),3500.0,-0.25533353419501736
+1122,Nimra Khan,Lahore,Home & Kitchen,Electric Kettle,4,2800,EasyPaisa,Shipped,2023-11-16,5.0,11200,2023,11,November,Q4,2023-11,Thursday,Premium (2k-10k),11200.0,-0.08490358071907841
+1253,Ayesha Ali,Lahore,Electronics,Power Bank,1,3250,EasyPaisa,Delivered,2024-06-12,4.0,3250,2024,6,June,Q2,2024-06,Wednesday,Premium (2k-10k),3250.0,-0.2608669742429375
+1003,Imran Farooq,Faisalabad,Electronics,Tablet,4,31500,EasyPaisa,Delivered,2023-12-11,4.0,126000,2023,12,December,Q4,2023-12,Monday,Luxury (10k+),22237.5,2.45605208928583
+1256,Adnan Ahmed,Gujranwala,Clothing,Jacket,3,4400,Bank Transfer,Delivered,2023-09-26,5.0,13200,2023,9,September,Q3,2023-09,Tuesday,Premium (2k-10k),13200.0,-0.04063606033571764
+1255,Tariq Khan,Gujranwala,Home & Kitchen,Iron,5,3500,Cash on Delivery,Delivered,2023-07-30,5.0,17500,2023,7,July,Q3,2023-07,Sunday,Premium (2k-10k),17500.0,0.054539108488508015
+1378,Saima Hashmi,Gujranwala,Books & Stationery,Notebook Pack,4,350,JazzCash,Delivered,2023-08-17,5.0,1400,2023,8,August,Q3,2023-08,Thursday,Budget (<500),1400.0,-0.3018144305975462
+1007,Maryam Qureshi,Sialkot,Home & Kitchen,Dinner Set,4,6400,Debit Card,Returned,2023-08-13,5.0,25600,2023,8,August,Q3,2023-08,Sunday,Premium (2k-10k),22237.5,0.23382256604111915
+1130,Hassan Javed,Faisalabad,Health & Beauty,Moisturizer,3,700,Cash on Delivery,Returned,2023-04-27,,2100,2023,4,April,Q2,2023-04,Thursday,Mid (500-2k),2100.0,-0.28632079846336994
+1002,Fatima Khan,Lahore,Home & Kitchen,Water Bottle,5,650,Credit Card,Delivered,2024-03-05,4.0,3250,2024,3,March,Q1,2024-03,Tuesday,Mid (500-2k),3250.0,-0.2608669742429375
+1482,Ahmed Butt,Multan,Food & Grocery,Basmati Rice 5Kg,5,1250,Credit Card,Delivered,2023-11-25,4.0,6250,2023,11,November,Q4,2023-11,Saturday,Mid (500-2k),6250.0,-0.19446569366789632
+1432,Hina Sheikh,Sialkot,Toys,Remote Car,3,2800,Bank Transfer,Shipped,2023-11-11,5.0,8400,2023,11,November,Q4,2023-11,Saturday,Premium (2k-10k),8400.0,-0.14687810925578348
+1455,Sana Ansari,Sialkot,Books & Stationery,Mathematics Book,1,650,JazzCash,Delivered,2023-06-28,5.0,650,2023,6,June,Q2,2023-06,Wednesday,Mid (500-2k),650.0,-0.3184147507413065
+1326,Fatima Ansari,Karachi,Sports,Football,3,2250,Debit Card,Cancelled,2023-07-24,4.0,6750,2023,7,July,Q3,2023-07,Monday,Premium (2k-10k),6750.0,-0.18339881357205615
+1148,Uzma Raza,Peshawar,Food & Grocery,Flour 10Kg,1,950,Bank Transfer,Delivered,2024-04-25,5.0,950,2024,4,April,Q2,2024-04,Thursday,Mid (500-2k),950.0,-0.31177462268380235
+1229,Shahid Iqbal,Islamabad,Clothing,Kurta,5,1750,EasyPaisa,Returned,2023-09-16,5.0,8750,2023,9,September,Q3,2023-09,Saturday,Mid (500-2k),8750.0,-0.13913129318869535
+1473,Hassan Sheikh,Quetta,Food & Grocery,Daal Masoor 1Kg,3,450,Cash on Delivery,Delivered,2023-09-12,5.0,1350,2023,9,September,Q3,2023-09,Tuesday,Budget (<500),1350.0,-0.3029211186071302
+1158,Sara Nawaz,Quetta,Health & Beauty,Vitamin C,1,950,Cash on Delivery,Processing,2023-07-04,,950,2023,7,July,Q3,2023-07,Tuesday,Mid (500-2k),950.0,-0.31177462268380235
+1215,Nadia Siddiqui,Islamabad,Home & Kitchen,Electric Kettle,3,2750,Credit Card,Delivered,2024-03-13,,8250,2024,3,March,Q1,2024-03,Wednesday,Premium (2k-10k),8250.0,-0.15019817328453555
+1027,Omar Mirza,Rawalpindi,Books & Stationery,Urdu Novel,2,450,JazzCash,Cancelled,2023-11-20,4.0,900,2023,11,November,Q4,2023-11,Monday,Budget (<500),900.0,-0.31288131069338637
+1317,Sara Sheikh,Gujranwala,Health & Beauty,Moisturizer,5,700,Bank Transfer,Shipped,2023-10-29,4.0,3500,2023,10,October,Q4,2023-10,Sunday,Mid (500-2k),3500.0,-0.25533353419501736
+1450,Usman Baig,Faisalabad,Toys,Action Figure,3,650,Bank Transfer,Delivered,2024-03-05,5.0,1950,2024,3,March,Q1,2024-03,Tuesday,Mid (500-2k),1950.0,-0.289640862492122
+1309,Asad Sheikh,Karachi,Sports,Skipping Rope,4,450,Bank Transfer,Shipped,2024-05-29,5.0,1800,2024,5,May,Q2,2024-05,Wednesday,Budget (<500),1800.0,-0.292960926520874
+1077,Hassan Ali,Islamabad,Books & Stationery,Pens Box,4,250,Debit Card,Shipped,2024-02-17,5.0,1000,2024,2,February,Q1,2024-02,Saturday,Budget (<500),1000.0,-0.3106679346742183
+1462,Bilal Butt,Islamabad,Electronics,Laptop,3,88050,JazzCash,Cancelled,2024-04-23,,264150,2024,4,April,Q2,2024-04,Tuesday,Luxury (10k+),22237.5,5.513831059766475
+1172,Sobia Hashmi,Gujranwala,Health & Beauty,Face Wash,1,450,Debit Card,Shipped,2023-08-04,5.0,450,2023,8,August,Q3,2023-08,Friday,Budget (<500),450.0,-0.3228415027796426
+1088,Unknown,Peshawar,Health & Beauty,Hair Oil,4,400,EasyPaisa,Delivered,2024-01-28,4.0,1600,2024,1,January,Q1,2024-01,Sunday,Budget (<500),1600.0,-0.2973876785592101
+1023,Unknown,Karachi,Sports,Yoga Mat,4,1750,Debit Card,Returned,2024-05-13,4.0,7000,2024,5,May,Q2,2024-05,Monday,Mid (500-2k),7000.0,-0.17786537352413603
+1372,Uzma Nawaz,Lahore,Sports,Protein Powder,1,4600,Debit Card,Shipped,2023-01-13,,4600,2023,1,January,Q1,2023-01,Friday,Premium (2k-10k),4600.0,-0.23098639798416895
+1282,Nadia Nawaz,Gujranwala,Clothing,Shalwar Kameez,3,2900,EasyPaisa,Processing,2024-03-06,5.0,8700,2024,3,March,Q1,2024-03,Wednesday,Premium (2k-10k),8700.0,-0.14023798119827938
+1194,Kamran Nawaz,Lahore,Food & Grocery,Basmati Rice 5Kg,5,1250,EasyPaisa,Processing,2024-05-02,5.0,6250,2024,5,May,Q2,2024-05,Thursday,Mid (500-2k),6250.0,-0.19446569366789632
+1082,Hassan Mirza,Faisalabad,Health & Beauty,Shampoo,4,550,Cash on Delivery,Returned,2024-04-18,5.0,2200,2024,4,April,Q2,2024-04,Thursday,Mid (500-2k),2200.0,-0.2841074224442019
+1262,Waqas Hussain,Quetta,Food & Grocery,Cooking Oil 5L,5,1700,EasyPaisa,Shipped,2023-02-03,5.0,8500,2023,2,February,Q1,2023-02,Friday,Mid (500-2k),8500.0,-0.14466473323661547
+1197,Faisal Hashmi,Lahore,Health & Beauty,Vitamin C,4,1000,Credit Card,Returned,2024-05-20,4.0,4000,2024,5,May,Q2,2024-05,Monday,Mid (500-2k),4000.0,-0.2442666540991772
+1364,Zara Raza,Quetta,Home & Kitchen,Water Bottle,3,650,EasyPaisa,Shipped,2024-02-24,5.0,1950,2024,2,February,Q1,2024-02,Saturday,Mid (500-2k),1950.0,-0.289640862492122
+1044,Imran Shah,Sialkot,Toys,Remote Car,1,2750,Debit Card,Shipped,2023-04-06,4.0,2750,2023,4,April,Q2,2023-04,Thursday,Premium (2k-10k),2750.0,-0.2719338543387777
+1186,Shahid Hashmi,Multan,Food & Grocery,Daal Masoor 1Kg,1,400,Debit Card,Delivered,2023-07-15,3.0,400,2023,7,July,Q3,2023-07,Saturday,Budget (<500),400.0,-0.3239481907892266
+1319,Bilal Mirza,Lahore,Home & Kitchen,Blender,3,3650,Cash on Delivery,Shipped,2024-04-02,3.0,10950,2024,4,April,Q2,2024-04,Tuesday,Premium (2k-10k),10950.0,-0.09043702076699851
+1059,Zara Farooq,Karachi,Books & Stationery,Urdu Novel,4,450,EasyPaisa,Delivered,2023-09-06,4.0,1800,2023,9,September,Q3,2023-09,Wednesday,Budget (<500),1800.0,-0.292960926520874
+1449,Waqas Khan,Karachi,Home & Kitchen,Electric Kettle,5,2700,JazzCash,Shipped,2023-07-11,,13500,2023,7,July,Q3,2023-07,Tuesday,Premium (2k-10k),13500.0,-0.03399593227821353
+1435,Uzma Hashmi,Multan,Clothing,Kurta,3,1750,Cash on Delivery,Delivered,2024-01-29,5.0,5250,2024,1,January,Q1,2024-01,Monday,Mid (500-2k),5250.0,-0.2165994538595767
+1320,Usman Shah,Rawalpindi,Clothing,Dupatta,3,950,Debit Card,Delivered,2023-02-19,5.0,2850,2023,2,February,Q1,2023-02,Sunday,Mid (500-2k),2850.0,-0.26972047831960966
+1129,Saima Hashmi,Quetta,Health & Beauty,Shampoo,4,550,EasyPaisa,Processing,2024-02-15,,2200,2024,2,February,Q1,2024-02,Thursday,Mid (500-2k),2200.0,-0.2841074224442019
+1363,Ayesha Iqbal,Lahore,Books & Stationery,English Grammar,4,900,Cash on Delivery,Returned,2023-05-01,5.0,3600,2023,5,May,Q2,2023-05,Monday,Mid (500-2k),3600.0,-0.2531201581758494
+1441,Rizwan Farooq,Faisalabad,Toys,Coloring Book,5,350,EasyPaisa,Shipped,2024-04-14,5.0,1750,2024,4,April,Q2,2024-04,Sunday,Budget (<500),1750.0,-0.29406761453045804
+1387,Shahid Sheikh,Peshawar,Clothing,Dupatta,5,900,Credit Card,Processing,2024-06-30,5.0,4500,2024,6,June,Q2,2024-06,Sunday,Mid (500-2k),4500.0,-0.233199774003337
+1303,Tariq Hussain,Sialkot,Home & Kitchen,Non-Stick Pan,4,2100,EasyPaisa,Delivered,2023-01-13,3.0,8400,2023,1,January,Q1,2023-01,Friday,Premium (2k-10k),8400.0,-0.14687810925578348
+1233,Uzma Ahmed,Faisalabad,Electronics,Tablet,3,30450,EasyPaisa,Delivered,2024-02-12,4.0,91350,2024,2,February,Q1,2024-02,Monday,Luxury (10k+),22237.5,1.6891172986441045
+1092,Tariq Mirza,Quetta,Electronics,Smartphone,2,45600,JazzCash,Delivered,2023-04-03,5.0,91200,2023,4,April,Q2,2023-04,Monday,Luxury (10k+),22237.5,1.6857972346153525
+1013,Shahid Raza,Faisalabad,Home & Kitchen,Dinner Set,3,6650,Credit Card,Returned,2023-01-01,5.0,19950,2023,1,January,Q1,2023-01,Sunday,Premium (2k-10k),19950.0,0.10876682095812495
+9100,Saima Sheikh,Gujranwala,Books & Stationery,English Grammar,3,900,Bank Transfer,Shipped,2023-12-27,4.0,2700,2023,12,December,Q4,2023-12,Wednesday,Mid (500-2k),2700.0,-0.27304054234836167
+1166,Amna Siddiqui,Lahore,Food & Grocery,Flour 10Kg,3,950,Cash on Delivery,Delivered,2023-05-23,4.0,2850,2023,5,May,Q2,2023-05,Tuesday,Mid (500-2k),2850.0,-0.26972047831960966
+1429,Bilal Chaudhry,Quetta,Home & Kitchen,Non-Stick Pan,3,2200,Credit Card,Processing,2023-09-21,4.0,6600,2023,9,September,Q3,2023-09,Thursday,Premium (2k-10k),6600.0,-0.1867188776008082
+1371,Uzma Farooq,Quetta,Toys,Remote Car,5,2750,JazzCash,Delivered,2023-05-14,5.0,13750,2023,5,May,Q2,2023-05,Sunday,Premium (2k-10k),13750.0,-0.028462492230293433
+1467,Sana Shah,Multan,Sports,Sports Shoes,2,5300,Debit Card,Processing,2024-01-23,4.0,10600,2024,1,January,Q1,2024-01,Tuesday,Premium (2k-10k),10600.0,-0.09818383683408664
+1280,Saima Malik,Rawalpindi,Books & Stationery,Css Notes,2,2200,Credit Card,Shipped,2023-01-28,5.0,4400,2023,1,January,Q1,2023-01,Saturday,Premium (2k-10k),4400.0,-0.23541315002250504
+1300,Bilal Raza,Islamabad,Toys,Toy Kitchen,3,2200,Credit Card,Shipped,2023-08-01,5.0,6600,2023,8,August,Q3,2023-08,Tuesday,Premium (2k-10k),6600.0,-0.1867188776008082
+1093,Zara Raza,Quetta,Food & Grocery,Sugar 5Kg,1,550,Cash on Delivery,Shipped,2024-01-03,5.0,550,2024,1,January,Q1,2024-01,Wednesday,Mid (500-2k),550.0,-0.32062812676047453
+1058,Faisal Shah,Faisalabad,Books & Stationery,Mathematics Book,2,650,Debit Card,Delivered,2023-06-17,5.0,1300,2023,6,June,Q2,2023-06,Saturday,Mid (500-2k),1300.0,-0.30402780661671425
+1257,Shahid Mirza,Gujranwala,Sports,Sports Shoes,5,5300,JazzCash,Cancelled,2023-06-26,5.0,26500,2023,6,June,Q2,2023-06,Monday,Premium (2k-10k),22237.5,0.25374295021363147
+1047,Nadia Qureshi,Sialkot,Toys,Lego Set,5,3100,Cash on Delivery,Cancelled,2023-05-17,5.0,15500,2023,5,May,Q2,2023-05,Wednesday,Premium (2k-10k),15500.0,0.010271588105147242
+1358,Ayesha Malik,Lahore,Sports,Yoga Mat,2,1700,Cash on Delivery,Shipped,2023-10-25,5.0,3400,2023,10,October,Q4,2023-10,Wednesday,Mid (500-2k),3400.0,-0.2575469102141854
+1238,Sana Raza,Lahore,Electronics,Charger,4,800,JazzCash,Delivered,2023-05-16,4.0,3200,2023,5,May,Q2,2023-05,Tuesday,Mid (500-2k),3200.0,-0.2619736622525215
+1073,Adnan Butt,Multan,Toys,Toy Kitchen,3,2300,Bank Transfer,Shipped,2023-03-03,4.0,6900,2023,3,March,Q1,2023-03,Friday,Premium (2k-10k),6900.0,-0.18007874954330408
+1196,Hina Qureshi,Karachi,Sports,Protein Powder,2,5000,JazzCash,Delivered,2023-01-10,5.0,10000,2023,1,January,Q1,2023-01,Tuesday,Premium (2k-10k),10000.0,-0.11146409294909489
+1028,Ahmed Hussain,Gujranwala,Clothing,Kurta,5,1750,JazzCash,Delivered,2023-12-24,4.0,8750,2023,12,December,Q4,2023-12,Sunday,Mid (500-2k),8750.0,-0.13913129318869535
+1368,Hina Raza,Lahore,Electronics,Laptop,2,86400,EasyPaisa,Shipped,2024-01-02,5.0,172800,2024,1,January,Q1,2024-01,Tuesday,Luxury (10k+),22237.5,3.4919120662564724
+1151,Rizwan Nawaz,Gujranwala,Electronics,Headphones,2,4400,Cash on Delivery,Shipped,2023-09-04,5.0,8800,2023,9,September,Q3,2023-09,Monday,Premium (2k-10k),8800.0,-0.13802460517911133
+1217,Rabia Baig,Lahore,Books & Stationery,English Grammar,4,900,Credit Card,Processing,2024-03-02,,3600,2024,3,March,Q1,2024-03,Saturday,Mid (500-2k),3600.0,-0.2531201581758494
+1086,Rizwan Nawaz,Quetta,Home & Kitchen,Iron,5,3400,EasyPaisa,Returned,2023-05-20,4.0,17000,2023,5,May,Q2,2023-05,Saturday,Premium (2k-10k),17000.0,0.043472228392667824
+1237,Hassan Hashmi,Faisalabad,Home & Kitchen,Non-Stick Pan,1,2150,Bank Transfer,Delivered,2024-02-03,5.0,2150,2024,2,February,Q1,2024-02,Saturday,Premium (2k-10k),2150.0,-0.2852141104537859
+1147,Hina Ali,Multan,Health & Beauty,Moisturizer,4,700,JazzCash,Delivered,2023-01-29,5.0,2800,2023,1,January,Q1,2023-01,Sunday,Mid (500-2k),2800.0,-0.2708271663291937
+1443,Hina Ansari,Sialkot,Electronics,Charger,2,800,Bank Transfer,Shipped,2023-03-19,,1600,2023,3,March,Q1,2023-03,Sunday,Mid (500-2k),1600.0,-0.2973876785592101
+1204,Uzma Nawaz,Sialkot,Home & Kitchen,Water Bottle,5,650,Cash on Delivery,Returned,2024-04-02,,3250,2024,4,April,Q2,2024-04,Tuesday,Mid (500-2k),3250.0,-0.2608669742429375
+1226,Asad Ali,Sialkot,Electronics,Smartphone,1,46200,Bank Transfer,Delivered,2023-08-25,4.0,46200,2023,8,August,Q3,2023-08,Friday,Luxury (10k+),22237.5,0.689778025989735
+1150,Adnan Siddiqui,Rawalpindi,Books & Stationery,Css Notes,1,2150,Debit Card,Cancelled,2023-03-06,4.0,2150,2023,3,March,Q1,2023-03,Monday,Premium (2k-10k),2150.0,-0.2852141104537859
+1098,Ahmed Javed,Quetta,Electronics,Laptop,5,87100,JazzCash,Delivered,2023-12-27,4.0,435500,2023,12,December,Q4,2023-12,Wednesday,Luxury (10k+),22237.5,9.30645086861091
+1026,Junaid Farooq,Rawalpindi,Electronics,Smartphone,4,45700,Credit Card,Returned,2023-11-20,5.0,182800,2023,11,November,Q4,2023-11,Monday,Luxury (10k+),22237.5,3.713249668173276
+1323,Junaid Javed,Islamabad,Clothing,Kurta,3,1800,Credit Card,Cancelled,2023-02-01,5.0,5400,2023,2,February,Q1,2023-02,Wednesday,Mid (500-2k),5400.0,-0.21327938983082464
+1265,Mehwish Ali,Quetta,Books & Stationery,Mathematics Book,1,650,Cash on Delivery,Delivered,2023-08-03,5.0,650,2023,8,August,Q3,2023-08,Thursday,Mid (500-2k),650.0,-0.3184147507413065
+1403,Ahmed Javed,Lahore,Electronics,Smartphone,5,42950,Cash on Delivery,Shipped,2024-05-29,4.0,214750,2024,5,May,Q2,2024-05,Wednesday,Luxury (10k+),22237.5,4.420423306297464
+1458,Waqas Chaudhry,Gujranwala,Sports,Yoga Mat,4,1850,JazzCash,Returned,2024-04-06,5.0,7400,2024,4,April,Q2,2024-04,Saturday,Mid (500-2k),7400.0,-0.16901186944746388
+1021,Amna Hussain,Islamabad,Sports,Badminton Set,3,1800,Cash on Delivery,Cancelled,2023-04-11,3.0,5400,2023,4,April,Q2,2023-04,Tuesday,Mid (500-2k),5400.0,-0.21327938983082464
+1203,Sana Hashmi,Faisalabad,Home & Kitchen,Dinner Set,4,6250,Debit Card,Shipped,2024-03-01,,25000,2024,3,March,Q1,2024-03,Friday,Premium (2k-10k),22237.5,0.2205423099261109
+1276,Shahid Hussain,Karachi,Electronics,Power Bank,1,3350,Bank Transfer,Delivered,2024-05-04,4.0,3350,2024,5,May,Q2,2024-05,Saturday,Premium (2k-10k),3350.0,-0.25865359822376943
+1266,Mehwish Hashmi,Multan,Food & Grocery,Flour 10Kg,2,1000,Cash on Delivery,Shipped,2024-06-29,5.0,2000,2024,6,June,Q2,2024-06,Saturday,Mid (500-2k),2000.0,-0.288534174482538
+1126,Ayesha Shah,Islamabad,Books & Stationery,Pens Box,3,250,Bank Transfer,Processing,2023-06-29,4.0,750,2023,6,June,Q2,2023-06,Thursday,Budget (<500),750.0,-0.31620137472213844
+1234,Ayesha Qureshi,Gujranwala,Home & Kitchen,Electric Kettle,5,2750,Debit Card,Delivered,2023-03-22,,13750,2023,3,March,Q1,2023-03,Wednesday,Premium (2k-10k),13750.0,-0.028462492230293433
+1232,Rabia Iqbal,Peshawar,Clothing,Shalwar Kameez,2,2700,Debit Card,Cancelled,2023-10-05,3.0,5400,2023,10,October,Q4,2023-10,Thursday,Premium (2k-10k),5400.0,-0.21327938983082464
+1056,Usman Iqbal,Faisalabad,Clothing,Shawl,1,1550,Cash on Delivery,Shipped,2023-08-18,4.0,1550,2023,8,August,Q3,2023-08,Friday,Mid (500-2k),1550.0,-0.29849436656879413
+1020,Mehwish Ali,Lahore,Electronics,Smart Watch,3,12350,Cash on Delivery,Delivered,2023-07-16,4.0,37050,2023,7,July,Q3,2023-07,Sunday,Luxury (10k+),22237.5,0.4872541202358595
+1361,Sana Ali,Multan,Books & Stationery,Ielts Guide,5,1900,Debit Card,Delivered,2023-01-21,3.0,9500,2023,1,January,Q1,2023-01,Saturday,Mid (500-2k),9500.0,-0.12253097304493507
+1329,Usman Hussain,Quetta,Books & Stationery,Notebook Pack,3,350,EasyPaisa,Delivered,2023-03-29,5.0,1050,2023,3,March,Q1,2023-03,Wednesday,Budget (<500),1050.0,-0.30956124666463436
+1469,Mehwish Ahmed,Islamabad,Food & Grocery,Sugar 5Kg,1,550,Credit Card,Cancelled,2023-10-06,5.0,550,2023,10,October,Q4,2023-10,Friday,Mid (500-2k),550.0,-0.32062812676047453
+1275,Asad Siddiqui,Rawalpindi,Sports,Football,1,2100,Bank Transfer,Delivered,2023-05-16,4.0,2100,2023,5,May,Q2,2023-05,Tuesday,Premium (2k-10k),2100.0,-0.28632079846336994
+1305,Ahmed Ahmed,Rawalpindi,Toys,Remote Car,1,2900,JazzCash,Delivered,2023-02-13,5.0,2900,2023,2,February,Q1,2023-02,Monday,Premium (2k-10k),2900.0,-0.26861379031002564
+1293,Saima Butt,Peshawar,Sports,Football,4,2300,JazzCash,Shipped,2023-03-30,,9200,2023,3,March,Q1,2023-03,Thursday,Premium (2k-10k),9200.0,-0.12917110110243918
+1423,Usman Qureshi,Sialkot,Sports,Cricket Bat,3,4700,EasyPaisa,Cancelled,2024-04-27,5.0,14100,2024,4,April,Q2,2024-04,Saturday,Premium (2k-10k),14100.0,-0.0207156761632053
+1161,Shahid Qureshi,Karachi,Food & Grocery,Spices Pack,1,250,EasyPaisa,Shipped,2024-01-06,5.0,250,2024,1,January,Q1,2024-01,Saturday,Budget (<500),250.0,-0.32726825481797867
+1456,Sana Mirza,Sialkot,Toys,Toy Kitchen,1,2150,JazzCash,Cancelled,2023-05-29,4.0,2150,2023,5,May,Q2,2023-05,Monday,Premium (2k-10k),2150.0,-0.2852141104537859
+1195,Asad Shah,Faisalabad,Health & Beauty,Vitamin C,1,1000,Cash on Delivery,Delivered,2023-02-08,4.0,1000,2023,2,February,Q1,2023-02,Wednesday,Mid (500-2k),1000.0,-0.3106679346742183
+1312,Faisal Javed,Peshawar,Food & Grocery,Flour 10Kg,2,950,Debit Card,Shipped,2023-01-29,5.0,1900,2023,1,January,Q1,2023-01,Sunday,Mid (500-2k),1900.0,-0.29074755050170603
+1022,Asad Sheikh,Karachi,Clothing,Jeans,2,3150,Bank Transfer,Delivered,2024-02-15,3.0,6300,2024,2,February,Q1,2024-02,Thursday,Premium (2k-10k),6300.0,-0.19335900565831232
+1208,Rizwan Khan,Rawalpindi,Clothing,Shalwar Kameez,4,2750,Cash on Delivery,Returned,2023-03-03,4.0,11000,2023,3,March,Q1,2023-03,Friday,Premium (2k-10k),11000.0,-0.08933033275741449
+1491,Kamran Ansari,Multan,Sports,Skipping Rope,5,450,Credit Card,Delivered,2024-01-20,,2250,2024,1,January,Q1,2024-01,Saturday,Budget (<500),2250.0,-0.2830007344346179
+1127,Tariq Sheikh,Karachi,Health & Beauty,Shampoo,4,550,Cash on Delivery,Processing,2023-01-20,5.0,2200,2023,1,January,Q1,2023-01,Friday,Mid (500-2k),2200.0,-0.2841074224442019
+1235,Nimra Ansari,Karachi,Clothing,Abaya,2,3600,JazzCash,Processing,2023-12-01,3.0,7200,2023,12,December,Q4,2023-12,Friday,Premium (2k-10k),7200.0,-0.17343862148579997
+1167,Saima Nawaz,Karachi,Health & Beauty,Multivitamin,4,1250,Credit Card,Delivered,2023-03-30,4.0,5000,2023,3,March,Q1,2023-03,Thursday,Mid (500-2k),5000.0,-0.2221328939074968
+1414,Usman Sheikh,Sialkot,Toys,Remote Car,3,2750,Credit Card,Shipped,2023-05-18,5.0,8250,2023,5,May,Q2,2023-05,Thursday,Premium (2k-10k),8250.0,-0.15019817328453555
+1251,Ahmed Nawaz,Lahore,Books & Stationery,Urdu Novel,1,450,Debit Card,Delivered,2023-12-23,5.0,450,2023,12,December,Q4,2023-12,Saturday,Budget (<500),450.0,-0.3228415027796426
+1427,Adnan Raza,Lahore,Toys,Remote Car,5,2800,Cash on Delivery,Processing,2024-06-18,5.0,14000,2024,6,June,Q2,2024-06,Tuesday,Premium (2k-10k),14000.0,-0.022929052182373337
+1225,Nimra Nawaz,Quetta,Food & Grocery,Ghee 1Kg,2,650,Credit Card,Cancelled,2023-07-08,,1300,2023,7,July,Q3,2023-07,Saturday,Mid (500-2k),1300.0,-0.30402780661671425
+1091,Mehwish Malik,Lahore,Toys,Puzzle 500Pc,3,950,Bank Transfer,Delivered,2023-12-03,,2850,2023,12,December,Q4,2023-12,Sunday,Mid (500-2k),2850.0,-0.26972047831960966
+1034,Faisal Sheikh,Islamabad,Sports,Badminton Set,1,1750,Cash on Delivery,Shipped,2023-08-04,4.0,1750,2023,8,August,Q3,2023-08,Friday,Mid (500-2k),1750.0,-0.29406761453045804
+1105,Ayesha Nawaz,Lahore,Clothing,Jeans,5,3100,Bank Transfer,Shipped,2024-03-05,4.0,15500,2024,3,March,Q1,2024-03,Tuesday,Premium (2k-10k),15500.0,0.010271588105147242
+1476,Sana Ali,Rawalpindi,Clothing,Jeans,4,3150,EasyPaisa,Shipped,2023-05-03,5.0,12600,2023,5,May,Q2,2023-05,Wednesday,Premium (2k-10k),12600.0,-0.05391631645072588
+1344,Sobia Shah,Karachi,Sports,Cricket Bat,1,4500,EasyPaisa,Delivered,2023-01-09,4.0,4500,2023,1,January,Q1,2023-01,Monday,Premium (2k-10k),4500.0,-0.233199774003337
+1381,Usman Hashmi,Rawalpindi,Home & Kitchen,Non-Stick Pan,4,2150,EasyPaisa,Shipped,2023-04-21,5.0,8600,2023,4,April,Q2,2023-04,Friday,Premium (2k-10k),8600.0,-0.14245135721744742
+1114,Kamran Hashmi,Islamabad,Clothing,Jacket,3,4550,Credit Card,Returned,2023-11-29,5.0,13650,2023,11,November,Q4,2023-11,Wednesday,Premium (2k-10k),13650.0,-0.03067586824946147
+1445,Nimra Shah,Rawalpindi,Home & Kitchen,Storage Box,2,850,EasyPaisa,Shipped,2023-06-09,4.0,1700,2023,6,June,Q2,2023-06,Friday,Mid (500-2k),1700.0,-0.29517430254004207
+1139,Ayesha Javed,Islamabad,Clothing,T-Shirt,5,1200,JazzCash,Delivered,2024-06-23,4.0,6000,2024,6,June,Q2,2024-06,Sunday,Mid (500-2k),6000.0,-0.19999913371581643
+1008,Rizwan Ali,Rawalpindi,Electronics,Power Bank,4,3150,EasyPaisa,Shipped,2023-08-06,5.0,12600,2023,8,August,Q3,2023-08,Sunday,Premium (2k-10k),12600.0,-0.05391631645072588
+1499,Imran Hashmi,Gujranwala,Clothing,Jeans,4,3150,Bank Transfer,Delivered,2023-05-16,5.0,12600,2023,5,May,Q2,2023-05,Tuesday,Premium (2k-10k),12600.0,-0.05391631645072588
+1210,Imran Javed,Multan,Clothing,Jacket,3,4350,Credit Card,Processing,2024-06-25,4.0,13050,2024,6,June,Q2,2024-06,Tuesday,Premium (2k-10k),13050.0,-0.043956124364469704
+1017,Nadia Ahmed,Peshawar,Electronics,Headphones,5,4350,Cash on Delivery,Delivered,2023-08-23,4.0,21750,2023,8,August,Q3,2023-08,Wednesday,Premium (2k-10k),21750.0,0.14860758930314966
+1116,Imran Baig,Multan,Health & Beauty,Sanitizer 500Ml,4,300,Cash on Delivery,Shipped,2024-03-13,5.0,1200,2024,3,March,Q1,2024-03,Wednesday,Budget (<500),1200.0,-0.3062411826358823
+1099,Asad Shah,Gujranwala,Books & Stationery,English Grammar,1,900,Debit Card,Delivered,2023-11-13,5.0,900,2023,11,November,Q4,2023-11,Monday,Mid (500-2k),900.0,-0.31288131069338637
+1084,Imran Nawaz,Lahore,Electronics,Headphones,2,4400,Cash on Delivery,Returned,2024-02-22,4.0,8800,2024,2,February,Q1,2024-02,Thursday,Premium (2k-10k),8800.0,-0.13802460517911133
+1474,Adnan Hussain,Rawalpindi,Electronics,Headphones,4,4600,Cash on Delivery,Returned,2023-08-02,5.0,18400,2023,8,August,Q3,2023-08,Wednesday,Premium (2k-10k),18400.0,0.07445949266102037
+1243,Bilal Siddiqui,Karachi,Sports,Skipping Rope,5,450,JazzCash,Cancelled,2023-12-09,5.0,2250,2023,12,December,Q4,2023-12,Saturday,Budget (<500),2250.0,-0.2830007344346179
+1252,Kamran Hussain,Rawalpindi,Toys,Action Figure,4,650,Debit Card,Cancelled,2023-11-23,4.0,2600,2023,11,November,Q4,2023-11,Thursday,Mid (500-2k),2600.0,-0.2752539183675297
+1199,Ahmed Mirza,Faisalabad,Home & Kitchen,Dinner Set,5,6750,Bank Transfer,Processing,2024-06-11,5.0,33750,2024,6,June,Q2,2024-06,Tuesday,Premium (2k-10k),22237.5,0.41421271160331424
+1431,Zara Malik,Multan,Books & Stationery,Pens Box,5,250,JazzCash,Shipped,2024-02-11,4.0,1250,2024,2,February,Q1,2024-02,Sunday,Budget (<500),1250.0,-0.30513449462629827
+1192,Asad Chaudhry,Quetta,Home & Kitchen,Water Bottle,5,650,Credit Card,Shipped,2023-05-21,4.0,3250,2023,5,May,Q2,2023-05,Sunday,Mid (500-2k),3250.0,-0.2608669742429375
+1333,Rizwan Hashmi,Faisalabad,Health & Beauty,Shampoo,1,500,Bank Transfer,Returned,2023-11-30,5.0,500,2023,11,November,Q4,2023-11,Thursday,Budget (<500),500.0,-0.32173481477005855
+1365,Sara Ali,Sialkot,Toys,Board Game,4,1450,Cash on Delivery,Delivered,2023-04-02,4.0,5800,2023,4,April,Q2,2023-04,Sunday,Mid (500-2k),5800.0,-0.2044258857541525
+1241,Sara Malik,Faisalabad,Books & Stationery,Pens Box,4,250,EasyPaisa,Processing,2023-10-10,5.0,1000,2023,10,October,Q4,2023-10,Tuesday,Budget (<500),1000.0,-0.3106679346742183
+1488,Shahid Raza,Lahore,Home & Kitchen,Electric Kettle,2,2700,Debit Card,Delivered,2023-07-03,,5400,2023,7,July,Q3,2023-07,Monday,Premium (2k-10k),5400.0,-0.21327938983082464
+1258,Uzma Hashmi,Gujranwala,Clothing,Jacket,3,4350,JazzCash,Delivered,2023-07-07,5.0,13050,2023,7,July,Q3,2023-07,Friday,Premium (2k-10k),13050.0,-0.043956124364469704
+1069,Rizwan Shah,Faisalabad,Home & Kitchen,Blender,2,3700,Debit Card,Returned,2023-05-10,5.0,7400,2023,5,May,Q2,2023-05,Wednesday,Premium (2k-10k),7400.0,-0.16901186944746388
+1245,Tariq Mirza,Faisalabad,Toys,Board Game,3,1500,Bank Transfer,Shipped,2023-04-27,4.0,4500,2023,4,April,Q2,2023-04,Thursday,Mid (500-2k),4500.0,-0.233199774003337
+1400,Zara Qureshi,Sialkot,Electronics,Smartphone,2,45750,EasyPaisa,Processing,2023-04-17,4.0,91500,2023,4,April,Q2,2023-04,Monday,Luxury (10k+),22237.5,1.6924373626728566
+1472,Saima Nawaz,Peshawar,Toys,Lego Set,3,3050,EasyPaisa,Delivered,2023-09-30,5.0,9150,2023,9,September,Q3,2023-09,Saturday,Premium (2k-10k),9150.0,-0.1302777891120232
+1041,Hassan Mirza,Gujranwala,Health & Beauty,Shampoo,3,500,Debit Card,Processing,2023-12-01,5.0,1500,2023,12,December,Q4,2023-12,Friday,Budget (<500),1500.0,-0.29960105457837816
+1184,Rizwan Butt,Sialkot,Toys,Puzzle 500Pc,4,1000,JazzCash,Shipped,2023-04-23,5.0,4000,2023,4,April,Q2,2023-04,Sunday,Mid (500-2k),4000.0,-0.2442666540991772
+1452,Saima Baig,Sialkot,Sports,Sports Shoes,2,5300,Debit Card,Delivered,2024-04-29,3.0,10600,2024,4,April,Q2,2024-04,Monday,Premium (2k-10k),10600.0,-0.09818383683408664
+1497,Uzma Mirza,Peshawar,Sports,Sports Shoes,1,5700,EasyPaisa,Delivered,2024-01-27,3.0,5700,2024,1,January,Q1,2024-01,Saturday,Premium (2k-10k),5700.0,-0.20663926177332054
+1420,Imran Qureshi,Rawalpindi,Clothing,T-Shirt,2,1150,EasyPaisa,Shipped,2023-05-02,4.0,2300,2023,5,May,Q2,2023-05,Tuesday,Mid (500-2k),2300.0,-0.28189404642503385
+1422,Fatima Malik,Gujranwala,Food & Grocery,Flour 10Kg,5,900,Credit Card,Delivered,2023-02-27,4.0,4500,2023,2,February,Q1,2023-02,Monday,Mid (500-2k),4500.0,-0.233199774003337
+1306,Fatima Qureshi,Gujranwala,Sports,Sports Shoes,4,5250,Debit Card,Processing,2023-06-26,5.0,21000,2023,6,June,Q2,2023-06,Monday,Premium (2k-10k),21000.0,0.13200726915938937
+1119,Maryam Siddiqui,Peshawar,Clothing,Jeans,2,3250,EasyPaisa,Delivered,2023-12-25,,6500,2023,12,December,Q4,2023-12,Monday,Premium (2k-10k),6500.0,-0.18893225361997623
+1428,Sana Ali,Sialkot,Sports,Gym Gloves,4,1000,Bank Transfer,Shipped,2023-04-11,5.0,4000,2023,4,April,Q2,2023-04,Tuesday,Mid (500-2k),4000.0,-0.2442666540991772
+1291,Sana Javed,Islamabad,Food & Grocery,Basmati Rice 5Kg,5,1250,Debit Card,Processing,2023-08-18,5.0,6250,2023,8,August,Q3,2023-08,Friday,Mid (500-2k),6250.0,-0.19446569366789632
+1311,Sana Farooq,Rawalpindi,Food & Grocery,Cooking Oil 5L,2,1850,JazzCash,Returned,2023-02-27,4.0,3700,2023,2,February,Q1,2023-02,Monday,Mid (500-2k),3700.0,-0.25090678215668133
+1137,Sana Ansari,Peshawar,Sports,Sports Shoes,3,5600,Cash on Delivery,Shipped,2023-03-09,5.0,16800,2023,3,March,Q1,2023-03,Thursday,Premium (2k-10k),16800.0,0.03904547635433174
+1316,Hassan Ansari,Gujranwala,Clothing,Dupatta,3,900,EasyPaisa,Processing,2024-05-13,5.0,2700,2024,5,May,Q2,2024-05,Monday,Mid (500-2k),2700.0,-0.27304054234836167
+1500,Hassan Nawaz,Gujranwala,Electronics,Smart Watch,3,11500,Credit Card,Processing,2023-05-14,4.0,34500,2023,5,May,Q2,2023-05,Sunday,Luxury (10k+),22237.5,0.4308130317470745
+1391,Tariq Iqbal,Peshawar,Electronics,Laptop,3,82500,Bank Transfer,Delivered,2024-01-12,,247500,2024,1,January,Q1,2024-01,Friday,Luxury (10k+),22237.5,5.145303952574997
+1014,Rabia Khan,Lahore,Health & Beauty,Vitamin C,2,900,Credit Card,Delivered,2023-03-29,5.0,1800,2023,3,March,Q1,2023-03,Wednesday,Mid (500-2k),1800.0,-0.292960926520874
+1454,Waqas Qureshi,Karachi,Home & Kitchen,Storage Box,4,900,Cash on Delivery,Cancelled,2023-12-09,5.0,3600,2023,12,December,Q4,2023-12,Saturday,Mid (500-2k),3600.0,-0.2531201581758494
+1484,Zara Raza,Sialkot,Clothing,Shalwar Kameez,2,2700,Cash on Delivery,Delivered,2023-04-20,5.0,5400,2023,4,April,Q2,2023-04,Thursday,Premium (2k-10k),5400.0,-0.21327938983082464
+1055,Bilal Hussain,Islamabad,Electronics,Charger,4,800,Bank Transfer,Shipped,2023-12-12,5.0,3200,2023,12,December,Q4,2023-12,Tuesday,Mid (500-2k),3200.0,-0.2619736622525215
+1097,Mehwish Siddiqui,Rawalpindi,Sports,Protein Powder,1,4650,Credit Card,Shipped,2023-10-30,5.0,4650,2023,10,October,Q4,2023-10,Monday,Premium (2k-10k),4650.0,-0.22987970997458496
+1399,Shahid Butt,Quetta,Toys,Lego Set,3,3350,EasyPaisa,Shipped,2024-06-10,4.0,10050,2024,6,June,Q2,2024-06,Monday,Premium (2k-10k),10050.0,-0.11035740493951086
+1078,Shahid Sheikh,Quetta,Toys,Doll,5,800,Bank Transfer,Shipped,2023-09-14,3.0,4000,2023,9,September,Q3,2023-09,Thursday,Mid (500-2k),4000.0,-0.2442666540991772
+1141,Nadia Malik,Islamabad,Clothing,T-Shirt,1,1200,Credit Card,Returned,2023-02-08,5.0,1200,2023,2,February,Q1,2023-02,Wednesday,Mid (500-2k),1200.0,-0.3062411826358823
+1379,Kamran Sheikh,Gujranwala,Toys,Action Figure,4,650,Debit Card,Delivered,2023-01-03,5.0,2600,2023,1,January,Q1,2023-01,Tuesday,Mid (500-2k),2600.0,-0.2752539183675297
+1327,Ahmed Shah,Islamabad,Books & Stationery,Css Notes,4,2300,JazzCash,Processing,2024-04-27,5.0,9200,2024,4,April,Q2,2024-04,Saturday,Premium (2k-10k),9200.0,-0.12917110110243918
+1421,Hina Mirza,Lahore,Toys,Toy Kitchen,4,2150,EasyPaisa,Processing,2023-01-23,4.0,8600,2023,1,January,Q1,2023-01,Monday,Premium (2k-10k),8600.0,-0.14245135721744742
+1382,Fatima Farooq,Lahore,Toys,Toy Kitchen,5,2300,EasyPaisa,Cancelled,2023-01-05,,11500,2023,1,January,Q1,2023-01,Thursday,Premium (2k-10k),11500.0,-0.0782634526615743
+9112,Asad Khan,Karachi,Toys,Coloring Book,4,350,Bank Transfer,Cancelled,2023-12-22,4.0,1400,2023,12,December,Q4,2023-12,Friday,Budget (<500),1400.0,-0.3018144305975462
+1211,Nimra Baig,Karachi,Electronics,Charger,4,800,Credit Card,Processing,2024-06-28,5.0,3200,2024,6,June,Q2,2024-06,Friday,Mid (500-2k),3200.0,-0.2619736622525215
+1212,Rizwan Baig,Peshawar,Toys,Action Figure,2,650,Debit Card,Delivered,2023-02-02,5.0,1300,2023,2,February,Q1,2023-02,Thursday,Mid (500-2k),1300.0,-0.30402780661671425
+1164,Zara Chaudhry,Faisalabad,Toys,Board Game,5,1450,Bank Transfer,Delivered,2023-05-06,4.0,7250,2023,5,May,Q2,2023-05,Saturday,Mid (500-2k),7250.0,-0.17233193347621595
+1392,Nimra Hashmi,Rawalpindi,Home & Kitchen,Storage Box,4,800,Debit Card,Delivered,2023-07-11,4.0,3200,2023,7,July,Q3,2023-07,Tuesday,Mid (500-2k),3200.0,-0.2619736622525215
+1016,Omar Sheikh,Rawalpindi,Books & Stationery,Urdu Novel,3,450,Credit Card,Cancelled,2023-05-04,4.0,1350,2023,5,May,Q2,2023-05,Thursday,Budget (<500),1350.0,-0.3029211186071302
+1373,Adnan Farooq,Gujranwala,Home & Kitchen,Blender,5,3800,Debit Card,Delivered,2024-03-19,4.0,19000,2024,3,March,Q1,2024-03,Tuesday,Premium (2k-10k),19000.0,0.0877397487760286
+1464,Unknown,Faisalabad,Health & Beauty,Sanitizer 500Ml,5,300,Cash on Delivery,Cancelled,2023-11-12,5.0,1500,2023,11,November,Q4,2023-11,Sunday,Budget (<500),1500.0,-0.29960105457837816
+1451,Sana Javed,Faisalabad,Toys,Remote Car,5,2700,Credit Card,Delivered,2023-04-13,5.0,13500,2023,4,April,Q2,2023-04,Thursday,Premium (2k-10k),13500.0,-0.03399593227821353
+1430,Ahmed Khan,Gujranwala,Clothing,Shalwar Kameez,4,2850,Debit Card,Shipped,2024-02-23,5.0,11400,2024,2,February,Q1,2024-02,Friday,Premium (2k-10k),11400.0,-0.08047682868074234
+1095,Uzma Farooq,Islamabad,Home & Kitchen,Iron,3,3500,Debit Card,Delivered,2024-04-21,5.0,10500,2024,4,April,Q2,2024-04,Sunday,Premium (2k-10k),10500.0,-0.10039721285325469
+1061,Asad Mirza,Karachi,Sports,Protein Powder,1,4750,JazzCash,Cancelled,2023-06-06,5.0,4750,2023,6,June,Q2,2023-06,Tuesday,Premium (2k-10k),4750.0,-0.2276663339554169
+1369,Maryam Chaudhry,Lahore,Health & Beauty,Multivitamin,2,1150,Bank Transfer,Cancelled,2023-10-06,5.0,2300,2023,10,October,Q4,2023-10,Friday,Mid (500-2k),2300.0,-0.28189404642503385
+1273,Ahmed Raza,Islamabad,Toys,Toy Kitchen,1,2300,Bank Transfer,Delivered,2023-05-16,5.0,2300,2023,5,May,Q2,2023-05,Tuesday,Premium (2k-10k),2300.0,-0.28189404642503385
+1286,Nimra Baig,Karachi,Home & Kitchen,Non-Stick Pan,4,2100,Credit Card,Delivered,2023-11-13,4.0,8400,2023,11,November,Q4,2023-11,Monday,Premium (2k-10k),8400.0,-0.14687810925578348
+1035,Sobia Raza,Peshawar,Sports,Badminton Set,2,1850,EasyPaisa,Processing,2023-01-26,4.0,3700,2023,1,January,Q1,2023-01,Thursday,Mid (500-2k),3700.0,-0.25090678215668133
+1163,Tariq Mirza,Faisalabad,Home & Kitchen,Non-Stick Pan,1,2250,Bank Transfer,Returned,2024-02-01,,2250,2024,2,February,Q1,2024-02,Thursday,Premium (2k-10k),2250.0,-0.2830007344346179
+1081,Mehwish Qureshi,Peshawar,Sports,Protein Powder,3,4900,Bank Transfer,Returned,2023-02-07,5.0,14700,2023,2,February,Q1,2023-02,Tuesday,Premium (2k-10k),14700.0,-0.007435420048197067
+1290,Usman Raza,Gujranwala,Clothing,Jeans,5,3050,Cash on Delivery,Delivered,2023-02-17,5.0,15250,2023,2,February,Q1,2023-02,Friday,Premium (2k-10k),15250.0,0.004738148057227145
+1336,Usman Javed,Islamabad,Sports,Cricket Bat,4,4700,JazzCash,Delivered,2023-02-20,5.0,18800,2023,2,February,Q1,2023-02,Monday,Premium (2k-10k),18800.0,0.08331299673769252
+1075,Hina Hussain,Gujranwala,Toys,Puzzle 500Pc,1,900,Debit Card,Shipped,2024-04-09,4.0,900,2024,4,April,Q2,2024-04,Tuesday,Mid (500-2k),900.0,-0.31288131069338637
+1395,Saima Farooq,Sialkot,Health & Beauty,Shampoo,3,500,EasyPaisa,Returned,2023-03-11,,1500,2023,3,March,Q1,2023-03,Saturday,Budget (<500),1500.0,-0.29960105457837816
+1221,Tariq Baig,Lahore,Health & Beauty,Vitamin C,4,950,Debit Card,Shipped,2023-11-12,5.0,3800,2023,11,November,Q4,2023-11,Sunday,Mid (500-2k),3800.0,-0.24869340613751328
+1070,Fatima Ali,Sialkot,Books & Stationery,English Grammar,4,800,Cash on Delivery,Shipped,2024-04-25,5.0,3200,2024,4,April,Q2,2024-04,Thursday,Mid (500-2k),3200.0,-0.2619736622525215
+1489,Nimra Sheikh,Multan,Clothing,Dupatta,4,900,Bank Transfer,Delivered,2023-06-20,4.0,3600,2023,6,June,Q2,2023-06,Tuesday,Mid (500-2k),3600.0,-0.2531201581758494
+1269,Bilal Farooq,Quetta,Sports,Sports Shoes,4,5250,Cash on Delivery,Processing,2024-06-11,5.0,21000,2024,6,June,Q2,2024-06,Tuesday,Premium (2k-10k),21000.0,0.13200726915938937
+1461,Usman Hashmi,Islamabad,Clothing,Abaya,3,3400,Debit Card,Shipped,2024-03-29,4.0,10200,2024,3,March,Q1,2024-03,Friday,Premium (2k-10k),10200.0,-0.10703734091075881
+1362,Waqas Raza,Multan,Toys,Coloring Book,1,350,Bank Transfer,Delivered,2023-07-30,3.0,350,2023,7,July,Q3,2023-07,Sunday,Budget (<500),350.0,-0.3250548787988106
+1353,Shahid Raza,Multan,Books & Stationery,Urdu Novel,1,450,EasyPaisa,Delivered,2023-07-25,5.0,450,2023,7,July,Q3,2023-07,Tuesday,Budget (<500),450.0,-0.3228415027796426
+1159,Ayesha Mirza,Lahore,Clothing,Dupatta,3,900,Credit Card,Processing,2023-06-20,5.0,2700,2023,6,June,Q2,2023-06,Tuesday,Mid (500-2k),2700.0,-0.27304054234836167
+1481,Nimra Hussain,Faisalabad,Food & Grocery,Cooking Oil 5L,5,1750,JazzCash,Shipped,2024-01-11,5.0,8750,2024,1,January,Q1,2024-01,Thursday,Mid (500-2k),8750.0,-0.13913129318869535
+1442,Junaid Farooq,Karachi,Toys,Doll,3,800,Debit Card,Delivered,2023-08-24,5.0,2400,2023,8,August,Q3,2023-08,Thursday,Mid (500-2k),2400.0,-0.2796806704058658
+1104,Kamran Hashmi,Rawalpindi,Clothing,Shawl,3,1500,Cash on Delivery,Delivered,2023-02-16,3.0,4500,2023,2,February,Q1,2023-02,Thursday,Mid (500-2k),4500.0,-0.233199774003337
+1410,Kamran Hashmi,Faisalabad,Food & Grocery,Ghee 1Kg,3,700,EasyPaisa,Delivered,2023-11-17,4.0,2100,2023,11,November,Q4,2023-11,Friday,Mid (500-2k),2100.0,-0.28632079846336994
+1351,Rabia Malik,Karachi,Food & Grocery,Ghee 1Kg,1,650,EasyPaisa,Shipped,2024-03-06,5.0,650,2024,3,March,Q1,2024-03,Wednesday,Mid (500-2k),650.0,-0.3184147507413065
+1485,Omar Raza,Karachi,Sports,Protein Powder,5,4850,Credit Card,Shipped,2023-02-20,5.0,24250,2023,2,February,Q1,2023-02,Monday,Premium (2k-10k),22237.5,0.20394198978235062
+1298,Shahid Malik,Multan,Clothing,Shalwar Kameez,4,2850,EasyPaisa,Delivered,2023-10-26,5.0,11400,2023,10,October,Q4,2023-10,Thursday,Premium (2k-10k),11400.0,-0.08047682868074234
+1106,Junaid Iqbal,Lahore,Toys,Coloring Book,3,350,JazzCash,Delivered,2024-03-30,5.0,1050,2024,3,March,Q1,2024-03,Saturday,Budget (<500),1050.0,-0.30956124666463436
+1068,Kamran Raza,Sialkot,Food & Grocery,Daal Masoor 1Kg,2,450,JazzCash,Returned,2023-10-17,4.0,900,2023,10,October,Q4,2023-10,Tuesday,Budget (<500),900.0,-0.31288131069338637
+1278,Asad Malik,Lahore,Electronics,Tablet,4,31500,EasyPaisa,Delivered,2024-02-26,5.0,126000,2024,2,February,Q1,2024-02,Monday,Luxury (10k+),22237.5,2.45605208928583
+1230,Usman Javed,Lahore,Health & Beauty,Hair Oil,4,400,Debit Card,Delivered,2023-11-04,4.0,1600,2023,11,November,Q4,2023-11,Saturday,Budget (<500),1600.0,-0.2973876785592101
+1169,Sobia Butt,Peshawar,Food & Grocery,Flour 10Kg,2,950,Cash on Delivery,Delivered,2024-06-14,4.0,1900,2024,6,June,Q2,2024-06,Friday,Mid (500-2k),1900.0,-0.29074755050170603
+1310,Tariq Chaudhry,Islamabad,Electronics,Power Bank,5,3100,JazzCash,Delivered,2024-04-28,,15500,2024,4,April,Q2,2024-04,Sunday,Premium (2k-10k),15500.0,0.010271588105147242
+1466,Amna Khan,Quetta,Toys,Puzzle 500Pc,1,1000,JazzCash,Delivered,2023-01-08,,1000,2023,1,January,Q1,2023-01,Sunday,Mid (500-2k),1000.0,-0.3106679346742183
+1160,Sana Hussain,Karachi,Health & Beauty,Hair Oil,3,400,Cash on Delivery,Delivered,2024-02-20,5.0,1200,2024,2,February,Q1,2024-02,Tuesday,Budget (<500),1200.0,-0.3062411826358823
+1219,Amna Shah,Karachi,Books & Stationery,Urdu Novel,5,450,Cash on Delivery,Delivered,2023-08-11,5.0,2250,2023,8,August,Q3,2023-08,Friday,Budget (<500),2250.0,-0.2830007344346179
+1079,Hassan Baig,Gujranwala,Electronics,Charger,5,750,EasyPaisa,Cancelled,2024-06-15,5.0,3750,2024,6,June,Q2,2024-06,Saturday,Mid (500-2k),3750.0,-0.24980009414709728
+1294,Imran Khan,Peshawar,Home & Kitchen,Storage Box,5,850,Debit Card,Delivered,2024-04-20,5.0,4250,2024,4,April,Q2,2024-04,Saturday,Mid (500-2k),4250.0,-0.2387332140512571
+1124,Imran Iqbal,Quetta,Toys,Coloring Book,3,350,Credit Card,Delivered,2023-12-20,5.0,1050,2023,12,December,Q4,2023-12,Wednesday,Budget (<500),1050.0,-0.30956124666463436
+1214,Tariq Hussain,Rawalpindi,Home & Kitchen,Pressure Cooker,2,4800,JazzCash,Delivered,2023-11-23,5.0,9600,2023,11,November,Q4,2023-11,Thursday,Premium (2k-10k),9600.0,-0.12031759702576704
+1117,Sobia Chaudhry,Peshawar,Food & Grocery,Spices Pack,1,250,Cash on Delivery,Delivered,2024-03-18,4.0,250,2024,3,March,Q1,2024-03,Monday,Budget (<500),250.0,-0.32726825481797867
+1352,Sana Chaudhry,Gujranwala,Books & Stationery,Atlas,1,1000,Debit Card,Delivered,2024-04-28,4.0,1000,2024,4,April,Q2,2024-04,Sunday,Mid (500-2k),1000.0,-0.3106679346742183
+1321,Imran Iqbal,Islamabad,Sports,Protein Powder,4,4750,Bank Transfer,Delivered,2024-05-05,4.0,19000,2024,5,May,Q2,2024-05,Sunday,Premium (2k-10k),19000.0,0.0877397487760286
+1447,Sara Butt,Faisalabad,Sports,Gym Gloves,5,900,Credit Card,Processing,2024-05-04,,4500,2024,5,May,Q2,2024-05,Saturday,Mid (500-2k),4500.0,-0.233199774003337
+1314,Nadia Hashmi,Rawalpindi,Electronics,Usb Cable,1,350,Credit Card,Delivered,2023-05-14,5.0,350,2023,5,May,Q2,2023-05,Sunday,Budget (<500),350.0,-0.3250548787988106
+1348,Bilal Butt,Rawalpindi,Electronics,Smart Watch,3,12200,Debit Card,Delivered,2024-05-24,5.0,36600,2024,5,May,Q2,2024-05,Friday,Luxury (10k+),22237.5,0.47729392814960336
+1492,Uzma Chaudhry,Peshawar,Toys,Toy Kitchen,4,2100,Cash on Delivery,Shipped,2023-01-17,,8400,2023,1,January,Q1,2023-01,Tuesday,Premium (2k-10k),8400.0,-0.14687810925578348
+1267,Maryam Sheikh,Islamabad,Health & Beauty,Vitamin C,3,950,Credit Card,Delivered,2023-05-19,5.0,2850,2023,5,May,Q2,2023-05,Friday,Mid (500-2k),2850.0,-0.26972047831960966
+1374,Rabia Ansari,Multan,Food & Grocery,Basmati Rice 5Kg,1,1200,EasyPaisa,Returned,2024-04-25,5.0,1200,2024,4,April,Q2,2024-04,Thursday,Mid (500-2k),1200.0,-0.3062411826358823
+1045,Sobia Siddiqui,Rawalpindi,Home & Kitchen,Dinner Set,1,6200,Bank Transfer,Delivered,2024-04-11,5.0,6200,2024,4,April,Q2,2024-04,Thursday,Premium (2k-10k),6200.0,-0.19557238167748034
+1071,Imran Mirza,Islamabad,Electronics,Charger,4,750,Cash on Delivery,Processing,2024-05-18,4.0,3000,2024,5,May,Q2,2024-05,Saturday,Mid (500-2k),3000.0,-0.2664004142908576
+1337,Uzma Chaudhry,Peshawar,Electronics,Power Bank,3,3150,Bank Transfer,Delivered,2023-08-22,4.0,9450,2023,8,August,Q3,2023-08,Tuesday,Premium (2k-10k),9450.0,-0.1236376610545191
+1460,Tariq Raza,Lahore,Clothing,Shawl,5,1450,Bank Transfer,Returned,2023-03-27,4.0,7250,2023,3,March,Q1,2023-03,Monday,Mid (500-2k),7250.0,-0.17233193347621595
+1175,Nimra Ansari,Multan,Food & Grocery,Ghee 1Kg,5,700,JazzCash,Delivered,2024-04-22,4.0,3500,2024,4,April,Q2,2024-04,Monday,Mid (500-2k),3500.0,-0.25533353419501736
+1156,Uzma Siddiqui,Sialkot,Sports,Protein Powder,3,4600,Debit Card,Delivered,2023-10-20,5.0,13800,2023,10,October,Q4,2023-10,Friday,Premium (2k-10k),13800.0,-0.027355804220709413
+1231,Asad Ali,Lahore,Sports,Sports Shoes,4,5550,Cash on Delivery,Delivered,2023-06-25,4.0,22200,2023,6,June,Q2,2023-06,Sunday,Premium (2k-10k),22200.0,0.15856778138940583
+1287,Zara Khan,Peshawar,Electronics,Tablet,4,33450,Credit Card,Returned,2023-09-23,4.0,133800,2023,9,September,Q3,2023-09,Saturday,Luxury (10k+),22237.5,2.628695418780937

@@ -1,0 +1,813 @@
+customer_id,age,gender,city,branch,employment_type,annual_income,loan_type,loan_amount,loan_tenure_months,interest_rate,monthly_emi,credit_score,loan_purpose,loan_status,application_date,debt_to_income
+PKB10001,29.0,Male,Lahore,Gulberg,Government,140000.0,Personal Loan,400000.0,60,13.25,9153.0,763.0,Business Expansion,Approved,2022-09-15 19:53:05.481852,0.785
+PKB10002,63.0,Male,Sialkot,Cantt,Government,,Auto Loan,780000.0,48,20.78,24061.0,554.0,Medical,Approved,2021-01-15 08:57:04.280350,2.724
+PKB10003,49.0,Male,Multan,Gulgasht,Salaried,63000.0,Business Loan,340000.0,24,16.18,16677.0,744.0,Education,Closed,2022-03-03 09:33:06.983729,3.177
+PKB10004,52.0,Female,Rawalpindi,Bahria Town,Salaried,45000.0,Home Loan,920000.0,48,18.79,27406.0,508.0,Business Expansion,Rejected,2024-01-07 22:15:28.160200,7.308
+PKB10005,30.0,Male,Karachi,DHA,Self-Employed,229000.0,Auto Loan,4610000.0,84,19.46,100877.0,747.0,Home Renovation,Defaulted,2023-04-01 20:32:44.455569,5.286
+PKB10006,50.0,Female,Karachi,DHA,Business Owner,38000.0,Personal Loan,210000.0,12,13.11,18767.0,574.0,Business Expansion,Rejected,2022-04-23 12:02:42.202753,5.926
+PKB10007,35.0,Male,Karachi,DHA,Self-Employed,134000.0,Business Loan,510000.0,24,14.35,24571.0,626.0,Wedding,Rejected,2022-11-15 12:20:43.554443,2.2
+PKB10008,61.0,Female,peshawar,University Town,Business Owner,,Education Loan,450000.0,48,19.95,13682.0,588.0,Medical,Defaulted,2023-09-06 23:00:31.539424,6.081
+PKB10009,62.0,Male,Rawalpindi,Saddar,Freelancer,151000.0,Personal Loan,540000.0,84,13.4,9941.0,741.0,Vehicle Purchase,Approved,2021-12-26 07:46:47.008760,0.79
+PKB10010,43.0,Male,Faisalabad,Canal Road,Salaried,177000.0,Home Loan,1490000.0,12,19.22,137470.0,723.0,Electronics,Approved,2021-09-11 22:08:15.619524,9.32
+PKB10011,32.0,Male,KARACHI,Saddar,Government,190000.0,Personal Loan,1070000.0,84,21.2,24540.0,662.0,Vehicle Purchase,Approved,2022-12-17 10:54:13.066332,1.55
+PKB10012,44.0,Male,hyderabad,Latifabad,Government,90000.0,Auto Loan,1320000.0,36,16.91,47002.0,510.0,Business Expansion,Defaulted,2023-09-16 12:58:34.392991,6.267
+PKB10013,22.0,Male,Peshawar,University Town,Freelancer,255000.0,Home Loan,750000.0,36,18.51,27307.0,552.0,Vehicle Purchase,Rejected,2024-04-14 08:15:37.171464,1.285
+PKB10014,58.0,Female,Karachi,DHA,Freelancer,394000.0,Personal Loan,290000.0,60,19.37,7582.0,522.0,Business Expansion,Rejected,2023-08-15 14:25:04.881101,0.231
+PKB10015,42.0,Female,Karachi,Gulshan,Government,81000.0,Home Loan,330000.0,24,19.91,16781.0,406.0,Medical,Approved,2022-06-13 14:32:17.421777,2.486
+PKB10016,47.0,Male,Karachi,Clifton,Salaried,75000.0,Home Loan,1230000.0,36,13.83,41937.0,739.0,Vehicle Purchase,Closed,2023-05-19 18:22:58.723404,6.71
+PKB10017,57.0,Male,Lahore,Model Town,Government,108000.0,Home Loan,820000.0,120,9.19,10472.0,588.0,Wedding,Approved,2022-07-31 12:22:31.689612,1.164
+PKB10018,44.0,Male,Islamabad,I-8,Salaried,74000.0,Auto Loan,1760000.0,84,13.93,32914.0,587.0,Wedding,Rejected,2022-04-10 17:25:18.397997,5.337
+PKB10019,22.0,Male,Lahore,Johar Town,Government,68000.0,Personal Loan,900000.0,24,17.6,44758.0,,Home Renovation,Approved,2024-05-06 16:51:03.829787,7.898
+PKB10020,61.0,Male,Lahore,Gulberg,Business Owner,72000.0,Business Loan,320000.0,120,14.58,5081.0,574.0,Business Expansion,Rejected,2023-10-13 16:33:02.478097,0.847
+PKB10021,36.0,Female,Rawalpindi,Saddar,Salaried,276000.0,Auto Loan,510000.0,36,18.61%,18594.0,540.0,Vehicle Purchase,Defaulted,2021-01-07 09:18:41.902377,0.808
+PKB10022,42.0,Female,KARACHI,Saddar,Government,157000.0,Home Loan,1080000.0,60,13.32,24751.0,598.0,Wedding,Approved,2021-01-04 04:39:20.951188,1.892
+PKB10023,30.0,Female,Lahore,DHA,Self-Employed,74000.0,Personal Loan,1200000.0,48,17.07,34670.0,512.0,Travel,Rejected,2022-08-29 06:16:40.250312,5.622
+PKB10024,30.0,Male,Lahore,Johar Town,Self-Employed,23000.0,Business Loan,1330000.0,60,11.02,28931.0,652.0,Medical,Defaulted,2023-11-30 14:23:16.745932,15.094
+PKB10025,31.0,Female,Islamabad,Blue Area,Salaried,39000.0,Education Loan,350000.0,120,18.62,6447.0,584.0,Electronics,Defaulted,2021-10-07 11:23:03.229036,1.984
+PKB10026,47.0,Female,Multan,Husain Agahi,Government,134000.0,Personal Loan,310000.0,12,15.87%,28107.0,571.0,Medical,Approved,2023-10-05 16:54:40.100125,2.517
+PKB10027,62.0,Male,Karachi,DHA,Freelancer,28000.0,Home Loan,640000.0,36,11.25,21029.0,563.0,Travel,Defaulted,2021-11-06 19:36:52.265331,9.012
+PKB10028,56.0,Male,Islamabad,I-8,Freelancer,118000.0,Personal Loan,2000000.0,120,12.44,29205.0,609.0,Travel,Rejected,2023-12-11 18:41:00.075093,2.97
+PKB10029,46.0,Female,Rawalpindi,Satellite Town,Salaried,52000.0,Auto Loan,450000.0,12,18.61,41387.0,627.0,Home Renovation,Defaulted,2023-04-17 19:49:29.211514,9.551
+PKB10030,47.0,Male,Karachi,Clifton,Business Owner,104000.0,Personal Loan,1000000.0,12,15.02,90268.0,570.0,Medical,Rejected,2024-05-08 07:10:44.305381,10.416
+PKB10031,32.0,Male,Rawalpindi,Saddar,Government,103000.0,Home Loan,1000000.0,84,11.42,17344.0,585.0,Medical,Rejected,2024-04-19 03:14:38.598247,2.021
+PKB10032,59.0,Male,Karachi,DHA,Salaried,106000.0,Auto Loan,1240000.0,24,21.56,64060.0,612.0,Vehicle Purchase,Closed,2023-11-05 01:08:29.136420,7.252
+PKB10033,23.0,Male,Karachi,Gulshan,Salaried,78000.0,Auto Loan,2340000.0,84,18.15,49388.0,602.0,Business Expansion,Defaulted,2021-12-02 08:51:39.874843,7.598
+PKB10034,28.0,Male,Sialkot,Cantt,Salaried,76000.0,Home Loan,2180000.0,36,21.42,82603.0,622.0,Education,Approved,2021-07-24 09:58:20.876095,13.043
+PKB10035,39.0,Female,Hyderabad,Auto Bhan,Business Owner,64000.0,Home Loan,480000.0,12,14.27,43159.0,555.0,Electronics,Rejected,2022-02-09 00:57:40.325406,8.092
+PKB10036,48.0,Female,Peshawar,Saddar,Government,132000.0,Auto Loan,170000.0,120,14.91,2733.0,715.0,Medical,Approved,2023-06-15 21:57:26.808510,0.248
+PKB10037,55.0,Female,Lahore,Johar Town,Government,160000.0,Personal Loan,450000.0,48,20.62,13843.0,629.0,Electronics,Approved,2022-12-19 01:13:53.541927,1.038
+PKB10038,48.0,Male,Karachi,Clifton,Salaried,48000.0,Personal Loan,770000.0,12,15.59,69713.0,572.0,Electronics,Rejected,2023-07-19 10:50:36.795994,17.428
+PKB10039,38.0,Male,Faisalabad,Peoples Colony,Government,,Business Loan,570000.0,120,18.05,10289.0,652.0,Electronics,Approved,2024-01-20 16:52:51.964956,1.286
+PKB10040,64.0,Male,Lahore,Johar Town,Salaried,111000.0,Personal Loan,2890000.0,48,11.9,75963.0,612.0,Medical,Defaulted,2022-09-28 14:30:29.286608,8.212
+PKB10041,45.0,Male,Karachi,DHA,Salaried,110000.0,Auto Loan,740000.0,84,14.53,14085.0,455.0,Education,Approved,2022-09-09 10:34:23.579474,1.537
+PKB10042,46.0,Male,islamabad,F-10,Government,109000.0,Education Loan,1150000.0,84,10.17,19193.0,652.0,Medical,Rejected,2022-03-20 23:09:32.215269,2.113
+PKB10043,28.0,Male,Karachi,DHA,Salaried,78000.0,Personal Loan,850000.0,24,11.28,39727.0,523.0,Vehicle Purchase,Approved,2021-12-21 12:47:45.581977,6.112
+PKB10044,27.0,Male,Quetta,Airport Road,Business Owner,117000.0,Home Loan,570000.0,120,8.51,7070.0,708.0,Vehicle Purchase,Approved,2022-01-09 16:43:51.289111,0.725
+PKB10045,45.0,Male,Lahore,Model Town,Salaried,143000.0,Auto Loan,190000.0,12,9.03,16618.0,597.0,Education,Approved,2021-05-24 17:30:42.803504,1.395
+PKB10046,54.0,Male,Faisalabad,Canal Road,Government,107000.0,Business Loan,690000.0,60,21.69,18936.0,694.0,Wedding,Approved,2021-04-25 23:36:34.242803,2.124
+PKB10047,50.0,Male,Lahore,Gulberg,Self-Employed,134000.0,Education Loan,7120000.0,84,11.77,124813.0,560.0,Medical,Defaulted,2023-07-05 01:53:32.515644,11.177
+PKB10048,64.0,Female,Islamabad,G-9,Self-Employed,179000.0,Auto Loan,310000.0,84,17.45,6416.0,626.0,Wedding,Defaulted,2022-03-30 13:07:35.068836,0.43
+PKB10049,43.0,Male,Islamabad,F-10,Salaried,33000.0,Personal Loan,200000.0,24,19.83,10163.0,734.0,Electronics,Approved,2024-03-13 09:42:07.659574,3.696
+PKB10050,47.0,Female,Karachi,Gulshan,Salaried,174000.0,Auto Loan,2830000.0,48,15.93,80102.0,594.0,Medical,Rejected,2022-10-27 08:24:37.847309,5.524
+PKB10051,49.0,Male,Hyderabad,Qasimabad,Business Owner,121000.0,Home Loan,1230000.0,24,10.57,57082.0,563.0,Business Expansion,Rejected,2023-09-10 03:39:52.490613,5.661
+PKB10052,42.0,Male,Multan,Cantt,Salaried,51000.0,Home Loan,830000.0,12,18.33,76225.0,682.0,Medical,Defaulted,2021-07-21 05:18:59.924906,17.935
+PKB10053,28.0,Female,Sialkot,Paris Road,Business Owner,160000.0,Personal Loan,1890000.0,120,16.6,32370.0,680.0,Vehicle Purchase,Defaulted,2021-03-28 05:42:25.682102,2.428
+PKB10054,,Male,Quetta,Satellite Town,Freelancer,78000.0,Personal Loan,410000.0,36,18.37,14899.0,567.0,Home Renovation,Rejected,2023-12-27 17:57:44.831038,2.292
+PKB10055,41.0,Male,Rawalpindi,Bahria Town,Salaried,84000.0,Business Loan,680000.0,36,18.89,24888.0,431.0,Travel,Defaulted,2022-11-13 22:01:03.078848,3.555
+PKB10056,62.0,Female,Sialkot,Cantt,Salaried,73000.0,Home Loan,1420000.0,120,21.67,29033.0,,Home Renovation,Defaulted,2024-01-04 17:36:07.209011,4.773
+PKB10057,,Male,Karachi,Gulshan,Government,,Home Loan,3200000.0,48,16.24,91083.0,684.0,Home Renovation,Approved,2023-02-17 17:41:31.614518,9.263
+PKB10058,43.0,Female,Karachi,DHA,Freelancer,62000.0,Home Loan,320000.0,84,13.11,5841.0,546.0,Home Renovation,Rejected,2023-11-19 10:05:33.416770,1.131
+PKB10059,49.0,Male,Karachi,Gulshan,Business Owner,170000.0,Business Loan,1790000.0,48,17.25,51882.0,618.0,Travel,Closed,2024-02-13 15:47:59.098873,3.662
+PKB10060,61.0,Male,Lahore,Johar Town,Self-Employed,91000.0,Auto Loan,950000.0,84,9.42,15488.0,557.0,Wedding,Defaulted,2021-09-23 02:25:58.948685,2.042
+PKB10061,28.0,Male,Lahore,Johar Town,Government,79000.0,Personal Loan,820000.0,84,20.61,18511.0,436.0,Travel,Rejected,2023-05-24 13:22:00.150187,2.812
+PKB10062,22.0,Male,Lahore,Model Town,Salaried,155000.0,Personal Loan,730000.0,36,10.11,23593.0,555.0,Wedding,Rejected,2024-05-01 21:52:02.403003,1.827
+PKB10063,53.0,Female,Peshawar,Hayatabad,Freelancer,81000.0,Personal Loan,280000.0,48,12.93,7502.0,683.0,Travel,Approved,2021-08-15 18:33:47.534418,1.111
+PKB10064,34.0,Female,Lahore,Model Town,Freelancer,174000.0,Education Loan,1430000.0,24,19.51,72439.0,394.0,Travel,Rejected,2022-07-21 22:24:28.836045,4.996
+PKB10065,51.0,Male,Lahore,Johar Town,Salaried,178000.0,Auto Loan,420000.0,84,16.56,8477.0,643.0,Medical,Rejected,2023-04-03 10:52:24.931163,0.571
+PKB10066,44.0,Male,Islamabad,F-10,Salaried,44000.0,Home Loan,340000.0,60,13.81,7878.0,507.0,Wedding,Rejected,2023-10-10 11:53:41.526908,2.149
+PKB10067,40.0,Female,Karachi,Gulshan,Salaried,192000.0,Auto Loan,1360000.0,60,14.89,32276.0,677.0,Medical,Rejected,2021-08-26 22:51:30.863579,2.017
+PKB10068,53.0,Male,Peshawar,University Town,Salaried,41000.0,Home Loan,1270000.0,24,20.04,64662.0,687.0,Business Expansion,Defaulted,2023-12-21 08:39:02.928660,18.925
+PKB10069,51.0,Male,KARACHI,DHA,Business Owner,199000.0,Business Loan,770000.0,60,13.09,17555.0,603.0,Medical,Approved,2021-05-27 22:10:03.754693,1.059
+PKB10070,50.0,Male,Hyderabad,Qasimabad,Salaried,333000.0,Home Loan,1550000.0,12,20.24,143762.0,603.0,Home Renovation,Approved,2023-03-21 16:15:01.126408,5.181
+PKB10071,50.0,Male,Multan,Husain Agahi,Salaried,167000.0,Personal Loan,1980000.0,84,9.69,32554.0,543.0,Education,Rejected,2022-09-11 00:54:04.055068,2.339
+PKB10072,51.0,Female,Karachi,DHA,Salaried,27000.0,Personal Loan,1820000.0,24,18.99,91735.0,492.0,Education,Defaulted,2021-07-08 10:41:36.120150,40.771
+PKB10073,37.0,Female,Karachi,Clifton,Freelancer,187000.0,Home Loan,500000.0,48,19.94,15199.0,781.0,Vehicle Purchase,Approved,2023-01-31 04:05:06.382978,0.975
+PKB10074,61.0,Male,Peshawar,Hayatabad,Government,380000.0,Education Loan,1480000.0,84,10.95,25302.0,537.0,Vehicle Purchase,Rejected,2022-02-25 00:14:25.081351,0.799
+PKB10075,40.0,Male,Faisalabad,Clock Tower,Self-Employed,82000.0,Home Loan,850000.0,24,14.31,40936.0,768.0,Electronics,Defaulted,2022-05-15 20:38:08.861076,5.991
+PKB10076,39.0,Male,Faisalabad,Canal Road,Salaried,97000.0,Business Loan,2440000.0,36,10.73,,538.0,Medical,Rejected,2023-06-14 07:37:46.332916,9.844
+PKB10077,22.0,Male,Multan,Gulgasht,Freelancer,48000.0,Business Loan,670000.0,48,18.04,19695.0,669.0,Travel,Closed,2021-03-04 06:47:18.548185,4.924
+PKB10078,35.0,Male,Karachi,Clifton,Business Owner,119000.0,Personal Loan,570000.0,36,15.73,19964.0,511.0,Travel,Closed,2022-06-10 09:52:56.470588,2.013
+PKB10079,23.0,Female,Lahore,Model Town,Salaried,211000.0,Personal Loan,470000.0,84,17.08,9627.0,669.0,Education,Approved,2024-06-26 19:20:39.048811,0.548
+PKB10080,49.0,Male,karachi,Saddar,Salaried,150000.0,Personal Loan,830000.0,48,11.15,21512.0,589.0,Home Renovation,Rejected,2023-10-12 02:13:22.002503,1.721
+PKB10081,51.0,Male,Peshawar,University Town,Salaried,650000.0,Auto Loan,1010000.0,60,11.36,22142.0,590.0,Wedding,Closed,2023-11-11 10:27:11.038798,0.409
+PKB10082,59.0,Male,Rawalpindi,Satellite Town,Salaried,101000.0,Personal Loan,1020000.0,24,9.06,46627.0,677.0,Home Renovation,Closed,2023-12-16 13:40:01.501877,5.54
+PKB10083,25.0,Male,Lahore,Gulberg,Self-Employed,37000.0,Home Loan,930000.0,84,12.85,16843.0,575.0,Electronics,Approved,2021-05-19 22:31:41.376720,5.463
+PKB10084,22.0,Male,Karachi,Clifton,Freelancer,109000.0,Home Loan,1170000.0,12,16.06,106188.0,484.0,Home Renovation,Approved,2022-12-12 15:55:11.639549,11.69
+PKB10085,29.0,Female,Lahore,DHA,Self-Employed,23000.0,Auto Loan,620000.0,48,20.08,18893.0,692.0,Medical,Approved,2021-09-02 08:10:12.765957,9.857
+PKB10086,50.0,Male,Lahore,Model Town,Business Owner,72000.0,Personal Loan,400000.0,48,17.5,11646.0,511.0,Medical,Closed,2023-02-08 03:43:28.760951,1.941
+PKB10087,60.0,Female,Faisalabad,Canal Road,Self-Employed,262000.0,Home Loan,370000.0,120,14.38,5830.0,669.0,Business Expansion,Approved,2022-01-28 20:39:56.996245,0.267
+PKB10088,24.0,Male,Rawalpindi,Satellite Town,Government,120000.0,Home Loan,1440000.0,84,21.37,33175.0,,Electronics,Approved,2021-05-10 08:33:38.523153,3.318
+PKB10089,53.0,Male,Quetta,Jinnah Road,Government,110000.0,Home Loan,1010000.0,84,18.21,21353.0,584.0,Home Renovation,Defaulted,2021-09-27 21:25:00.375469,2.329
+PKB10090,31.0,Male,Islamabad,G-9,Salaried,294000.0,Business Loan,200000.0,36,21.06,7541.0,732.0,Travel,Approved,2021-11-29 04:12:18.923654,0.308
+PKB10091,31.0,Male,Karachi,DHA,Salaried,84000.0,Personal Loan,1570000.0,120,15.62,25929.0,665.0,Travel,Rejected,2023-11-13 00:46:51.514392,3.704
+PKB10092,40.0,Male,Faisalabad,Canal Road,Government,210000.0,Business Loan,2720000.0,60,12.0,60505.0,553.0,Electronics,Rejected,2021-11-19 14:14:16.070087,3.457
+PKB10093,55.0,Male,Multan,Gulgasht,Salaried,107000.0,Auto Loan,440000.0,36,9.21,14035.0,753.0,Home Renovation,Defaulted,2022-08-10 02:20:34.543178,1.574
+PKB10094,54.0,Female,Islamabad,F-10,Salaried,124000.0,Auto Loan,920000.0,120,18.3,16755.0,,Medical,Rejected,2021-07-06 20:21:55.644555,1.621
+PKB10095,44.0,Female,Multan,Cantt,Self-Employed,48000.0,Auto Loan,520000.0,36,10.14,16813.0,584.0,Medical,Defaulted,2022-08-02 02:42:12.165206,4.203
+PKB10096,49.0,Male,Islamabad,F-10,Freelancer,74000.0,Home Loan,1130000.0,60,12.59,25474.0,600.0,Business Expansion,Rejected,2022-01-06 12:04:30.337922,4.131
+PKB10097,53.0,Male,Islamabad,Blue Area,Self-Employed,,Personal Loan,320000.0,120,15.69,5299.0,677.0,Business Expansion,Approved,2023-07-14 15:51:35.369211,1.479
+PKB10098,28.0,Male,Lahore,Model Town,Business Owner,93000.0,Auto Loan,690000.0,120,16.12,11610.0,725.0,Vehicle Purchase,Approved,2021-06-01 17:09:05.181476,1.498
+PKB10099,,Male,Karachi,Saddar,Self-Employed,125000.0,Home Loan,1450000.0,12,16.61,131979.0,720.0,Electronics,Approved,2024-04-03 03:57:53.842302,12.67
+PKB10100,29.0,Male,Karachi,Clifton,Government,,Auto Loan,1730000.0,36,10.74,56425.0,,Education,Approved,2022-08-24 11:17:38.823529,13.276
+PKB10101,22.0,Female,Karachi,Gulshan,Self-Employed,338000.0,Home Loan,980000.0,36,13.63,,593.0,Home Renovation,Defaulted,2022-08-11 16:40:15.018773,1.183
+PKB10102,24.0,Male,Rawalpindi,Bahria Town,Business Owner,117000.0,Education Loan,580000.0,48,16.83,16685.0,446.0,Electronics,Defaulted,2021-08-17 08:53:28.010012,1.711
+PKB10103,45.0,Male,Lahore,Model Town,Self-Employed,102000.0,Auto Loan,240000.0,60,21.59,6573.0,495.0,Travel,Rejected,2021-08-07 18:55:25.156445,0.773
+PKB10104,44.0,Male,Islamabad,F-10,Government,157000.0,Personal Loan,430000.0,24,18.32,21534.0,787.0,Home Renovation,Approved,2021-01-26 13:14:47.609511,1.646
+PKB10105,29.0,Male,Quetta,Satellite Town,Government,60000.0,Home Loan,530000.0,12,20.96,49340.0,445.0,Business Expansion,Rejected,2023-05-30 22:40:42.052565,9.868
+PKB10106,58.0,Female,Karachi,Clifton,Self-Employed,109000.0,Business Loan,450000.0,120,18.79,8339.0,545.0,Business Expansion,Defaulted,2024-02-18 10:47:00.525657,0.918
+PKB10107,24.0,Male,Lahore,DHA,Salaried,64000.0,Business Loan,760000.0,120,16.49,12964.0,728.0,Vehicle Purchase,Approved,2024-03-29 08:58:52.415519,2.431
+PKB10108,54.0,Male,Multan,Gulgasht,Salaried,252000.0,Home Loan,570000.0,120,11.09,7881.0,639.0,Education,Approved,2022-09-17 10:12:45.957446,0.375
+PKB10109,49.0,Female,Karachi,Gulshan,Salaried,52000.0,Business Loan,820000.0,12,17.5,74983.0,708.0,Vehicle Purchase,Approved,2021-01-18 13:36:25.231539,17.304
+PKB10110,29.0,Male,Karachi,Gulshan,Business Owner,103000.0,Personal Loan,1690000.0,120,16.92,29286.0,671.0,Travel,Approved,2023-07-03 11:33:52.040050,3.412
+PKB10111,55.0,Female,Lahore,Model Town,Salaried,120000.0,Home Loan,550000.0,120,16.63,9430.0,759.0,Education,Approved,2021-12-13 13:09:23.204005,0.943
+PKB10112,56.0,Male,Karachi,Gulshan,Salaried,125000.0,Business Loan,280000.0,60,15.11,6677.0,648.0,Wedding,Approved,2023-08-04 10:07:21.551939,0.641
+PKB10113,53.0,Male,Sialkot,Paris Road,Government,70000.0,Business Loan,450000.0,84,15.64,8846.0,683.0,Home Renovation,Approved,2023-11-21 00:25:13.892365,1.516
+PKB10114,45.0,Female,Peshawar,Hayatabad,Salaried,58000.0,Auto Loan,1100000.0,84,13.01,20017.0,551.0,Vehicle Purchase,Defaulted,2021-01-16 23:16:44.755944,4.141
+PKB10115,35.0,Male,Rawalpindi,Satellite Town,Self-Employed,70000.0,Business Loan,1170000.0,48,15.51,32865.0,675.0,Business Expansion,Approved,2023-03-08 21:37:37.321652,5.634
+PKB10116,53.0,Male,Quetta,Airport Road,Salaried,,Personal Loan,970000.0,48,11.17,25150.0,582.0,Vehicle Purchase,Approved,2021-03-26 15:22:45.206508,2.219
+PKB10117,64.0,Male,Peshawar,University Town,Freelancer,91000.0,Business Loan,1810000.0,120,19.37,34227.0,576.0,Wedding,Rejected,2023-07-25 20:09:18.698372,4.513
+PKB10118,37.0,Male,Karachi,Gulshan,Business Owner,159000.0,Home Loan,640000.0,60,11.01,13918.0,704.0,Vehicle Purchase,Approved,2023-08-14 00:05:24.405506,1.05
+PKB10119,25.0,Male,Quetta,Airport Road,Business Owner,,Personal Loan,3070000.0,120,9.65,39978.0,705.0,Home Renovation,Rejected,2024-04-17 12:54:58.122653,3.662
+PKB10120,,Female,Islamabad,F-10,Self-Employed,,Personal Loan,1290000.0,48,14.39,35504.0,780.0,Wedding,Approved,2022-01-14 11:42:52.715894,17.042
+PKB10121,42.0,Female,Peshawar,University Town,Government,115000.0,Home Loan,120000.0,12,17.39,10967.0,774.0,Electronics,Approved,2022-04-12 07:44:58.873591,1.144
+PKB10122,35.0,Male,Quetta,Satellite Town,Salaried,381000.0,Personal Loan,2570000.0,12,14.41,231249.0,707.0,Electronics,Approved,2023-02-11 08:22:49.712140,7.283
+PKB10123,52.0,Male,Lahore,Gulberg,Salaried,219000.0,Home Loan,430000.0,24,12.24,20290.0,456.0,Electronics,Rejected,2023-06-09 12:38:44.906132,1.112
+PKB10124,39.0,Male,Karachi,DHA,Salaried,127000.0,Personal Loan,350000.0,84,16.04,6960.0,,Business Expansion,Approved,2021-05-21 12:51:21.852315,0.658
+PKB10125,28.0,Male,Karachi,DHA,Self-Employed,52000.0,Personal Loan,1050000.0,60,13.18,23988.0,707.0,Business Expansion,Defaulted,2021-02-21 02:29:35.219023,5.536
+PKB10126,31.0,Male,Lahore,DHA,Self-Employed,131000.0,Auto Loan,220000.0,36,21.09,8299.0,547.0,Electronics,Rejected,2023-09-05 08:40:51.063829,0.76
+PKB10127,28.0,Male,Peshawar,Saddar,Self-Employed,154000.0,Home Loan,450000.0,84,20.96,10255.0,689.0,Electronics,Approved,2023-01-15 04:48:21.627033,0.799
+PKB10128,54.0,Female,Peshawar,Saddar,Salaried,85000.0,Home Loan,2170000.0,36,15.28,75522.0,521.0,Electronics,Approved,2021-12-18 08:08:24.630788,10.662
+PKB10129,44.0,Male,Karachi,Gulshan,Self-Employed,119000.0,Auto Loan,1080000.0,24,12.93,51310.0,678.0,Medical,Approved,2021-08-06 04:35:44.680851,5.174
+PKB10130,42.0,Male,Islamabad,F-10,Government,244000.0,Business Loan,1290000.0,24,18.45,64683.0,494.0,Electronics,Rejected,2021-09-05 12:49:33.717146,3.181
+PKB10131,40.0,Male,Lahore,Model Town,Self-Employed,59000.0,Business Loan,460000.0,120,9.0,5827.0,543.0,Wedding,Rejected,2024-05-22 16:07:48.585732,1.185
+PKB10132,40.0,Female,Karachi,DHA,Government,52000.0,Home Loan,250000.0,48,14.91,6946.0,687.0,Medical,Rejected,2021-04-02 00:41:27.108886,1.603
+PKB10133,57.0,Female,Karachi,Gulshan,Salaried,150000.0,Auto Loan,1200000.0,24,13.04,57073.0,721.0,Medical,Approved,2021-05-26 07:50:23.279098,4.566
+PKB10134,50.0,Male,Lahore,Gulberg,Business Owner,130000.0,Personal Loan,1400000.0,24,20.93,71892.0,650.0,Home Renovation,Approved,2023-08-31 13:41:49.637046,6.636
+PKB10135,39.0,Male,Sialkot,Kashmir Road,Self-Employed,183000.0,Personal Loan,1360000.0,36,8.66,43033.0,592.0,Vehicle Purchase,Defaulted,2022-10-08 04:28:32.140175,2.822
+PKB10136,23.0,Female,Lahore,Gulberg,Salaried,139000.0,Home Loan,840000.0,48,15.96,23789.0,419.0,Business Expansion,Closed,2022-05-17 10:57:49.336670,2.054
+PKB10137,22.0,Male,Islamabad,I-8,Salaried,70000.0,Business Loan,370000.0,24,18.5,18561.0,600.0,Business Expansion,Approved,2021-02-09 22:11:51.889862,3.182
+PKB10138,26.0,Female,Faisalabad,Clock Tower,Government,128000.0,Personal Loan,4020000.0,84,15.05,77686.0,670.0,Vehicle Purchase,Approved,2023-09-14 22:38:53.917396,7.283
+PKB10139,41.0,Male,Lahore,Gulberg,Business Owner,50000.0,Personal Loan,1020000.0,24,9.65,46903.0,589.0,Business Expansion,Rejected,2021-08-18 23:13:08.485607,11.257
+PKB10140,,Male,Hyderabad,Auto Bhan,Self-Employed,,Personal Loan,650000.0,48,21.63,20349.0,617.0,Vehicle Purchase,Approved,2022-12-25 10:32:35.444305,2.873
+PKB10141,63.0,Male,Hyderabad,Qasimabad,Salaried,133000.0,Business Loan,650000.0,120,15.49,10683.0,,Wedding,Approved,2023-09-29 07:35:58.197747,0.964
+PKB10142,23.0,Female,Lahore,Gulberg,Business Owner,80000.0,Auto Loan,810000.0,60,16.79,20039.0,589.0,Home Renovation,Approved,2023-05-13 09:04:16.821026,3.006
+PKB10143,24.0,Male,Islamabad,I-8,Government,434000.0,Personal Loan,1540000.0,48,11.69,40320.0,627.0,Electronics,Rejected,2022-09-06 05:55:02.628285,1.115
+PKB10144,44.0,Female,lahore,Gulberg,Self-Employed,32000.0,Auto Loan,830000.0,36,15.03,28784.0,594.0,Home Renovation,Rejected,2022-04-20 07:23:21.251564,10.794
+PKB10145,33.0,Male,Lahore,Gulberg,Self-Employed,71000.0,Home Loan,1330000.0,60,14.29,31147.0,757.0,Travel,Approved,2022-08-05 07:21:33.116395,5.264
+PKB10146,41.0,Male,Karachi,Clifton,Salaried,56000.0,Auto Loan,810000.0,84,9.51,13243.0,410.0,Home Renovation,Approved,2023-03-02 12:18:55.419274,2.838
+PKB10147,26.0,Male,Rawalpindi,Bahria Town,Government,65000.0,Personal Loan,670000.0,12,9.93,58882.0,568.0,Vehicle Purchase,Defaulted,2022-02-02 15:38:58.423028,10.871
+PKB10148,58.0,Male,Islamabad,I-8,Salaried,67000.0,Business Loan,1140000.0,48,19.81,34575.0,537.0,Travel,Approved,2021-04-21 04:37:32.816020,6.193
+PKB10149,59.0,Male,Karachi,DHA,Freelancer,45000.0,Home Loan,1110000.0,120,11.74,15759.0,640.0,Vehicle Purchase,Rejected,2024-06-18 19:42:16.670838,4.202
+PKB10150,51.0,Male,Lahore,DHA,Self-Employed,155000.0,Auto Loan,650000.0,36,11.13,21320.0,627.0,Electronics,Approved,2022-06-24 18:50:00.750938,1.651
+PKB10151,30.0,Female,Quetta,Satellite Town,Self-Employed,,Personal Loan,430000.0,84,15.32,8375.0,774.0,Education,Approved,2021-11-03 14:57:31.314142,1.415
+PKB10152,55.0,Male,Karachi,Saddar,Self-Employed,109000.0,Home Loan,930000.0,60,18.88%,24063.0,805.0,Travel,Approved,2024-03-22 23:40:10.513141,2.649
+PKB10153,56.0,Female,Karachi,Clifton,Business Owner,76000.0,Home Loan,770000.0,84,9.34,12522.0,546.0,Electronics,Approved,2024-01-01 12:56:46.257822,1.977
+PKB10154,43.0,Male,islamabad,F-10,Business Owner,65000.0,Home Loan,490000.0,48,16.29,13960.0,620.0,Electronics,Approved,2021-09-29 11:44:40.851063,2.577
+PKB10155,45.0,Female,Hyderabad,Qasimabad,Self-Employed,269000.0,Personal Loan,400000.0,24,10.11,18478.0,638.0,Business Expansion,Approved,2021-06-08 02:27:47.083854,0.824
+PKB10156,38.0,Male,Karachi,DHA,Government,172000.0,Business Loan,970000.0,120,8.99,12282.0,544.0,Business Expansion,Rejected,2022-07-26 17:23:30.262828,0.857
+PKB10157,31.0,Male,Faisalabad,Canal Road,Self-Employed,32000.0,Personal Loan,1070000.0,48,9.21%,26734.0,679.0,Education,Rejected,2023-04-21 00:28:50.162703,10.025
+PKB10158,51.0,Male,Multan,Gulgasht,Self-Employed,30000.0,Auto Loan,570000.0,12,19.76,52736.0,597.0,Education,Rejected,2023-12-06 23:41:58.648310,21.094
+PKB10159,44.0,Male,Karachi,Saddar,Salaried,185000.0,Business Loan,490000.0,48,10.09,12449.0,518.0,Home Renovation,Approved,2023-10-08 21:34:01.051314,0.808
+PKB10160,53.0,Female,faisalabad,Peoples Colony,Self-Employed,72000.0,Auto Loan,410000.0,60,9.11,8533.0,593.0,Electronics,Rejected,2024-02-21 15:26:21.476846,1.422
+PKB10161,38.0,Male,Lahore,Gulberg,Salaried,37000.0,Auto Loan,950000.0,60,14.41,22307.0,525.0,Education,Rejected,2023-01-23 04:26:44.005006,7.235
+PKB10162,38.0,Male,Rawalpindi,Saddar,Business Owner,185000.0,Auto Loan,420000.0,48,19.89,12756.0,718.0,Vehicle Purchase,Closed,2021-04-05 05:20:48.060075,0.827
+PKB10163,35.0,Female,RAWALPINDI,Satellite Town,Salaried,109000.0,Home Loan,3500000.0,60,12.04,77926.0,800.0,Electronics,Approved,2024-02-10 11:08:38.147684,8.579
+PKB10164,30.0,Male,Islamabad,F-10,Freelancer,115000.0,Business Loan,550000.0,24,14.19,26456.0,643.0,Medical,Approved,2022-05-31 19:54:53.617021,2.761
+PKB10165,61.0,Female,Karachi,Gulshan,Self-Employed,160000.0,Personal Loan,130000.0,84,9.04,2094.0,630.0,Vehicle Purchase,Rejected,2022-02-17 00:36:02.703379,0.157
+PKB10166,23.0,Male,Peshawar,Hayatabad,Government,45000.0,Auto Loan,710000.0,48,14.56,19602.0,634.0,Travel,Closed,2022-10-03 09:29:30.713391,5.227
+PKB10167,46.0,Female,Lahore,Johar Town,Self-Employed,37000.0,Auto Loan,690000.0,120,16.3,11688.0,732.0,Education,Defaulted,2023-03-04 02:38:35.894868,3.791
+PKB10168,60.0,Male,Karachi,DHA,Salaried,255000.0,Home Loan,1590000.0,24,16.21,78011.0,730.0,Business Expansion,Approved,2022-12-22 05:53:14.493116,3.671
+PKB10169,30.0,Male,Karachi,Saddar,Salaried,42000.0,Home Loan,890000.0,84,12.99,16186.0,609.0,Vehicle Purchase,Approved,2023-08-21 23:43:46.783479,4.625
+PKB10170,43.0,Male,Rawalpindi,Bahria Town,Salaried,47000.0,Home Loan,410000.0,120,12.76,6064.0,643.0,Business Expansion,Approved,2022-06-12 00:12:36.946182,1.548
+PKB10171,64.0,Female,Faisalabad,Canal Road,Government,53000.0,Business Loan,600000.0,120,9.94,7909.0,682.0,Vehicle Purchase,Approved,2023-04-13 00:50:27.784730,1.791
+PKB10172,25.0,Male,Karachi,Clifton,Self-Employed,344000.0,Education Loan,920000.0,120,13.45,13982.0,511.0,Business Expansion,Defaulted,2022-02-13 19:56:41.752190,0.488
+PKB10173,47.0,Male,Islamabad,F-10,Government,133000.0,Home Loan,160000.0,84,9.84,2643.0,735.0,Wedding,Approved,2022-11-02 17:43:19.749687,0.238
+PKB10174,50.0,Male,Karachi,Saddar,Salaried,176000.0,Auto Loan,1860000.0,24,18.85,93625.0,,Vehicle Purchase,Approved,2023-10-23 06:31:05.331664,6.384
+PKB10175,55.0,Female,Rawalpindi,Satellite Town,Salaried,111000.0,Education Loan,410000.0,120,21.54,8347.0,730.0,Travel,Approved,2022-06-05 14:53:55.043804,0.902
+PKB10176,44.0,Female,Karachi,DHA,Self-Employed,69000.0,Personal Loan,1970000.0,120,21.6,40184.0,501.0,Business Expansion,Defaulted,2021-08-31 17:50:32.290362,6.989
+PKB10177,58.0,Female,Faisalabad,Clock Tower,Freelancer,144000.0,Personal Loan,960000.0,36,20.18,35765.0,432.0,Medical,Rejected,2024-03-26 04:19:31.464330,2.98
+PKB10178,32.0,Male,Lahore,Johar Town,Government,39000.0,Auto Loan,1130000.0,48,16.61,32379.0,687.0,Travel,Rejected,2022-07-25 03:03:49.787234,9.963
+PKB10179,27.0,Male,Sialkot,Cantt,Self-Employed,51000.0,Business Loan,1630000.0,84,17.96,34221.0,547.0,Home Renovation,Rejected,2022-11-10 17:21:42.127659,8.052
+PKB10180,39.0,Male,Karachi,DHA,Self-Employed,153000.0,Business Loan,1090000.0,84,12.35,19446.0,647.0,Vehicle Purchase,Defaulted,2023-05-06 23:45:34.918648,1.525
+PKB10181,42.0,Female,Lahore,Gulberg,Salaried,44000.0,Home Loan,1170000.0,60,17.02,29090.0,765.0,Medical,Defaulted,2021-03-10 16:06:00.450563,7.934
+PKB10182,63.0,Male,Karachi,Gulshan,Freelancer,88000.0,Personal Loan,650000.0,84,14.65,12416.0,557.0,Home Renovation,Rejected,2021-12-23 03:07:26.057571,1.693
+PKB10183,57.0,Male,Sialkot,Kashmir Road,Government,91000.0,Home Loan,950000.0,24,15.01,46067.0,584.0,Vehicle Purchase,Defaulted,2022-10-11 09:07:53.091364,6.075
+PKB10184,62.0,Female,Quetta,Satellite Town,Salaried,72000.0,Personal Loan,480000.0,84,18.73,10295.0,646.0,Medical,Defaulted,2021-11-02 00:37:50.838548,1.716
+PKB10185,59.0,Male,Lahore,Johar Town,Self-Employed,31000.0,Personal Loan,570000.0,36,12.31,19017.0,496.0,Medical,Rejected,2023-03-31 06:13:03.979974,7.361
+PKB10186,55.0,Male,Faisalabad,Peoples Colony,Salaried,68000.0,Business Loan,2890000.0,48,12.79,77231.0,548.0,Travel,Rejected,2024-03-15 00:01:48.135168,13.629
+PKB10187,38.0,Male,Peshawar,Hayatabad,Freelancer,60000.0,Personal Loan,410000.0,48,20.98,12692.0,622.0,Wedding,Defaulted,2022-04-02 17:46:56.020025,2.538
+PKB10188,58.0,Male,Islamabad,G-9,Salaried,109000.0,Business Loan,810000.0,84,9.26,13139.0,591.0,Medical,Rejected,2023-03-07 07:17:56.846057,1.446
+PKB10189,46.0,Female,Islamabad,Blue Area,Government,105000.0,Home Loan,790000.0,120,15.06,12775.0,677.0,Wedding,Approved,2023-06-19 02:36:47.759699,1.46
+PKB10190,59.0,Male,karachi,DHA,Salaried,124000.0,Auto Loan,590000.0,12,20.82,54886.0,882.0,Education,Defaulted,2022-02-28 04:53:46.032540,5.312
+PKB10191,33.0,Male,Karachi,Gulshan,Government,66000.0,Personal Loan,1050000.0,12,16.74,95635.0,629.0,Travel,Rejected,2023-07-01 21:14:11.564455,17.388
+PKB10192,44.0,Male,Quetta,Airport Road,Government,135000.0,Home Loan,1100000.0,120,15.88,18344.0,540.0,Electronics,Rejected,2022-07-15 13:05:46.933667,1.631
+PKB10193,63.0,Male,Quetta,Satellite Town,Government,39000.0,Personal Loan,380000.0,120,11.87,5423.0,754.0,Business Expansion,Approved,2021-03-12 06:25:40.926157,1.669
+PKB10194,43.0,Female,Rawalpindi,Saddar,Government,33000.0,Education Loan,780000.0,120,13.13,11706.0,469.0,Travel,Rejected,2021-10-26 15:19:08.936170,4.257
+PKB10195,42.0,Male,Lahore,Model Town,Business Owner,24000.0,Business Loan,340000.0,24,20.0,17305.0,488.0,Home Renovation,Rejected,2021-08-01 09:36:43.254067,8.652
+PKB10196,48.0,Male,Lahore,Johar Town,Salaried,73000.0,Home Loan,1270000.0,12,16.05,115258.0,563.0,Business Expansion,Approved,2021-07-14 20:00:18.022528,18.947
+PKB10197,52.0,Male,faisalabad,Clock Tower,Salaried,63000.0,Personal Loan,830000.0,120,15.45,13620.0,593.0,Business Expansion,Defaulted,2023-10-21 16:11:24.856070,2.594
+PKB10198,27.0,Male,quetta,Satellite Town,Salaried,159000.0,Education Loan,770000.0,24,9.84,35475.0,561.0,Electronics,Rejected,2022-05-22 05:56:50.763454,2.677
+PKB10199,48.0,Male,Quetta,Satellite Town,Freelancer,67000.0,Home Loan,1160000.0,60,8.72,23922.0,617.0,Wedding,Approved,2023-06-22 07:16:08.710888,4.285
+PKB10200,61.0,Female,Multan,Gulgasht,Salaried,116000.0,Personal Loan,600000.0,24,21.51,30982.0,646.0,Electronics,Approved,2023-04-30 14:26:53.016270,3.205
+PKB10201,55.0,Female,Rawalpindi,Bahria Town,Government,161000.0,Auto Loan,1380000.0,12,13.59,,721.0,Electronics,Closed,2022-01-11 07:03:31.764705,9.215
+PKB10202,33.0,Female,Karachi,Gulshan,Government,65000.0,Education Loan,380000.0,84,16.64,7687.0,628.0,Business Expansion,Approved,2022-11-09 03:02:01.652065,1.419
+PKB10203,28.0,Male,Karachi,Saddar,Salaried,118000.0,Personal Loan,1960000.0,60,9.58,41240.0,566.0,Medical,Approved,2023-03-28 01:33:43.028785,4.194
+PKB10204,31.0,Male,Quetta,Satellite Town,Salaried,180000.0,Personal Loan,500000.0,12,17.72,45773.0,716.0,Wedding,Approved,2024-06-20 10:01:57.146433,3.052
+PKB10205,38.0,Male,Rawalpindi,Bahria Town,Salaried,47000.0,Education Loan,220000.0,24,21.09,11315.0,542.0,Business Expansion,Rejected,2023-11-25 19:24:15.319148,2.889
+PKB10206,47.0,Male,Karachi,Gulshan,Self-Employed,100000.0,Personal Loan,580000.0,36,16.27,20468.0,464.0,Wedding,Rejected,2023-09-11 17:59:32.966207,2.456
+PKB10207,,Male,Karachi,Clifton,Salaried,66000.0,Personal Loan,540000.0,48,10.2,13748.0,734.0,Education,Approved,2022-12-01 11:37:28.310387,2.5
+PKB10208,49.0,Male,Faisalabad,Clock Tower,Salaried,49000.0,Auto Loan,580000.0,12,16.35,52720.0,728.0,Wedding,Approved,2022-11-20 07:19:44.981226,12.911
+PKB10209,23.0,Female,Karachi,Gulshan,Business Owner,,Business Loan,860000.0,120,18.85,15970.0,544.0,Vehicle Purchase,Approved,2021-07-05 06:02:15.168961,4.914
+PKB10210,64.0,Male,Karachi,DHA,Freelancer,48000.0,Home Loan,1570000.0,24,13.99%,75373.0,582.0,Medical,Rejected,2024-03-02 05:24:24.330413,18.843
+PKB10211,22.0,Male,Islamabad,F-10,Salaried,102000.0,Education Loan,640000.0,120,20.38,12530.0,532.0,Home Renovation,Rejected,2022-02-21 19:35:04.130162,1.474
+PKB10212,57.0,Female,Faisalabad,Canal Road,Salaried,38000.0,Auto Loan,450000.0,120,17.26,7895.0,651.0,Vehicle Purchase,Approved,2022-11-17 02:40:24.030037,2.493
+PKB10213,47.0,Male,Faisalabad,Clock Tower,Salaried,71000.0,Personal Loan,330000.0,120,20.64,6518.0,784.0,Vehicle Purchase,Approved,2021-06-09 16:47:27.559449,1.102
+PKB10214,50.0,Female,karachi,Clifton,Government,161000.0,Education Loan,530000.0,120,16.92,9184.0,686.0,Electronics,Approved,2022-10-12 23:27:33.566958,0.685
+PKB10215,42.0,Female,Faisalabad,Clock Tower,Business Owner,129000.0,Home Loan,190000.0,120,10.27,2539.0,718.0,Electronics,Approved,2023-04-08 05:51:26.357947,0.236
+PKB10216,32.0,Female,Karachi,Saddar,Salaried,72000.0,Personal Loan,440000.0,60,12.68,9939.0,697.0,Vehicle Purchase,Rejected,2022-02-10 15:17:20.801001,1.656
+PKB10217,61.0,Male,Lahore,Model Town,Salaried,272000.0,Auto Loan,1740000.0,12,11.22,153963.0,619.0,Business Expansion,Approved,2022-04-09 03:05:37.922403,6.792
+PKB10218,,Female,Multan,Cantt,Government,307000.0,Home Loan,410000.0,12,20.77,38131.0,722.0,Wedding,Approved,2021-06-30 11:03:13.742177,1.49
+PKB10219,57.0,Male,Rawalpindi,Bahria Town,Government,100000.0,Personal Loan,1130000.0,48,18.77%,33650.0,690.0,Wedding,Approved,2024-06-10 20:03:54.292866,4.038
+PKB10220,60.0,Female,Peshawar,Hayatabad,Salaried,22000.0,Personal Loan,310000.0,24,17.63,15421.0,756.0,Travel,Closed,2023-08-23 14:03:27.259073,8.411
+PKB10221,61.0,Male,Faisalabad,Clock Tower,Government,168000.0,Home Loan,2520000.0,36,12.56,84376.0,,Business Expansion,Defaulted,2023-04-24 05:08:11.113892,6.027
+PKB10222,56.0,Male,Islamabad,I-8,Salaried,,Business Loan,2640000.0,60,10.98,57374.0,454.0,Medical,Rejected,2021-07-18 00:39:38.973717,27.54
+PKB10223,55.0,Male,Karachi,Saddar,Salaried,239000.0,Auto Loan,1100000.0,24,18.71,55295.0,719.0,Business Expansion,Approved,2023-04-06 15:31:45.882352,2.776
+PKB10224,45.0,Male,Lahore,Johar Town,Government,189000.0,Education Loan,2940000.0,60,14.9,69788.0,653.0,Business Expansion,Approved,2021-09-07 03:09:14.192740,4.431
+PKB10225,43.0,Female,Lahore,Johar Town,Business Owner,286000.0,Personal Loan,940000.0,12,11.55,83320.0,591.0,Business Expansion,Rejected,2024-06-04 10:45:12.390488,3.496
+PKB10226,26.0,Female,Karachi,DHA,Self-Employed,115000.0,Personal Loan,1250000.0,120,16.82,21582.0,597.0,Medical,Approved,2021-04-08 10:00:09.011264,2.252
+PKB10227,54.0,Female,hyderabad,Latifabad,Freelancer,79000.0,Personal Loan,1760000.0,48,9.04,43831.0,862.0,Travel,Approved,2023-04-16 05:29:48.735919,6.658
+PKB10228,57.0,Male,Lahore,Gulberg,Self-Employed,75000.0,Personal Loan,830000.0,48,12.9,22226.0,558.0,Medical,Rejected,2022-07-23 12:44:09.311639,3.556
+PKB10229,41.0,Female,Quetta,Satellite Town,Government,,Personal Loan,250000.0,84,14.83,4800.0,538.0,Education,Defaulted,2022-11-07 12:42:21.176470,0.811
+PKB10230,40.0,Male,Rawalpindi,Satellite Town,Self-Employed,178000.0,Business Loan,1270000.0,36,10.5,,628.0,Travel,Approved,2022-06-04 00:34:14.568210,2.783
+PKB10231,56.0,Female,Multan,Gulgasht,Business Owner,151000.0,Education Loan,520000.0,48,21.79,16324.0,732.0,Education,Defaulted,2022-10-14 13:47:14.042553,1.297
+PKB10232,64.0,Female,Islamabad,I-8,Business Owner,106000.0,Education Loan,550000.0,120,11.32,7676.0,836.0,Education,Rejected,2022-03-06 14:12:27.934918,0.869
+PKB10233,38.0,Male,Rawalpindi,Saddar,Salaried,,Personal Loan,900000.0,12,10.26,79233.0,682.0,Education,Approved,2024-06-15 15:02:55.719649,14.856
+PKB10234,64.0,Female,Islamabad,F-10,Freelancer,478000.0,Business Loan,1080000.0,36,11.25,35486.0,499.0,Wedding,Rejected,2023-08-26 18:42:48.210262,0.891
+PKB10235,55.0,Male,Karachi,Saddar,Business Owner,171000.0,Home Loan,810000.0,24,18.88,,807.0,Vehicle Purchase,Approved,2023-08-20 09:24:06.307884,2.862
+PKB10236,30.0,Male,Faisalabad,Canal Road,Government,38000.0,Personal Loan,1140000.0,120,14.24,17865.0,618.0,Vehicle Purchase,Approved,2022-09-03 01:15:41.677096,5.642
+PKB10237,47.0,Male,Lahore,Johar Town,Salaried,,Business Loan,440000.0,120,16.13,7406.0,540.0,Education,Rejected,2021-12-05 13:31:00.826032,1.234
+PKB10238,23.0,Male,karachi,DHA,Business Owner,173000.0,Auto Loan,710000.0,48,8.78,17594.0,517.0,Education,Rejected,2022-11-23 11:59:05.932415,1.22
+PKB10239,30.0,Female,Rawalpindi,Saddar,Business Owner,61000.0,Personal Loan,1320000.0,36,8.96,41951.0,699.0,Home Renovation,Approved,2022-10-20 23:05:55.944931,8.253
+PKB10240,,Male,Karachi,Gulshan,Salaried,122000.0,Home Loan,2520000.0,12,14.52,226881.0,642.0,Electronics,Closed,2024-02-05 16:09:36.720901,22.316
+PKB10241,61.0,Male,Sialkot,Kashmir Road,Freelancer,175000.0,Personal Loan,3230000.0,84,19.52,70795.0,652.0,Vehicle Purchase,Approved,2021-08-09 09:15:05.632040,4.855
+PKB10242,38.0,Male,Sialkot,Cantt,Salaried,13000.0,Auto Loan,990000.0,60,20.45,26477.0,742.0,Electronics,Closed,2022-05-01 11:41:04.580725,24.44
+PKB10243,22.0,Female,Quetta,Airport Road,Salaried,93000.0,Home Loan,1310000.0,60,9.67,27621.0,543.0,Electronics,Rejected,2021-09-26 07:05:19.899874,3.564
+PKB10244,46.0,Female,Lahore,Johar Town,Self-Employed,95000.0,Education Loan,2920000.0,12,15.77,264616.0,749.0,Home Renovation,Rejected,2022-05-30 05:35:13.141426,33.425
+PKB10245,64.0,Female,Karachi,DHA,Self-Employed,77000.0,Personal Loan,460000.0,12,20.83,42795.0,570.0,Electronics,Rejected,2021-06-27 06:23:52.790988,6.669
+PKB10246,61.0,Female,Sialkot,Paris Road,Government,118000.0,Home Loan,1130000.0,60,13.74,26141.0,825.0,Travel,Approved,2024-04-25 12:33:20.500625,2.658
+PKB10247,63.0,Male,Lahore,Johar Town,Salaried,,Home Loan,1250000.0,84,19.7,27532.0,676.0,Home Renovation,Defaulted,2024-02-24 20:05:42.428035,2.263
+PKB10248,46.0,Male,HYDERABAD,Latifabad,Freelancer,107000.0,Home Loan,2010000.0,36,10.3,65141.0,532.0,Electronics,Rejected,2023-03-18 11:35:40.175219,7.306
+PKB10249,60.0,Male,Hyderabad,Qasimabad,Salaried,79000.0,Home Loan,330000.0,60,21.13,8952.0,427.0,Electronics,Defaulted,2022-12-23 20:12:54.968710,1.36
+PKB10250,56.0,Male,Peshawar,University Town,Salaried,144000.0,Auto Loan,380000.0,12,18.64,34954.0,696.0,Business Expansion,Rejected,2022-04-21 21:43:01.727158,2.913
+PKB10251,24.0,Female,Lahore,Gulberg,Salaried,102000.0,Business Loan,740000.0,48,21.21,22998.0,584.0,Electronics,Rejected,2024-06-09 05:44:13.817271,2.706
+PKB10252,58.0,Male,Lahore,Gulberg,Self-Employed,86000.0,Education Loan,950000.0,24,17.63,47258.0,605.0,Wedding,Approved,2022-12-27 00:52:15.919899,6.594
+PKB10253,51.0,Female,peshawar,Hayatabad,Freelancer,45000.0,Business Loan,1600000.0,84,13.41,29465.0,692.0,Travel,Rejected,2021-03-20 06:04:03.304130,7.857
+PKB10254,59.0,Male,Lahore,Gulberg,Government,39000.0,Business Loan,1050000.0,120,21.17,21113.0,715.0,Medical,Approved,2023-11-22 14:44:54.367959,6.496
+PKB10255,55.0,Male,Karachi,DHA,Business Owner,44000.0,Auto Loan,660000.0,84,12.22,11729.0,736.0,Vehicle Purchase,Approved,2022-09-04 15:35:22.152690,3.199
+PKB10256,33.0,Male,ISLAMABAD,Blue Area,Salaried,117000.0,Business Loan,980000.0,48,12.98,26281.0,508.0,Education,Defaulted,2021-01-29 17:54:08.560700,2.695
+PKB10257,40.0,Female,Sialkot,Paris Road,Self-Employed,94000.0,Home Loan,900000.0,48,17.96,26419.0,755.0,Electronics,Approved,2021-09-03 22:29:53.241551,3.373
+PKB10258,58.0,Female,faisalabad,Peoples Colony,Self-Employed,41000.0,Home Loan,2470000.0,120,18.83,45834.0,564.0,Travel,Approved,2021-05-15 03:32:39.949937,13.415
+PKB10259,38.0,Female,Rawalpindi,Saddar,Self-Employed,145000.0,Home Loan,820000.0,12,21.05,76373.0,405.0,Education,Defaulted,2021-10-15 11:01:25.607008,6.321
+PKB10260,31.0,Male,Karachi,Saddar,Salaried,225000.0,Home Loan,560000.0,60,11.26,12248.0,508.0,Medical,Rejected,2024-01-11 02:54:49.111389,0.653
+PKB10261,33.0,Female,Rawalpindi,Satellite Town,Government,69000.0,Personal Loan,1000000.0,36,19.27,36793.0,640.0,Travel,Approved,2023-01-16 19:08:02.102628,6.399
+PKB10262,37.0,Male,Hyderabad,Auto Bhan,Self-Employed,35000.0,Education Loan,840000.0,84,18.47,17887.0,527.0,Vehicle Purchase,Approved,2023-03-12 02:16:58.272841,6.133
+PKB10263,45.0,Male,Karachi,Clifton,Government,65000.0,Home Loan,240000.0,120,9.36,3087.0,611.0,Travel,Approved,2022-01-20 21:01:34.618272,0.57
+PKB10264,40.0,Female,Islamabad,Blue Area,Self-Employed,165000.0,Personal Loan,720000.0,84,13.73,13386.0,652.0,Education,Approved,2022-10-19 08:46:15.469336,0.974
+PKB10265,,Male,Quetta,Jinnah Road,Salaried,137000.0,Home Loan,680000.0,48,12.32,18014.0,602.0,Education,Approved,2021-04-13 04:59:10.438047,1.578
+PKB10266,52.0,Female,Multan,Cantt,Government,57000.0,Personal Loan,500000.0,60,12.61,11277.0,573.0,Business Expansion,Defaulted,2022-11-29 21:17:47.834793,2.374
+PKB10267,42.0,Male,Faisalabad,Canal Road,Salaried,246000.0,Personal Loan,1510000.0,84,21.77,35159.0,501.0,Electronics,Rejected,2022-06-27 23:29:21.702127,1.715
+PKB10268,38.0,Male,Faisalabad,Clock Tower,Business Owner,222000.0,Personal Loan,420000.0,36,17.18,15012.0,,Home Renovation,Approved,2024-03-03 19:44:04.806007,0.811
+PKB10269,44.0,Female,Lahore,Johar Town,Government,64000.0,Home Loan,1000000.0,48,18.19,29474.0,423.0,Travel,Closed,2021-02-25 21:28:36.645807,5.526
+PKB10270,58.0,Male,Lahore,Johar Town,Salaried,63000.0,Home Loan,660000.0,36,21.68,25097.0,554.0,Education,Defaulted,2023-07-08 06:32:53.466833,4.78
+PKB10271,37.0,Female,Peshawar,University Town,Freelancer,69000.0,Business Loan,790000.0,60,13.59,18214.0,531.0,Wedding,Defaulted,2022-03-14 13:50:50.312891,3.168
+PKB10272,27.0,Male,peshawar,University Town,Self-Employed,73000.0,Auto Loan,970000.0,84,19.32,21145.0,597.0,Vehicle Purchase,Rejected,2022-01-04 21:44:49.862327,3.476
+PKB10273,29.0,Female,Peshawar,Saddar,Salaried,175000.0,Home Loan,290000.0,24,14.37,13974.0,599.0,Wedding,Defaulted,2021-08-02 23:56:23.729662,0.958
+PKB10274,46.0,Male,Quetta,Jinnah Road,Government,127000.0,Home Loan,830000.0,84,20.24,18551.0,711.0,Medical,Approved,2022-08-27 15:56:59.774718,1.753
+PKB10275,39.0,Male,Islamabad,G-9,Salaried,167000.0,Home Loan,3620000.0,60,10.94%,78599.0,770.0,Travel,Approved,2022-12-03 01:57:08.785982,5.648
+PKB10276,46.0,Male,Islamabad,I-8,Business Owner,148000.0,Business Loan,250000.0,84,21.29,,513.0,Business Expansion,Rejected,2021-07-02 01:22:54.217772,0.466
+PKB10277,33.0,Male,Multan,Husain Agahi,Business Owner,276000.0,Personal Loan,700000.0,120,11.45,9822.0,809.0,Vehicle Purchase,Approved,2021-09-24 16:45:39.424280,0.427
+PKB10278,36.0,Female,Rawalpindi,Bahria Town,Freelancer,52000.0,Personal Loan,1600000.0,84,12.9,29020.0,545.0,Business Expansion,Defaulted,2024-04-01 13:38:13.366708,6.697
+PKB10279,47.0,Male,Faisalabad,Clock Tower,Self-Employed,124000.0,Business Loan,900000.0,12,18.71,82816.0,636.0,Home Renovation,Approved,2023-06-17 12:17:07.284105,8.014
+PKB10280,62.0,Male,multan,Gulgasht,Self-Employed,27000.0,Home Loan,1180000.0,84,13.82,21996.0,668.0,Education,Rejected,2022-05-23 20:16:31.239048,9.776
+PKB10281,47.0,Male,Quetta,Airport Road,Government,45000.0,Personal Loan,140000.0,84,16.71,2838.0,852.0,Electronics,Approved,2022-07-20 08:04:48.360450,0.757
+PKB10282,53.0,Male,Lahore,DHA,Salaried,94000.0,Personal Loan,1110000.0,36,14.5,38207.0,568.0,Vehicle Purchase,Rejected,2022-11-18 17:00:04.505632,4.877
+PKB10283,31.0,Female,Lahore,DHA,Self-Employed,127000.0,Education Loan,430000.0,24,18.52,21576.0,449.0,Medical,Rejected,2024-04-15 22:35:17.647058,2.039
+PKB10284,37.0,Female,Karachi,Clifton,Self-Employed,93000.0,Business Loan,910000.0,36,11.58,,761.0,Electronics,Approved,2021-11-11 14:35:53.692115,3.877
+PKB10285,28.0,Male,Rawalpindi,Satellite Town,Salaried,70000.0,Auto Loan,710000.0,36,9.29,22674.0,540.0,Travel,Rejected,2022-10-22 13:25:36.420525,3.887
+PKB10286,38.0,Female,Karachi,DHA,Self-Employed,78000.0,Home Loan,3590000.0,48,12.55,95511.0,585.0,Home Renovation,Approved,2023-05-29 08:21:01.576971,14.694
+PKB10287,44.0,Male,Islamabad,F-10,Business Owner,225000.0,Home Loan,1070000.0,12,14.9,96526.0,513.0,Home Renovation,Closed,2021-02-08 07:52:11.414267,5.148
+PKB10288,47.0,Male,islamabad,I-8,Business Owner,78000.0,Education Loan,670000.0,36,10.77,21862.0,585.0,Business Expansion,Approved,2022-11-12 07:41:22.603254,3.363
+PKB10289,42.0,Female,Lahore,Gulberg,Salaried,282000.0,Education Loan,250000.0,120,13.29,3776.0,540.0,Home Renovation,Approved,2023-02-03 08:44:27.334167,0.161
+PKB10290,43.0,Male,Rawalpindi,Satellite Town,Salaried,159000.0,Personal Loan,790000.0,60,13.9,18341.0,684.0,Vehicle Purchase,Defaulted,2021-04-11 14:39:29.962453,1.384
+PKB10291,28.0,Female,karachi,DHA,Salaried,130000.0,Business Loan,1300000.0,120,9.27,16658.0,627.0,Business Expansion,Approved,2024-02-23 05:46:01.952440,1.538
+PKB10292,35.0,Female,Karachi,DHA,Business Owner,48000.0,Personal Loan,690000.0,60,16.37,16915.0,555.0,Electronics,Defaulted,2023-01-04 00:30:38.297872,4.229
+PKB10293,36.0,Male,Peshawar,Hayatabad,Salaried,173000.0,Personal Loan,510000.0,84,20.44,11461.0,714.0,Home Renovation,Approved,2021-10-09 01:42:43.704630,0.795
+PKB10294,28.0,Female,Lahore,Johar Town,Government,73000.0,Auto Loan,490000.0,48,10.55,12557.0,644.0,Travel,Approved,2022-01-30 10:59:37.471839,2.064
+PKB10295,30.0,Female,Karachi,Saddar,Salaried,,Home Loan,1060000.0,12,16.57,96461.0,444.0,Electronics,Rejected,2024-03-10 05:02:46.708385,24.115
+PKB10296,29.0,Male,Islamabad,F-10,Government,134000.0,Education Loan,1240000.0,120,17.47,21922.0,707.0,Medical,Approved,2021-03-17 01:24:42.352941,1.963
+PKB10297,44.0,Male,Multan,Cantt,Salaried,43000.0,Personal Loan,1890000.0,12,14.16,169840.0,637.0,Travel,Approved,2023-02-14 13:02:10.663329,47.397
+PKB10298,50.0,Male,Karachi,DHA,Government,62000.0,Home Loan,360000.0,120,17.96,6477.0,752.0,Wedding,Approved,2021-08-10 23:34:46.107634,1.254
+PKB10299,39.0,Female,Rawalpindi,Satellite Town,Salaried,,Education Loan,1050000.0,84,14.04,19700.0,631.0,Vehicle Purchase,Approved,2021-06-06 12:08:06.608260,2.412
+PKB10300,52.0,Female,Karachi,Clifton,Government,374000.0,Education Loan,670000.0,60,15.31,16048.0,544.0,Medical,Closed,2023-07-16 06:11:15.844806,0.515
+PKB10301,51.0,Male,Karachi,DHA,Salaried,65000.0,Personal Loan,680000.0,24,8.6,30941.0,600.0,Medical,Approved,2024-06-01 06:05:51.439299,5.712
+PKB10302,60.0,Male,Islamabad,G-9,Government,75000.0,Home Loan,970000.0,48,17.84,28413.0,696.0,Business Expansion,Approved,2023-06-06 07:59:23.954943,4.546
+PKB10303,56.0,Female,Islamabad,F-10,Business Owner,153000.0,Auto Loan,970000.0,120,17.43,17124.0,546.0,Education,Rejected,2022-11-28 06:58:07.359198,1.343
+PKB10304,39.0,Male,Rawalpindi,Bahria Town,Salaried,47000.0,Personal Loan,1060000.0,120,9.02,13439.0,578.0,Business Expansion,Closed,2022-10-06 14:08:51.664580,3.431
+PKB10305,63.0,Male,faisalabad,Canal Road,Business Owner,129000.0,Education Loan,350000.0,84,13.47,6457.0,598.0,Vehicle Purchase,Approved,2022-11-21 21:39:25.456821,0.601
+PKB10306,60.0,Male,Hyderabad,Latifabad,Self-Employed,204000.0,Education Loan,430000.0,48,21.72,13482.0,510.0,Vehicle Purchase,Rejected,2021-12-10 08:30:02.252816,0.793
+PKB10307,38.0,Male,Islamabad,I-8,Salaried,82000.0,Personal Loan,2060000.0,60,14.18,48125.0,548.0,Business Expansion,Defaulted,2021-03-23 10:43:24.255319,7.043
+PKB10308,35.0,Male,Lahore,Model Town,Self-Employed,183000.0,Personal Loan,630000.0,60,15.28,15080.0,636.0,Education,Approved,2023-02-01 18:24:46.858573,0.989
+PKB10309,52.0,Male,Multan,Husain Agahi,Salaried,118000.0,Personal Loan,900000.0,120,20.78,17861.0,734.0,Travel,Defaulted,2023-07-22 15:29:57.747183,1.816
+PKB10310,45.0,Male,LAHORE,Gulberg,Government,64000.0,Education Loan,1530000.0,24,18.18%,76517.0,650.0,Business Expansion,Approved,2023-09-08 13:20:12.015018,14.347
+PKB10311,56.0,Female,Lahore,Johar Town,Government,88000.0,Personal Loan,1010000.0,24,16.36,49627.0,615.0,Vehicle Purchase,Rejected,2023-12-10 04:21:19.599499,6.767
+PKB10312,55.0,Male,Karachi,Clifton,Salaried,79000.0,Home Loan,1070000.0,12,19.27,98745.0,541.0,Education,Closed,2024-04-07 22:56:55.269086,14.999
+PKB10313,24.0,Male,Karachi,DHA,Self-Employed,94000.0,Home Loan,1360000.0,48,20.17,41509.0,724.0,Vehicle Purchase,Approved,2022-07-07 13:27:24.555694,5.299
+PKB10314,58.0,Male,Hyderabad,Qasimabad,Business Owner,108000.0,Auto Loan,170000.0,48,14.67,,,Education,Approved,2024-05-21 01:48:08.110137,0.523
+PKB10315,64.0,Male,Peshawar,Saddar,Freelancer,140000.0,Personal Loan,520000.0,60,14.91,12346.0,552.0,Education,Approved,2023-06-30 06:54:31.088861,1.058
+PKB10316,61.0,Male,Faisalabad,Clock Tower,Self-Employed,134000.0,Personal Loan,1010000.0,12,13.71,90547.0,705.0,Electronics,Closed,2023-12-13 09:00:40.550688,8.109
+PKB10317,47.0,Male,Lahore,Gulberg,Freelancer,23000.0,Education Loan,1930000.0,84,21.55,44677.0,673.0,Business Expansion,Approved,2023-12-29 08:17:25.306633,23.31
+PKB10318,44.0,Male,Karachi,Clifton,Self-Employed,93000.0,Education Loan,760000.0,48,17.91,22289.0,542.0,Business Expansion,Approved,2023-06-03 03:20:03.003754,2.876
+PKB10319,60.0,Female,Karachi,Gulshan,Salaried,40000.0,Business Loan,400000.0,12,9.62,35096.0,,Business Expansion,Rejected,2021-10-10 16:02:24.180225,10.529
+PKB10320,36.0,Female,Lahore,DHA,Business Owner,84000.0,Personal Loan,410000.0,12,20.15,38010.0,573.0,Education,Rejected,2022-07-17 03:25:27.409261,5.43
+PKB10321,25.0,Female,Islamabad,F-10,Self-Employed,92000.0,Home Loan,1350000.0,120,14.99,21772.0,870.0,Education,Approved,2022-09-19 00:32:26.433041,2.84
+PKB10322,50.0,Female,Faisalabad,Peoples Colony,Self-Employed,177000.0,Auto Loan,630000.0,60,9.43,13210.0,670.0,Vehicle Purchase,Approved,2024-03-24 13:59:50.988735,0.896
+PKB10323,43.0,Female,Faisalabad,Clock Tower,Self-Employed,97000.0,Personal Loan,730000.0,12,15.92,66206.0,637.0,Medical,Approved,2021-11-10 00:16:13.216520,8.19
+PKB10324,46.0,Male,Lahore,DHA,Business Owner,115000.0,Education Loan,1120000.0,24,14.13,53843.0,664.0,Business Expansion,Rejected,2022-11-26 16:38:26.883604,5.618
+PKB10325,34.0,Female,Sialkot,Kashmir Road,Business Owner,159000.0,Auto Loan,100000.0,24,20.35,5107.0,751.0,Electronics,Approved,2023-03-26 11:14:02.553191,0.385
+PKB10326,39.0,Male,Multan,Cantt,Self-Employed,206000.0,Personal Loan,2960000.0,36,11.25,97257.0,612.0,Wedding,Approved,2021-01-10 13:58:02.853566,5.665
+PKB10327,54.0,Female,Islamabad,F-10,Salaried,92000.0,Education Loan,440000.0,60,19.66,11574.0,563.0,Vehicle Purchase,Defaulted,2023-08-29 23:22:09.161451,1.51
+PKB10328,37.0,Female,Rawalpindi,Satellite Town,Self-Employed,104000.0,Education Loan,860000.0,120,16.03,14422.0,700.0,Vehicle Purchase,Defaulted,2022-07-28 07:43:10.738423,1.664
+PKB10329,63.0,Male,Lahore,Model Town,Self-Employed,99000.0,Personal Loan,220000.0,84,9.24,3566.0,603.0,Home Renovation,Rejected,2021-05-13 13:12:59.474342,0.432
+PKB10330,23.0,Male,Karachi,Gulshan,Salaried,,Home Loan,540000.0,36,21.62,20517.0,518.0,Business Expansion,Approved,2022-02-18 14:55:43.178973,3.468
+PKB10331,56.0,Male,lahore,Model Town,Government,62000.0,Home Loan,1740000.0,24,15.42,84714.0,499.0,Travel,Defaulted,2021-03-05 21:06:59.023779,16.396
+PKB10332,63.0,Female,Multan,Cantt,Self-Employed,25000.0,Home Loan,190000.0,120,12.43,2773.0,765.0,Vehicle Purchase,Approved,2024-06-28 09:40:19.524405,1.331
+PKB10333,55.0,Female,Karachi,Saddar,Salaried,52000.0,Personal Loan,1600000.0,36,14.84,55339.0,632.0,Home Renovation,Rejected,2024-02-15 06:07:39.574468,12.771
+PKB10334,51.0,Female,Karachi,DHA,Salaried,34000.0,Auto Loan,600000.0,60,20.08,15923.0,563.0,Wedding,Rejected,2024-01-28 16:31:14.342928,5.62
+PKB10335,34.0,Male,Karachi,Gulshan,Salaried,210000.0,Education Loan,1030000.0,120,12.62,15149.0,597.0,Electronics,Rejected,2023-06-20 16:56:28.235294,0.866
+PKB10336,34.0,Female,Karachi,Saddar,Freelancer,111000.0,Home Loan,1160000.0,60,11.1,25279.0,696.0,Wedding,Closed,2021-02-13 02:51:12.841051,2.733
+PKB10337,39.0,Male,Peshawar,Hayatabad,Salaried,92000.0,Personal Loan,990000.0,12,10.24,87147.0,592.0,Travel,Approved,2022-01-01 17:05:28.911138,11.367
+PKB10338,53.0,Female,Faisalabad,Clock Tower,Salaried,64000.0,Auto Loan,400000.0,48,12.52,10636.0,482.0,Business Expansion,Defaulted,2023-10-02 12:15:19.148936,1.994
+PKB10339,53.0,Male,islamabad,F-10,Self-Employed,100000.0,Home Loan,570000.0,12,19.03,52537.0,650.0,Education,Approved,2023-12-08 14:01:39.123904,6.304
+PKB10340,56.0,Male,Karachi,Saddar,Salaried,59000.0,Business Loan,260000.0,60,14.87,6168.0,734.0,Home Renovation,Closed,2021-10-20 06:00:27.033792,1.255
+PKB10341,60.0,Male,Islamabad,G-9,Salaried,110000.0,Home Loan,1030000.0,120,11.57,14523.0,728.0,Education,Approved,2021-01-20 03:56:05.707133,1.584
+PKB10342,50.0,Female,Islamabad,Blue Area,Salaried,114000.0,Personal Loan,2400000.0,24,10.74,111569.0,566.0,Wedding,Approved,2022-01-16 02:02:33.191489,11.744
+PKB10343,50.0,Female,Karachi,DHA,Self-Employed,59000.0,Personal Loan,200000.0,84,12.99,3637.0,740.0,Wedding,Approved,2023-07-24 05:49:38.222778,0.74
+PKB10344,37.0,Male,Lahore,DHA,Self-Employed,58000.0,Business Loan,430000.0,24,21.19,22136.0,640.0,Medical,Approved,2023-01-19 23:47:23.053817,4.58
+PKB10345,31.0,Male,Lahore,Johar Town,Salaried,176000.0,Personal Loan,640000.0,120,13.13,9605.0,737.0,Medical,Approved,2021-01-02 14:19:40.475594,0.655
+PKB10346,51.0,Female,Rawalpindi,Saddar,Self-Employed,96000.0,Business Loan,820000.0,12,21.84,76684.0,674.0,Electronics,Rejected,2021-02-11 12:31:32.365456,9.586
+PKB10347,46.0,Male,RAWALPINDI,Saddar,Freelancer,62000.0,Personal Loan,1350000.0,84,15.05,26089.0,475.0,Travel,Rejected,2022-03-17 18:30:11.264080,5.049
+PKB10348,60.0,Male,Karachi,Clifton,Salaried,79000.0,Home Loan,660000.0,120,10.92,9062.0,785.0,Medical,Approved,2023-02-20 22:20:52.565707,1.377
+PKB10349,41.0,Male,Lahore,Model Town,Salaried,54000.0,Home Loan,580000.0,60,20.53,15538.0,624.0,Medical,Approved,2021-01-28 03:34:28.085106,3.453
+PKB10350,26.0,Male,Rawalpindi,Saddar,Salaried,95000.0,Education Loan,1580000.0,24,14.71,76391.0,674.0,Travel,Defaulted,2023-02-28 21:59:14.943679,9.649
+PKB10351,22.0,Female,Islamabad,Blue Area,Self-Employed,163000.0,Education Loan,1160000.0,60,18.08,29507.0,492.0,Vehicle Purchase,Defaulted,2023-05-03 19:06:13.967459,2.172
+PKB10352,51.0,Female,Peshawar,University Town,Government,97000.0,Personal Loan,1060000.0,84,21.78,24688.0,668.0,Medical,Rejected,2022-05-28 15:15:32.665832,3.054
+PKB10353,24.0,Male,Faisalabad,Clock Tower,Salaried,408000.0,Home Loan,790000.0,84,9.18,12783.0,724.0,Vehicle Purchase,Approved,2023-09-24 12:36:56.770963,0.376
+PKB10354,35.0,Male,Karachi,DHA,Government,127000.0,Personal Loan,1450000.0,24,9.81,66783.0,803.0,Vehicle Purchase,Approved,2022-12-31 19:51:17.346683,6.31
+PKB10355,51.0,Female,Karachi,Clifton,Salaried,113000.0,Home Loan,460000.0,60,18.23,11739.0,753.0,Business Expansion,Approved,2024-04-09 13:16:35.744680,1.247
+PKB10356,25.0,Male,Rawalpindi,Saddar,Self-Employed,57000.0,Home Loan,420000.0,36,12.3,14010.0,672.0,Vehicle Purchase,Approved,2022-07-01 04:08:42.653316,2.949
+PKB10357,,Female,Karachi,Clifton,Government,86000.0,Education Loan,1230000.0,60,10.99%,26737.0,473.0,Vehicle Purchase,Defaulted,2024-05-30 15:46:10.963704,3.731
+PKB10358,58.0,Male,Rawalpindi,Satellite Town,Salaried,62000.0,Education Loan,230000.0,84,9.03,3704.0,632.0,Medical,Closed,2023-06-23 21:35:49.186483,0.717
+PKB10359,46.0,Male,Sialkot,Cantt,Self-Employed,27000.0,Home Loan,780000.0,60,8.79,16112.0,563.0,Vehicle Purchase,Rejected,2023-04-11 10:30:47.309136,7.161
+PKB10360,22.0,Female,Rawalpindi,Satellite Town,Salaried,177000.0,Home Loan,580000.0,120,18.96,10812.0,642.0,Education,Approved,2024-01-27 02:11:33.867334,0.733
+PKB10361,,Female,Lahore,Johar Town,Government,73000.0,Business Loan,270000.0,12,10.31,23776.0,504.0,Travel,Approved,2022-04-05 22:26:16.971214,3.908
+PKB10362,30.0,Male,Rawalpindi,Satellite Town,Salaried,63000.0,Business Loan,380000.0,36,14.81,13137.0,600.0,Medical,Approved,2022-12-15 20:34:32.590738,2.502
+PKB10363,36.0,Female,Islamabad,Blue Area,Business Owner,112000.0,Personal Loan,680000.0,48,16.68,19509.0,570.0,Travel,Rejected,2023-08-12 09:45:43.929912,2.09
+PKB10364,45.0,Male,Islamabad,I-8,Salaried,134000.0,Home Loan,1500000.0,120,14.28,23543.0,567.0,Home Renovation,Approved,2021-09-16 17:07:17.046307,2.108
+PKB10365,25.0,Male,Sialkot,Kashmir Road,Business Owner,81000.0,Home Loan,460000.0,12,8.87,40200.0,568.0,Medical,Closed,2021-06-16 02:06:09.461827,5.956
+PKB10366,33.0,Female,Lahore,DHA,Salaried,99000.0,Personal Loan,1710000.0,48,19.08,51201.0,607.0,Vehicle Purchase,Approved,2023-12-30 22:37:05.782227,6.206
+PKB10367,58.0,Female,Hyderabad,Qasimabad,Government,154000.0,Personal Loan,760000.0,24,8.64,34595.0,647.0,Education,Closed,2022-10-24 03:45:16.896120,2.696
+PKB10368,58.0,Female,Quetta,Jinnah Road,Salaried,80000.0,Personal Loan,1830000.0,48,18.79,54515.0,382.0,Travel,Defaulted,2021-08-23 18:12:09.912390,8.177
+PKB10369,64.0,Male,Karachi,Clifton,Business Owner,118000.0,Auto Loan,480000.0,120,20.56,9455.0,394.0,Medical,Defaulted,2022-09-27 00:10:48.811013,0.962
+PKB10370,27.0,Male,Karachi,Clifton,Salaried,36000.0,Personal Loan,700000.0,60,14.34,16411.0,587.0,Education,Rejected,2021-10-29 19:58:29.887359,5.47
+PKB10371,60.0,Male,Karachi,DHA,Salaried,47000.0,Personal Loan,940000.0,120,15.73,15588.0,601.0,Travel,Rejected,2022-05-14 06:18:28.385481,3.98
+PKB10372,45.0,Male,Karachi,DHA,Self-Employed,142000.0,Personal Loan,640000.0,48,14.94,17792.0,637.0,Home Renovation,Rejected,2023-01-18 09:27:42.578222,1.504
+PKB10373,32.0,Female,Karachi,DHA,Salaried,45000.0,Business Loan,1420000.0,84,13.75%,26415.0,550.0,Wedding,Rejected,2021-06-04 21:48:26.132665,7.044
+PKB10374,34.0,Male,FAISALABAD,Canal Road,Salaried,114000.0,Business Loan,160000.0,12,20.48,14858.0,620.0,Electronics,Rejected,2021-02-05 03:12:50.463078,1.564
+PKB10375,55.0,Female,Karachi,Clifton,Freelancer,90000.0,Home Loan,3980000.0,12,20.57%,369772.0,632.0,Electronics,Closed,2023-07-29 00:48:39.649561,49.303
+PKB10376,46.0,Male,Lahore,Gulberg,Freelancer,79000.0,Home Loan,1330000.0,48,13.03,35700.0,550.0,Home Renovation,Defaulted,2021-11-30 18:31:59.399249,5.423
+PKB10377,28.0,Male,Peshawar,University Town,Salaried,60000.0,Education Loan,650000.0,12,16.8,59221.0,716.0,Wedding,Defaulted,2024-01-23 21:32:12.916145,11.844
+PKB10378,25.0,Male,Karachi,Clifton,Freelancer,170000.0,Personal Loan,500000.0,84,21.01,11409.0,636.0,Business Expansion,Defaulted,2021-03-18 15:44:22.828535,0.805
+PKB10379,29.0,Male,Peshawar,Hayatabad,Self-Employed,279000.0,Personal Loan,400000.0,120,21.49,8129.0,671.0,Wedding,Approved,2023-09-19 17:37:55.344180,0.35
+PKB10380,41.0,Male,Lahore,DHA,Salaried,118000.0,Personal Loan,1150000.0,12,15.37,103998.0,626.0,Business Expansion,Approved,2021-04-27 13:56:14.718397,10.576
+PKB10381,50.0,Female,Karachi,DHA,Government,120000.0,Personal Loan,1460000.0,48,14.61,40345.0,819.0,Medical,Approved,2021-10-31 10:18:10.362953,4.035
+PKB10382,31.0,Male,Faisalabad,Peoples Colony,Government,66000.0,Home Loan,650000.0,36,12.26,21670.0,676.0,Business Expansion,Approved,2024-06-06 01:04:52.866082,3.94
+PKB10383,64.0,Female,rawalpindi,Bahria Town,Freelancer,48000.0,Education Loan,1580000.0,36,21.44,59884.0,573.0,Electronics,Defaulted,2021-10-13 20:41:45.131414,14.971
+PKB10384,55.0,Male,Quetta,Jinnah Road,Salaried,96000.0,Auto Loan,390000.0,24,10.43,18074.0,697.0,Electronics,Approved,2022-08-06 21:41:13.591989,2.259
+PKB10385,47.0,Female,Multan,Gulgasht,Government,55000.0,Home Loan,340000.0,12,16.33,30902.0,464.0,Education,Rejected,2023-03-29 15:53:23.504380,6.742
+PKB10386,62.0,Male,Peshawar,Saddar,Salaried,34000.0,Education Loan,2600000.0,120,12.31,37770.0,631.0,Business Expansion,Approved,2022-08-03 17:01:52.640801,13.331
+PKB10387,24.0,Female,Lahore,DHA,Salaried,,Personal Loan,1100000.0,48,12.27,29113.0,650.0,Education,Approved,2021-07-16 10:19:58.498122,2.183
+PKB10388,27.0,Male,Karachi,Gulshan,Salaried,165000.0,Personal Loan,1940000.0,12,13.97,174160.0,632.0,Electronics,Rejected,2023-12-18 03:59:41.977471,12.666
+PKB10389,26.0,Female,Multan,Cantt,Freelancer,59000.0,Auto Loan,400000.0,60,21.98,11043.0,588.0,Travel,Defaulted,2023-10-20 01:51:44.380475,2.246
+PKB10390,26.0,Female,Peshawar,Hayatabad,Business Owner,114000.0,Auto Loan,380000.0,84,9.24,6160.0,523.0,Travel,Approved,2023-12-24 13:18:23.879849,0.648
+PKB10391,44.0,Male,Hyderabad,Latifabad,Government,180000.0,Personal Loan,570000.0,12,16.31,51800.0,545.0,Wedding,Rejected,2021-11-27 13:52:38.448060,3.453
+PKB10392,30.0,Male,Lahore,DHA,Self-Employed,112000.0,Home Loan,410000.0,12,9.61,35971.0,629.0,Wedding,Rejected,2022-08-14 21:19:35.969962,3.854
+PKB10393,56.0,Male,Lahore,Gulberg,Salaried,48000.0,Auto Loan,1200000.0,36,10.59,39054.0,514.0,Wedding,Approved,2022-12-20 15:33:34.017521,9.764
+PKB10394,41.0,Female,Multan,Cantt,Salaried,86000.0,Auto Loan,430000.0,84,14.43,8161.0,788.0,Business Expansion,Approved,2022-03-12 23:31:09.837296,1.139
+PKB10395,63.0,Male,lahore,Model Town,Salaried,219000.0,Auto Loan,320000.0,48,15.39,8969.0,369.0,Wedding,Closed,2023-01-29 13:45:25.907384,0.491
+PKB10396,,Male,Sialkot,Cantt,Salaried,114000.0,Home Loan,810000.0,12,11.99,71964.0,589.0,Business Expansion,Rejected,2022-09-14 05:33:25.006257,7.575
+PKB10397,39.0,Male,Peshawar,University Town,Government,,Personal Loan,300000.0,36,12.77,10075.0,630.0,Business Expansion,Approved,2021-11-24 09:13:17.496871,0.889
+PKB10398,38.0,Male,Lahore,Johar Town,Self-Employed,121000.0,Home Loan,210000.0,24,9.67,9658.0,668.0,Vehicle Purchase,Approved,2021-10-17 01:21:06.082603,0.958
+PKB10399,45.0,Female,Multan,Gulgasht,Salaried,59000.0,Personal Loan,800000.0,84,12.59,14376.0,532.0,Vehicle Purchase,Defaulted,2024-05-05 02:31:23.354192,2.924
+PKB10400,24.0,Male,MULTAN,Cantt,Salaried,68000.0,Education Loan,210000.0,36,21.55,7971.0,727.0,Business Expansion,Approved,2021-05-31 02:49:24.705882,1.407
+PKB10401,53.0,Female,Karachi,DHA,Salaried,121000.0,Home Loan,1260000.0,36,21.25,47632.0,487.0,Travel,Rejected,2022-03-08 04:32:08.410513,4.724
+PKB10402,56.0,Female,Quetta,Airport Road,Self-Employed,161000.0,Home Loan,270000.0,120,13.02,4035.0,566.0,Education,Approved,2021-02-06 17:32:30.938673,0.301
+PKB10403,59.0,Male,Islamabad,I-8,Freelancer,191000.0,Business Loan,150000.0,36,16.21,5289.0,678.0,Electronics,Defaulted,2024-02-12 01:28:18.623279,0.332
+PKB10404,34.0,Female,Peshawar,Hayatabad,Government,,Home Loan,590000.0,120,20.78,11709.0,718.0,Electronics,Approved,2022-12-30 05:31:36.871088,2.381
+PKB10405,46.0,Male,Lahore,Gulberg,Business Owner,128000.0,Home Loan,810000.0,12,8.58%,70678.0,486.0,Medical,Rejected,2024-05-16 06:49:06.683354,6.626
+PKB10406,30.0,Male,Quetta,Satellite Town,Self-Employed,201000.0,Business Loan,1030000.0,12,19.44,95138.0,871.0,Home Renovation,Approved,2023-02-24 03:00:13.516896,5.68
+PKB10407,25.0,Male,Lahore,DHA,Salaried,55000.0,Business Loan,820000.0,24,21.3,42257.0,534.0,Vehicle Purchase,Rejected,2021-12-24 17:27:06.533166,9.22
+PKB10408,35.0,Female,Karachi,Gulshan,Salaried,241000.0,Auto Loan,350000.0,60,9.73,7390.0,495.0,Business Expansion,Defaulted,2021-07-27 14:37:41.827284,0.368
+PKB10409,58.0,Male,Quetta,Jinnah Road,Business Owner,264000.0,Personal Loan,1200000.0,60,10.68,25900.0,667.0,Home Renovation,Closed,2022-02-23 09:54:44.605757,1.177
+PKB10410,55.0,Male,Karachi,Clifton,Government,477000.0,Auto Loan,1430000.0,60,21.47,,586.0,Vehicle Purchase,Rejected,2022-03-27 08:28:14.117647,0.983
+PKB10411,32.0,Male,Lahore,Model Town,Salaried,113000.0,Business Loan,310000.0,120,15.76,5147.0,572.0,Medical,Defaulted,2024-05-09 21:30:24.780976,0.547
+PKB10412,62.0,Male,Sialkot,Kashmir Road,Self-Employed,114000.0,Personal Loan,640000.0,84,8.69,10197.0,676.0,Electronics,Defaulted,2024-04-12 17:55:56.695869,1.073
+PKB10413,24.0,Female,Sialkot,Cantt,Self-Employed,162000.0,Personal Loan,600000.0,84,11.98,10585.0,474.0,Education,Closed,2023-03-24 20:54:22.077596,0.784
+PKB10414,49.0,Male,Rawalpindi,Satellite Town,Government,,Business Loan,850000.0,24,14.57,41040.0,458.0,Business Expansion,Rejected,2022-01-22 11:21:15.093867,3.097
+PKB10415,50.0,Female,Rawalpindi,Satellite Town,Freelancer,194000.0,Personal Loan,630000.0,84,17.85,13186.0,563.0,Medical,Rejected,2022-06-29 13:49:02.177722,0.816
+PKB10416,30.0,Male,Lahore,DHA,Self-Employed,158000.0,Business Loan,700000.0,60,18.4,17928.0,722.0,Electronics,Approved,2023-04-19 10:09:09.687108,1.362
+PKB10417,24.0,Female,Lahore,Gulberg,Self-Employed,93000.0,Home Loan,1140000.0,60,21.94,31447.0,567.0,Travel,Defaulted,2023-04-29 00:07:12.540675,4.058
+PKB10418,46.0,Male,Lahore,Model Town,Salaried,205000.0,Home Loan,330000.0,36,12.38,11021.0,771.0,Vehicle Purchase,Approved,2021-01-08 23:38:22.377972,0.645
+PKB10419,55.0,Male,Faisalabad,Peoples Colony,Salaried,52000.0,Personal Loan,1220000.0,84,15.77,24072.0,734.0,Business Expansion,Approved,2022-12-07 20:56:10.212765,5.555
+PKB10420,33.0,Male,Multan,Cantt,Salaried,99000.0,Business Loan,1620000.0,12,15.7,146754.0,646.0,Home Renovation,Approved,2022-12-14 06:14:52.115143,17.788
+PKB10421,63.0,Female,Multan,Cantt,Salaried,252000.0,Home Loan,2290000.0,12,13.98,205591.0,652.0,Travel,Approved,2024-04-23 22:13:40.025031,9.79
+PKB10422,30.0,Male,Multan,Cantt,Government,47000.0,Home Loan,160000.0,36,10.78,5222.0,646.0,Electronics,Rejected,2023-05-27 18:01:21.101376,1.333
+PKB10423,36.0,Female,Karachi,Clifton,Government,66000.0,Auto Loan,640000.0,36,21.7,24343.0,635.0,Travel,Defaulted,2022-04-28 07:01:43.629536,4.426
+PKB10424,61.0,Female,Islamabad,F-10,Salaried,148000.0,Auto Loan,180000.0,36,20.02,6691.0,585.0,Wedding,Rejected,2023-06-25 11:55:29.662077,0.543
+PKB10425,46.0,Male,Karachi,DHA,Business Owner,125000.0,Education Loan,130000.0,12,15.23,11748.0,596.0,Education,Defaulted,2021-01-31 08:13:49.036295,1.128
+PKB10426,26.0,Male,Islamabad,G-9,Salaried,58000.0,Home Loan,810000.0,60,16.64,19974.0,518.0,Electronics,Rejected,2024-01-31 21:10:35.294117,4.133
+PKB10427,32.0,Male,Lahore,Model Town,Salaried,,Home Loan,550000.0,36,11.57,18155.0,410.0,Travel,Rejected,2021-12-07 03:50:41.301627,2.829
+PKB10428,55.0,Male,Quetta,Satellite Town,Salaried,49000.0,Education Loan,900000.0,24,15.84,43998.0,724.0,Vehicle Purchase,Approved,2024-04-04 18:17:34.317897,10.775
+PKB10429,45.0,Female,Lahore,DHA,Salaried,178000.0,Auto Loan,1030000.0,120,17.88,18480.0,634.0,Education,Approved,2023-11-24 05:04:34.843554,1.246
+PKB10430,36.0,Female,Karachi,Saddar,Salaried,85000.0,Personal Loan,1750000.0,36,15.45,61051.0,620.0,Business Expansion,Rejected,2021-10-02 16:24:01.802252,8.619
+PKB10431,59.0,Female,Karachi,Gulshan,Self-Employed,289000.0,Personal Loan,760000.0,120,21.87,15642.0,657.0,Wedding,Rejected,2021-11-25 23:32:57.972465,0.649
+PKB10432,29.0,Male,multan,Cantt,Self-Employed,104000.0,Business Loan,5650000.0,48,16.75,162301.0,541.0,Electronics,Rejected,2024-05-11 11:50:05.256570,18.727
+PKB10433,26.0,Male,Rawalpindi,Satellite Town,Freelancer,87000.0,Home Loan,900000.0,36,13.51,30546.0,524.0,Medical,Defaulted,2021-04-24 09:16:53.767209,4.213
+PKB10434,47.0,Male,Karachi,Saddar,Salaried,82000.0,Auto Loan,2650000.0,12,18.92,244114.0,593.0,Education,Rejected,2022-05-03 02:00:45.056320,35.724
+PKB10435,39.0,Female,karachi,Clifton,Salaried,85000.0,Home Loan,140000.0,84,10.8,2382.0,749.0,Home Renovation,Approved,2022-05-07 20:59:46.483103,0.336
+PKB10436,27.0,Male,Faisalabad,Clock Tower,Salaried,106000.0,Personal Loan,1880000.0,36,13.69,63971.0,508.0,Vehicle Purchase,Approved,2023-09-22 22:17:16.295369,7.242
+PKB10437,58.0,Female,karachi,Saddar,Government,446000.0,Auto Loan,640000.0,84,13.18,11706.0,370.0,Electronics,Rejected,2022-02-05 20:18:19.374217,0.315
+PKB10438,34.0,Male,Peshawar,Hayatabad,Salaried,,Personal Loan,190000.0,48,14.33,5224.0,570.0,Home Renovation,Rejected,2021-08-20 13:32:48.961201,0.774
+PKB10439,49.0,Male,Faisalabad,Peoples Colony,Business Owner,82000.0,Home Loan,980000.0,24,19.05,49424.0,728.0,Education,Approved,2022-07-04 08:48:03.604505,7.233
+PKB10440,26.0,Male,Karachi,DHA,Self-Employed,103000.0,Home Loan,590000.0,84,15.04,11398.0,455.0,Electronics,Rejected,2022-09-12 15:13:44.530663,1.328
+PKB10441,34.0,Male,Karachi,Gulshan,Self-Employed,190000.0,Home Loan,1090000.0,120,19.22,20504.0,507.0,Wedding,Rejected,2022-10-01 19:09:50.237797,1.295
+PKB10442,38.0,Male,hyderabad,Qasimabad,Self-Employed,42000.0,Auto Loan,1480000.0,60,16.28,,645.0,Medical,Approved,2022-10-28 22:44:18.322903,10.346
+PKB10443,,Female,Lahore,DHA,Salaried,130000.0,Business Loan,260000.0,36,13.12,8775.0,864.0,Medical,Approved,2023-10-07 07:14:20.575719,0.81
+PKB10444,53.0,Female,lahore,Johar Town,Salaried,60000.0,Business Loan,1480000.0,48,19.43,44589.0,,Home Renovation,Rejected,2023-08-06 00:27:02.027534,8.918
+PKB10445,50.0,Male,Peshawar,Hayatabad,Salaried,138000.0,Personal Loan,730000.0,48,11.72,19123.0,487.0,Business Expansion,Rejected,2021-07-19 14:59:19.449311,1.663
+PKB10446,24.0,Male,sialkot,Cantt,Self-Employed,73000.0,Personal Loan,1880000.0,84,11.53,32716.0,652.0,Business Expansion,Defaulted,2023-02-22 12:40:33.041301,5.378
+PKB10447,61.0,Male,Hyderabad,Auto Bhan,Salaried,25000.0,Home Loan,630000.0,24,15.31,,734.0,Wedding,Approved,2022-08-26 01:37:19.299123,14.707
+PKB10448,55.0,Female,Multan,Cantt,Salaried,123000.0,Education Loan,520000.0,12,12.02,46206.0,560.0,Medical,Rejected,2024-01-12 17:14:29.586983,4.508
+PKB10449,61.0,Male,Lahore,Johar Town,Freelancer,123000.0,Business Loan,740000.0,36,8.62,23401.0,465.0,Home Renovation,Rejected,2024-05-27 11:06:50.012515,2.283
+PKB10450,48.0,Female,Karachi,DHA,Salaried,70000.0,Business Loan,780000.0,48,17.25,22608.0,661.0,Home Renovation,Approved,2024-05-29 01:26:30.488110,3.876
+PKB10451,34.0,Male,Multan,Cantt,Business Owner,67000.0,Home Loan,460000.0,24,15.4,22391.0,678.0,Electronics,Rejected,2022-03-16 04:10:30.788485,4.01
+PKB10452,54.0,Male,Islamabad,F-10,Government,45000.0,Home Loan,520000.0,60,14.51,12237.0,788.0,Electronics,Approved,2021-12-31 02:45:48.435544,3.263
+PKB10453,27.0,Female,Lahore,DHA,Salaried,157000.0,Home Loan,310000.0,48,21.55,9691.0,682.0,Home Renovation,Closed,2022-05-11 01:39:07.434292,0.741
+PKB10454,45.0,Male,Quetta,Jinnah Road,Salaried,,Personal Loan,540000.0,24,16.21,26494.0,698.0,Electronics,Defaulted,2021-07-30 19:17:02.778473,1.892
+PKB10455,40.0,Male,Karachi,Clifton,Salaried,58000.0,Personal Loan,1170000.0,12,20.16,108472.0,595.0,Education,Rejected,2023-07-09 20:52:33.942428,22.442
+PKB10456,37.0,Male,Islamabad,G-9,Government,71000.0,Education Loan,660000.0,12,10.38,58141.0,851.0,Electronics,Approved,2023-10-28 01:30:06.758448,9.827
+PKB10457,61.0,Male,karachi,DHA,Government,95000.0,Personal Loan,1480000.0,48,16.18,42080.0,582.0,Wedding,Rejected,2024-05-03 12:11:42.878598,5.315
+PKB10458,49.0,Male,Islamabad,G-9,Government,386000.0,Personal Loan,640000.0,120,20.22,12462.0,561.0,Business Expansion,Rejected,2024-06-23 14:41:18.097622,0.387
+PKB10459,54.0,Female,Karachi,Saddar,Freelancer,,Personal Loan,270000.0,48,16.37,7703.0,791.0,Business Expansion,Approved,2021-01-05 18:59:01.426783,0.675
+PKB10460,62.0,Female,Karachi,DHA,Government,56000.0,Education Loan,1110000.0,84,18.19,23454.0,479.0,Education,Rejected,2024-02-07 06:29:17.196495,5.026
+PKB10461,34.0,Male,KARACHI,DHA,Salaried,118000.0,Auto Loan,460000.0,36,13.52,15615.0,444.0,Vehicle Purchase,Rejected,2023-02-16 03:21:51.138923,1.588
+PKB10462,64.0,Female,Rawalpindi,Satellite Town,Salaried,43000.0,Auto Loan,620000.0,24,9.75,28538.0,631.0,Education,Approved,2023-08-07 14:46:42.503128,7.964
+PKB10463,46.0,Male,Multan,Gulgasht,Business Owner,152000.0,Education Loan,1730000.0,48,14.68,47867.0,619.0,Wedding,Closed,2023-05-16 13:43:37.772215,3.779
+PKB10464,63.0,Male,Rawalpindi,Saddar,Salaried,270000.0,Home Loan,320000.0,36,13.83%,10910.0,598.0,Home Renovation,Approved,2022-08-30 20:36:20.725907,0.485
+PKB10465,57.0,Male,Hyderabad,Qasimabad,Salaried,270000.0,Auto Loan,820000.0,84,20.21,18313.0,714.0,Education,Closed,2021-11-14 19:15:14.643304,0.814
+PKB10466,48.0,Male,Lahore,Johar Town,Government,153000.0,Personal Loan,710000.0,36,11.79,23511.0,533.0,Home Renovation,Closed,2023-04-14 15:10:08.260325,1.844
+PKB10467,59.0,Male,Lahore,Gulberg,Self-Employed,70000.0,Personal Loan,1190000.0,48,21.55,37202.0,626.0,Wedding,Approved,2021-10-25 00:59:28.460575,6.377
+PKB10468,28.0,Female,Peshawar,Hayatabad,Freelancer,45000.0,Business Loan,1330000.0,12,21.43,124116.0,585.0,Travel,Defaulted,2021-03-09 01:46:19.974968,33.098
+PKB10469,26.0,Male,Karachi,DHA,Government,43000.0,Business Loan,880000.0,24,11.84,41359.0,535.0,Wedding,Rejected,2023-03-20 01:55:20.650813,11.542
+PKB10470,64.0,Male,Hyderabad,Qasimabad,Salaried,18000.0,Home Loan,570000.0,24,13.2,27152.0,614.0,Medical,Rejected,2022-07-13 22:46:06.458072,18.101
+PKB10471,52.0,Male,Karachi,Saddar,Freelancer,150000.0,Home Loan,1020000.0,12,20.59,94775.0,700.0,Home Renovation,Approved,2022-07-05 23:07:44.080100,7.582
+PKB10472,44.0,Female,Hyderabad,Latifabad,Salaried,93000.0,Home Loan,1860000.0,120,21.55,37877.0,821.0,Business Expansion,Approved,2024-02-20 01:06:41.001251,4.887
+PKB10473,63.0,Female,Karachi,Saddar,Salaried,170000.0,Personal Loan,720000.0,48,14.49,19852.0,,Education,Rejected,2021-04-16 09:38:31.389236,1.401
+PKB10474,31.0,Male,Quetta,Airport Road,Self-Employed,233000.0,Personal Loan,600000.0,24,12.83,28477.0,381.0,Travel,Rejected,2024-06-02 20:25:31.914893,1.467
+PKB10475,53.0,Male,Islamabad,G-9,Salaried,105000.0,Personal Loan,960000.0,48,15.6,27010.0,,Wedding,Rejected,2023-09-21 07:57:35.819774,3.087
+PKB10476,64.0,Male,Hyderabad,Qasimabad,Self-Employed,108000.0,Personal Loan,750000.0,84,17.78,15667.0,624.0,Home Renovation,Approved,2024-02-08 20:48:57.672090,1.741
+PKB10477,51.0,Male,Karachi,Gulshan,Salaried,75000.0,Business Loan,290000.0,48,12.19,7664.0,708.0,Travel,Approved,2023-05-05 09:25:54.443053,1.226
+PKB10478,60.0,Male,Islamabad,G-9,Self-Employed,80000.0,Personal Loan,860000.0,36,18.44,,637.0,Vehicle Purchase,Approved,2022-04-13 22:04:39.349186,4.692
+PKB10479,52.0,Male,hyderabad,Qasimabad,Salaried,153000.0,Personal Loan,280000.0,12,9.2,24512.0,739.0,Medical,Approved,2023-10-26 11:10:26.282853,1.923
+PKB10480,39.0,Male,Islamabad,G-9,Government,89000.0,Home Loan,950000.0,120,9.17,12122.0,657.0,Vehicle Purchase,Approved,2022-01-12 21:23:12.240300,1.634
+PKB10481,57.0,Male,Rawalpindi,Saddar,Business Owner,82000.0,Business Loan,420000.0,48,13.71,11416.0,768.0,Wedding,Approved,2022-04-01 03:27:15.544430,1.671
+PKB10482,23.0,Male,Faisalabad,Clock Tower,Salaried,98000.0,Personal Loan,750000.0,120,13.27,11318.0,578.0,Vehicle Purchase,Approved,2021-12-03 23:11:20.350438,1.386
+PKB10483,35.0,Female,Islamabad,I-8,Salaried,168000.0,Personal Loan,960000.0,120,12.76,14198.0,633.0,Vehicle Purchase,Defaulted,2021-06-03 07:28:45.657071,1.014
+PKB10484,34.0,Female,Rawalpindi,Saddar,Salaried,65000.0,Home Loan,4060000.0,84,15.13,78641.0,698.0,Medical,Approved,2021-04-19 14:17:52.340425,14.518
+PKB10485,50.0,Male,Rawalpindi,Satellite Town,Salaried,95000.0,Auto Loan,1230000.0,60,12.83,27879.0,565.0,Medical,Defaulted,2023-12-22 22:58:43.404255,3.522
+PKB10486,33.0,Male,Quetta,Airport Road,Government,114000.0,Auto Loan,1900000.0,12,11.1,168014.0,544.0,Electronics,Rejected,2024-03-08 14:43:06.232790,17.686
+PKB10487,60.0,Male,Karachi,Clifton,Government,198000.0,Business Loan,2700000.0,120,12.68,39806.0,560.0,Medical,Defaulted,2021-12-16 17:48:44.155193,2.412
+PKB10488,23.0,Male,Lahore,Gulberg,Salaried,86000.0,Education Loan,1030000.0,24,21.66,53262.0,548.0,Travel,Rejected,2022-03-25 18:08:33.642052,7.432
+PKB10489,53.0,Female,Sialkot,Kashmir Road,Salaried,64000.0,Business Loan,890000.0,36,14.05,30440.0,669.0,Electronics,Approved,2023-02-06 13:23:48.285356,5.708
+PKB10490,34.0,Male,Quetta,Jinnah Road,Salaried,74000.0,Auto Loan,350000.0,24,14.5,16887.0,445.0,Medical,Rejected,2023-05-21 08:42:39.198998,2.738
+PKB10491,48.0,Female,Islamabad,F-10,Government,186000.0,Home Loan,670000.0,84,16.28,13415.0,472.0,Vehicle Purchase,Rejected,2021-06-22 11:24:51.364205,0.865
+PKB10492,62.0,Female,Rawalpindi,Bahria Town,Salaried,334000.0,Personal Loan,440000.0,84,21.78,10248.0,796.0,Business Expansion,Approved,2022-02-15 10:16:22.227784,0.368
+PKB10493,38.0,Male,Lahore,DHA,Freelancer,45000.0,Education Loan,550000.0,24,11.76,25829.0,551.0,Business Expansion,Approved,2024-02-29 15:04:43.854818,6.888
+PKB10494,61.0,Male,Karachi,DHA,Government,51000.0,Home Loan,2700000.0,12,17.7,247151.0,639.0,Electronics,Closed,2023-11-08 05:47:50.087609,58.153
+PKB10495,52.0,Male,Islamabad,G-9,Salaried,89000.0,Personal Loan,790000.0,24,18.17,39505.0,478.0,Medical,Rejected,2022-01-19 06:41:54.142678,5.327
+PKB10496,55.0,Male,Lahore,Gulberg,Self-Employed,106000.0,Auto Loan,400000.0,48,16.7,11480.0,628.0,Travel,Approved,2024-06-25 05:00:58.573216,1.3
+PKB10497,45.0,Male,Rawalpindi,Satellite Town,Business Owner,,Personal Loan,1910000.0,24,9.7,87873.0,551.0,Education,Defaulted,2022-10-09 18:48:12.615769,6.674
+PKB10498,56.0,Male,Karachi,Gulshan,Self-Employed,58000.0,Auto Loan,1420000.0,36,17.64,51080.0,471.0,Home Renovation,Rejected,2021-12-15 03:29:03.679599,10.568
+PKB10499,27.0,Female,Hyderabad,Latifabad,Salaried,52000.0,Auto Loan,1480000.0,36,9.37,47319.0,747.0,Wedding,Defaulted,2021-11-21 04:33:56.545682,10.92
+PKB10500,40.0,Male,Hyderabad,Auto Bhan,Salaried,107000.0,Home Loan,180000.0,60,16.55,4430.0,732.0,Travel,Approved,2023-11-16 05:26:12.465581,0.497
+PKB10501,51.0,Male,Faisalabad,Canal Road,Business Owner,85000.0,Business Loan,2850000.0,36,18.48,103722.0,609.0,Education,Rejected,2023-12-26 03:38:04.355444,14.643
+PKB10502,28.0,Male,Islamabad,Blue Area,Government,172000.0,Personal Loan,490000.0,24,11.35,22918.0,714.0,Wedding,Approved,2024-05-17 21:08:47.158948,1.599
+PKB10503,31.0,Female,Lahore,Johar Town,Government,132000.0,Home Loan,1260000.0,36,19.86,46736.0,800.0,Education,Defaulted,2024-03-05 10:03:45.281602,4.249
+PKB10504,62.0,Male,Peshawar,Saddar,Business Owner,138000.0,Home Loan,4270000.0,12,8.91,373240.0,,Education,Rejected,2022-02-04 05:58:38.898623,32.456
+PKB10505,53.0,Female,Faisalabad,Clock Tower,Business Owner,93000.0,Auto Loan,3300000.0,120,19.89,63534.0,665.0,Electronics,Approved,2022-04-07 12:45:57.446808,8.198
+PKB10506,55.0,Male,Karachi,Saddar,Business Owner,406000.0,Business Loan,370000.0,36,14.71,12774.0,,Business Expansion,Approved,2022-08-21 06:38:17.872340,0.378
+PKB10507,49.0,Male,Quetta,Airport Road,Salaried,60000.0,Home Loan,270000.0,48,11.44,7036.0,681.0,Home Renovation,Approved,2022-06-07 05:13:35.519399,1.407
+PKB10508,36.0,Male,Peshawar,University Town,Self-Employed,142000.0,Auto Loan,1990000.0,12,10.31,175240.0,585.0,Education,Closed,2023-08-18 19:04:25.832290,14.809
+PKB10509,51.0,Male,Sialkot,Paris Road,Government,46000.0,Personal Loan,810000.0,60,21.37,22082.0,593.0,Medical,Rejected,2021-01-12 04:17:43.329161,5.761
+PKB10510,58.0,Female,Faisalabad,Peoples Colony,Government,52000.0,Education Loan,510000.0,48,9.48,12808.0,662.0,Wedding,Approved,2023-06-11 02:58:25.381727,2.956
+PKB10511,50.0,Male,Rawalpindi,Bahria Town,Government,69000.0,Home Loan,1130000.0,24,11.19,52767.0,574.0,Travel,Approved,2021-08-04 14:16:04.205256,9.177
+PKB10512,43.0,Female,Lahore,Gulberg,Salaried,262000.0,Auto Loan,650000.0,120,13.2,9782.0,585.0,Business Expansion,Rejected,2023-01-27 23:25:45.431789,0.448
+PKB10513,25.0,Male,Sialkot,Paris Road,Government,116000.0,Personal Loan,1190000.0,24,16.87,58762.0,620.0,Wedding,Rejected,2023-07-11 11:12:14.418022,6.079
+PKB10514,41.0,Male,Peshawar,Saddar,Government,69000.0,Personal Loan,760000.0,120,15.85,12660.0,729.0,Electronics,Closed,2022-09-20 14:52:06.908635,2.202
+PKB10515,53.0,Male,Karachi,Gulshan,Salaried,124000.0,Home Loan,1210000.0,120,10.2,16125.0,512.0,Medical,Rejected,2021-06-24 01:44:31.839799,1.56
+PKB10516,57.0,Male,Karachi,Clifton,Self-Employed,101000.0,Business Loan,390000.0,24,12.41,18433.0,692.0,Medical,Defaulted,2021-02-01 22:33:29.511889,2.19
+PKB10517,25.0,Female,Lahore,Johar Town,Salaried,73000.0,Home Loan,1980000.0,48,11.72,51869.0,695.0,Education,Approved,2023-10-15 06:52:42.953692,8.526
+PKB10518,48.0,Female,Peshawar,Saddar,Salaried,43000.0,Education Loan,1190000.0,48,11.38,30976.0,694.0,Medical,Approved,2021-03-01 02:07:57.596996,8.644
+PKB10519,38.0,Male,Hyderabad,Auto Bhan,Salaried,234000.0,Home Loan,1150000.0,120,14.05,17890.0,543.0,Home Renovation,Rejected,2024-04-06 08:37:14.793491,0.917
+PKB10520,33.0,Male,Karachi,Clifton,Self-Employed,112000.0,Home Loan,330000.0,48,18.0,9694.0,459.0,Electronics,Rejected,2021-07-10 01:01:16.595744,1.039
+PKB10521,43.0,Male,Rawalpindi,Bahria Town,Self-Employed,,Personal Loan,2400000.0,120,11.44,33661.0,673.0,Medical,Closed,2022-09-22 05:11:47.384230,1.11
+PKB10522,38.0,Male,Lahore,Model Town,Government,174000.0,Business Loan,720000.0,120,13.45,10942.0,637.0,Education,Defaulted,2022-03-01 19:13:26.508135,0.755
+PKB10523,,Male,Hyderabad,Latifabad,Government,137000.0,Personal Loan,1210000.0,12,13.78,108517.0,715.0,Wedding,Approved,2022-04-26 16:42:03.153942,9.505
+PKB10524,22.0,Male,Peshawar,University Town,Business Owner,76000.0,Business Loan,580000.0,84,21.68,13473.0,553.0,Electronics,Rejected,2023-09-27 17:16:17.722152,2.127
+PKB10525,43.0,Male,Peshawar,Hayatabad,Salaried,51000.0,Education Loan,880000.0,12,21.39,82105.0,692.0,Medical,Approved,2023-12-05 09:22:18.172715,19.319
+PKB10526,47.0,Male,Islamabad,Blue Area,Salaried,87000.0,Education Loan,900000.0,24,19.3,45499.0,,Business Expansion,Closed,2021-07-29 04:57:22.302878,6.276
+PKB10527,39.0,Male,Lahore,Gulberg,Business Owner,50000.0,Home Loan,100000.0,84,11.76,1752.0,610.0,Electronics,Defaulted,2021-02-03 12:53:09.987484,0.42
+PKB10528,35.0,Male,Lahore,Model Town,Salaried,146000.0,Auto Loan,1100000.0,36,9.42,35195.0,659.0,Electronics,Defaulted,2023-12-19 18:19:22.453066,2.893
+PKB10529,50.0,Female,Karachi,DHA,Freelancer,263000.0,Business Loan,2890000.0,24,12.78,137097.0,656.0,Travel,Approved,2022-06-08 19:33:15.994993,6.255
+PKB10530,33.0,Male,Peshawar,Saddar,Business Owner,84000.0,Personal Loan,1060000.0,60,12.1,23633.0,541.0,Business Expansion,Rejected,2023-05-22 23:02:19.674593,3.376
+PKB10531,57.0,Female,Peshawar,Hayatabad,Self-Employed,174000.0,Auto Loan,370000.0,12,15.33%,33453.0,670.0,Business Expansion,Approved,2021-09-10 07:48:35.143929,2.307
+PKB10532,56.0,Male,Hyderabad,Qasimabad,Freelancer,65000.0,Personal Loan,1150000.0,48,19.0,34385.0,774.0,Wedding,Approved,2023-05-08 14:05:15.394242,6.348
+PKB10533,33.0,Male,Hyderabad,Auto Bhan,Salaried,82000.0,Home Loan,1530000.0,12,20.09,141797.0,622.0,Vehicle Purchase,Approved,2024-01-03 03:16:26.733416,20.751
+PKB10534,28.0,Male,Islamabad,Blue Area,Salaried,61000.0,Personal Loan,1040000.0,48,19.91,31598.0,481.0,Travel,Approved,2021-10-18 15:40:46.558197,6.216
+PKB10535,50.0,Male,Multan,Gulgasht,Government,27000.0,Personal Loan,690000.0,84,13.36,12688.0,554.0,Business Expansion,Approved,2022-04-15 12:24:19.824780,5.639
+PKB10536,32.0,Female,Sialkot,Kashmir Road,Salaried,97000.0,Home Loan,620000.0,60,17.78,15670.0,450.0,Business Expansion,Defaulted,2021-10-28 05:38:49.411764,1.939
+PKB10537,54.0,Male,peshawar,Hayatabad,Freelancer,107000.0,Home Loan,610000.0,84,12.72,11004.0,742.0,Vehicle Purchase,Rejected,2023-02-12 22:42:30.187734,1.234
+PKB10538,27.0,Female,Karachi,Gulshan,Salaried,187000.0,Auto Loan,1190000.0,60,9.32,24888.0,692.0,Wedding,Approved,2021-01-21 18:15:46.182728,1.597
+PKB10539,36.0,Female,Islamabad,Blue Area,Self-Employed,159000.0,Personal Loan,270000.0,12,17.97,24750.0,572.0,Travel,Rejected,2021-02-14 17:10:53.316645,1.868
+PKB10540,53.0,Male,Karachi,DHA,Self-Employed,160000.0,Home Loan,560000.0,48,8.63,13837.0,485.0,Business Expansion,Rejected,2022-08-08 12:00:54.067584,1.038
+PKB10541,32.0,Male,Sialkot,Kashmir Road,Government,55000.0,Personal Loan,2230000.0,84,14.02,41815.0,540.0,Education,Defaulted,2021-03-07 11:26:39.499374,9.123
+PKB10542,44.0,Female,Rawalpindi,Saddar,Salaried,130000.0,Auto Loan,2290000.0,60,12.95,52046.0,559.0,Wedding,Defaulted,2022-07-12 08:26:25.982478,4.804
+PKB10543,47.0,Male,Karachi,Clifton,Salaried,255000.0,Auto Loan,260000.0,120,17.86,4661.0,630.0,Travel,Defaulted,2022-10-30 13:03:58.798498,0.219
+PKB10544,55.0,Female,Faisalabad,Canal Road,Business Owner,124000.0,Auto Loan,330000.0,24,18.84,16609.0,627.0,Business Expansion,Rejected,2021-07-11 15:20:57.071339,1.607
+PKB10545,55.0,Male,Rawalpindi,Saddar,Salaried,296000.0,Auto Loan,600000.0,24,12.61,28415.0,747.0,Business Expansion,Approved,2024-01-06 07:55:47.684605,1.152
+PKB10546,50.0,Male,Lahore,Gulberg,Business Owner,331000.0,Home Loan,1360000.0,84,19.46,29760.0,554.0,Vehicle Purchase,Rejected,2022-02-12 05:37:01.276595,1.079
+PKB10547,25.0,Male,Karachi,Clifton,Self-Employed,84000.0,Business Loan,200000.0,48,12.47,5313.0,476.0,Travel,Rejected,2023-02-27 07:39:34.468085,0.759
+PKB10548,38.0,Male,Faisalabad,Clock Tower,Government,65000.0,Home Loan,700000.0,120,14.53,11093.0,510.0,Education,Rejected,2022-10-25 18:04:57.371714,2.048
+PKB10549,56.0,Female,Islamabad,F-10,Government,63000.0,Home Loan,520000.0,84,18.31,11024.0,617.0,Wedding,Defaulted,2022-08-19 16:18:37.396745,2.1
+PKB10550,34.0,Male,Multan,Gulgasht,Salaried,40000.0,Auto Loan,1850000.0,12,17.85,169476.0,550.0,Medical,Rejected,2021-08-22 03:52:29.436795,50.843
+PKB10551,62.0,Female,Islamabad,Blue Area,Self-Employed,72000.0,Personal Loan,230000.0,60,21.83,6330.0,592.0,Home Renovation,Approved,2022-07-09 03:47:05.031289,1.055
+PKB10552,60.0,Male,peshawar,Saddar,Business Owner,204000.0,Auto Loan,780000.0,12,11.54,69134.0,576.0,Education,Rejected,2022-11-05 22:22:40.700876,4.067
+PKB10553,36.0,Male,Islamabad,I-8,Self-Employed,26000.0,Auto Loan,550000.0,24,17.44,27310.0,714.0,Medical,Closed,2023-04-27 09:47:32.065081,12.605
+PKB10554,50.0,Male,Islamabad,I-8,Freelancer,53000.0,Home Loan,2040000.0,60,16.73,,564.0,Education,Rejected,2023-08-17 04:44:45.356695,11.412
+PKB10555,50.0,Male,Quetta,Satellite Town,Self-Employed,91000.0,Personal Loan,1110000.0,84,20.85,25220.0,584.0,Travel,Rejected,2021-09-15 02:47:36.570713,3.326
+PKB10556,32.0,Male,LAHORE,Johar Town,Salaried,,Personal Loan,480000.0,12,10.61,42336.0,688.0,Medical,Approved,2021-02-24 07:08:56.170212,8.759
+PKB10557,53.0,Male,Karachi,DHA,Salaried,72000.0,Education Loan,1330000.0,36,18.65,48517.0,566.0,Travel,Approved,2023-09-02 04:01:30.112640,8.086
+PKB10558,23.0,Female,Karachi,Clifton,Freelancer,,Auto Loan,560000.0,48,16.17,15919.0,660.0,Medical,Approved,2021-11-13 04:55:34.167709,2.617
+PKB10559,35.0,Male,Multan,Gulgasht,Salaried,85000.0,Personal Loan,1470000.0,120,12.21,21269.0,651.0,Education,Rejected,2022-01-03 07:25:09.386733,3.003
+PKB10560,41.0,Male,Rawalpindi,Bahria Town,Business Owner,64000.0,Home Loan,620000.0,120,14.9,9965.0,633.0,Vehicle Purchase,Approved,2023-09-18 03:18:14.868585,1.868
+PKB10561,43.0,Female,Faisalabad,Canal Road,Business Owner,61000.0,Auto Loan,1530000.0,48,13.01,41054.0,512.0,Education,Defaulted,2023-07-17 20:30:56.320400,8.076
+PKB10562,32.0,Female,Karachi,DHA,Salaried,173000.0,Business Loan,990000.0,36,16.32,34962.0,736.0,Travel,Approved,2021-04-03 15:01:07.584480,2.425
+PKB10563,48.0,Male,Karachi,Saddar,Salaried,185000.0,Personal Loan,7150000.0,24,20.5,365654.0,830.0,Education,Approved,2021-04-29 04:15:55.193992,23.718
+PKB10564,24.0,Male,Karachi,Gulshan,Government,43000.0,Personal Loan,700000.0,60,16.19,17093.0,620.0,Electronics,Closed,2022-05-20 15:37:10.287859,4.77
+PKB10565,38.0,Female,Lahore,Model Town,Salaried,19000.0,Business Loan,950000.0,48,17.03,27427.0,520.0,Electronics,Rejected,2023-06-28 16:34:50.613266,17.322
+PKB10566,49.0,Male,Rawalpindi,Bahria Town,Government,187000.0,Personal Loan,520000.0,36,15.5,18154.0,622.0,Medical,Rejected,2023-10-31 06:09:27.709637,1.165
+PKB10567,50.0,Male,Lahore,Model Town,Self-Employed,47000.0,Personal Loan,730000.0,84,9.19,11816.0,714.0,Electronics,Defaulted,2024-01-22 07:12:32.440550,3.017
+PKB10568,42.0,Male,Lahore,DHA,Self-Employed,112000.0,Education Loan,110000.0,120,11.64,1555.0,561.0,Home Renovation,Rejected,2021-04-14 19:18:50.913642,0.167
+PKB10569,37.0,Female,Quetta,Satellite Town,Government,39000.0,Auto Loan,1010000.0,36,15.14,35081.0,607.0,Medical,Rejected,2022-06-23 04:30:20.275344,10.794
+PKB10570,58.0,Male,Lahore,Gulberg,Salaried,215000.0,Personal Loan,1870000.0,24,12.69,88631.0,652.0,Electronics,Approved,2023-02-25 17:19:53.992490,4.947
+PKB10571,41.0,Female,Islamabad,F-10,Self-Employed,454000.0,Personal Loan,960000.0,24,10.95,44721.0,734.0,Business Expansion,Approved,2022-05-06 06:40:06.007509,1.182
+PKB10572,27.0,Male,Multan,Cantt,Salaried,110000.0,Personal Loan,290000.0,12,15.31,26217.0,693.0,Education,Approved,2022-04-18 17:03:40.775969,2.86
+PKB10573,40.0,Female,Lahore,Johar Town,Salaried,93000.0,Personal Loan,420000.0,48,12.86,11238.0,697.0,Wedding,Defaulted,2022-12-11 01:35:31.163954,1.45
+PKB10574,26.0,Male,Rawalpindi,Satellite Town,Self-Employed,81000.0,Business Loan,130000.0,12,11.98,11549.0,579.0,Education,Rejected,2024-05-19 11:28:27.634543,1.711
+PKB10575,24.0,Male,Peshawar,University Town,Business Owner,158000.0,Home Loan,1450000.0,120,14.76,23181.0,658.0,Electronics,Rejected,2022-08-22 20:57:58.347934,1.761
+PKB10576,22.0,Female,Sialkot,Cantt,Salaried,139000.0,Auto Loan,360000.0,36,10.3,11667.0,551.0,Vehicle Purchase,Closed,2024-01-25 11:51:53.391739,1.007
+PKB10577,59.0,Male,Karachi,Gulshan,Self-Employed,180000.0,Education Loan,710000.0,60,21.02,19216.0,700.0,Travel,Approved,2021-10-12 06:22:04.655819,1.281
+PKB10578,36.0,Male,Sialkot,Kashmir Road,Government,68000.0,Home Loan,650000.0,60,20.21,17297.0,729.0,Wedding,Approved,2022-10-16 04:06:54.518147,3.052
+PKB10579,55.0,Male,Islamabad,F-10,Salaried,121000.0,Personal Loan,2070000.0,24,18.05,103393.0,672.0,Medical,Approved,2021-05-29 12:29:44.230287,10.254
+PKB10580,56.0,Male,Lahore,DHA,Salaried,71000.0,Home Loan,770000.0,60,9.93,16334.0,585.0,Vehicle Purchase,Rejected,2021-06-25 16:04:12.315394,2.761
+PKB10581,46.0,Male,Islamabad,G-9,Freelancer,52000.0,Education Loan,1280000.0,60,18.97,33183.0,600.0,Education,Approved,2024-05-25 20:47:09.536921,7.658
+PKB10582,45.0,Female,Hyderabad,Latifabad,Government,96000.0,Business Loan,1070000.0,120,19.41,20262.0,791.0,Electronics,Approved,2022-09-07 20:14:43.103879,2.533
+PKB10583,33.0,Male,Islamabad,I-8,Self-Employed,57000.0,Personal Loan,1890000.0,60,18.86,48882.0,586.0,Medical,Closed,2023-12-02 04:42:57.221526,10.291
+PKB10584,39.0,Male,Lahore,Model Town,Government,200000.0,Auto Loan,620000.0,36,10.04,20017.0,719.0,Medical,Closed,2021-04-17 23:58:11.864831,1.201
+PKB10585,36.0,Male,Rawalpindi,Saddar,Salaried,59000.0,Auto Loan,2700000.0,60,17.19,67378.0,652.0,Business Expansion,Defaulted,2021-03-25 01:03:04.730913,13.704
+PKB10586,37.0,Female,Karachi,Gulshan,Government,123000.0,Education Loan,180000.0,84,19.76,3971.0,588.0,Business Expansion,Defaulted,2022-05-12 15:58:47.909887,0.387
+PKB10587,48.0,Female,Karachi,DHA,Self-Employed,69000.0,Personal Loan,1330000.0,60,16.29,32548.0,492.0,Electronics,Rejected,2022-06-18 09:31:18.848560,5.661
+PKB10588,29.0,Male,Karachi,Saddar,Self-Employed,117000.0,Home Loan,400000.0,60,17.23,9991.0,640.0,Electronics,Rejected,2024-03-07 00:23:25.757196,1.025
+PKB10589,46.0,Male,Karachi,Clifton,Salaried,72000.0,Business Loan,520000.0,12,14.69,46858.0,628.0,Home Renovation,Defaulted,2024-03-30 23:18:32.891113,7.81
+PKB10590,38.0,Female,Karachi,Clifton,Salaried,46000.0,Home Loan,1090000.0,36,15.64,38128.0,791.0,Business Expansion,Approved,2022-03-22 13:29:12.690863,9.946
+PKB10591,50.0,Male,Karachi,DHA,Salaried,132000.0,Home Loan,1080000.0,24,8.96,49320.0,538.0,Travel,Closed,2022-06-21 14:10:39.799749,4.484
+PKB10592,29.0,Female,Rawalpindi,Saddar,Freelancer,,Personal Loan,1120000.0,12,17.13,102218.0,838.0,Wedding,Approved,2023-07-30 15:08:20.125156,14.263
+PKB10593,36.0,Female,Karachi,Clifton,Self-Employed,117000.0,Personal Loan,280000.0,48,9.6,7048.0,655.0,Medical,Rejected,2023-08-10 19:26:03.454317,0.723
+PKB10594,48.0,Female,Lahore,Gulberg,Self-Employed,76000.0,Home Loan,2010000.0,36,14.37,69059.0,655.0,Business Expansion,Rejected,2022-01-17 16:22:13.667083,10.904
+PKB10595,28.0,Male,Quetta,Airport Road,Salaried,44000.0,Education Loan,390000.0,84,12.45,6979.0,,Electronics,Closed,2021-03-02 16:27:38.072590,1.903
+PKB10596,24.0,Female,Islamabad,G-9,Salaried,189000.0,Personal Loan,430000.0,36,15.86,15088.0,649.0,Home Renovation,Approved,2023-11-03 10:48:48.660826,0.958
+PKB10597,50.0,Female,Faisalabad,Peoples Colony,Government,154000.0,Home Loan,1140000.0,48,10.3,29078.0,664.0,Electronics,Rejected,2024-06-22 00:21:37.622027,2.266
+PKB10598,45.0,Male,karachi,Saddar,Self-Employed,70000.0,Auto Loan,600000.0,48,17.84,17575.0,709.0,Electronics,Approved,2023-01-24 18:46:24.480600,3.013
+PKB10599,24.0,Male,Karachi,Gulshan,Self-Employed,103000.0,Personal Loan,910000.0,48,19.23,27320.0,527.0,Electronics,Rejected,2021-02-16 07:30:33.792240,3.183
+PKB10600,41.0,Male,Karachi,Gulshan,Salaried,184000.0,Home Loan,160000.0,120,10.71,2178.0,753.0,Education,Rejected,2023-01-08 19:29:39.724655,0.142
+PKB10601,36.0,Male,Karachi,DHA,Government,75000.0,Auto Loan,890000.0,24,9.91,41032.0,,Wedding,Rejected,2023-01-21 14:07:03.529411,6.565
+PKB10602,46.0,Male,Lahore,Model Town,Salaried,82000.0,Business Loan,850000.0,60,10.46,18253.0,677.0,Business Expansion,Rejected,2022-12-09 11:15:50.688360,2.671
+PKB10603,51.0,Male,Karachi,Gulshan,Salaried,114000.0,Auto Loan,510000.0,36,20.34,19042.0,599.0,Medical,Rejected,2021-08-28 13:11:11.339173,2.004
+PKB10604,35.0,Male,Karachi,DHA,Self-Employed,75000.0,Auto Loan,170000.0,120,15.63%,2809.0,531.0,Education,Rejected,2021-07-22 19:38:40.400500,0.449
+PKB10605,28.0,Male,Karachi,Clifton,Salaried,165000.0,Personal Loan,630000.0,60,14.81,14925.0,626.0,Electronics,Rejected,2023-08-25 04:23:07.734668,1.085
+PKB10606,38.0,Male,Islamabad,Blue Area,Salaried,89000.0,Education Loan,710000.0,60,9.94,15064.0,,Travel,Approved,2021-09-13 12:27:56.095118,2.031
+PKB10607,41.0,Female,Karachi,Gulshan,Government,62000.0,Personal Loan,560000.0,84,17.27,11532.0,488.0,Medical,Approved,2022-11-01 03:23:39.274092,2.232
+PKB10608,57.0,Female,Lahore,DHA,Government,142000.0,Business Loan,200000.0,48,20.22,6110.0,695.0,Education,Closed,2023-11-17 19:45:52.941176,0.516
+PKB10609,30.0,Male,Islamabad,Blue Area,Business Owner,50000.0,Personal Loan,2230000.0,24,19.68,113149.0,714.0,Travel,Approved,2023-06-01 13:00:22.528160,27.156
+PKB10610,59.0,Male,Faisalabad,Canal Road,Self-Employed,331000.0,Education Loan,470000.0,84,16.95,9591.0,550.0,Travel,Defaulted,2024-06-12 10:23:34.768460,0.348
+PKB10611,43.0,Male,Karachi,Saddar,Salaried,255000.0,Auto Loan,620000.0,12,9.52,54370.0,522.0,Wedding,Rejected,2022-07-18 17:45:07.884856,2.559
+PKB10612,23.0,Female,Multan,Gulgasht,Salaried,134000.0,Business Loan,140000.0,120,10.02,1852.0,591.0,Medical,Rejected,2023-04-22 14:48:30.638297,0.166
+PKB10613,45.0,Female,Rawalpindi,Saddar,Freelancer,128000.0,Personal Loan,2230000.0,120,9.17,,622.0,Business Expansion,Approved,2021-12-27 22:06:27.484355,2.668
+PKB10614,29.0,Female,Karachi,DHA,Self-Employed,124000.0,Home Loan,530000.0,24,11.98,24944.0,594.0,Business Expansion,Rejected,2021-10-23 10:39:47.984981,2.414
+PKB10615,32.0,Male,Quetta,Jinnah Road,Government,74000.0,Auto Loan,780000.0,60,10.33,16700.0,614.0,Home Renovation,Approved,2022-12-04 16:16:49.261576,2.708
+PKB10616,34.0,Female,SIALKOT,Paris Road,Salaried,118000.0,Business Loan,1600000.0,120,12.01,22965.0,,Education,Approved,2022-02-07 10:37:59.849812,2.335
+PKB10617,38.0,Male,Karachi,DHA,Self-Employed,57000.0,Personal Loan,450000.0,24,13.7,21542.0,490.0,Home Renovation,Rejected,2021-06-28 20:43:33.266583,4.535
+PKB10618,29.0,Male,Lahore,DHA,Salaried,134000.0,Education Loan,1430000.0,120,21.23,28812.0,500.0,Vehicle Purchase,Approved,2021-11-22 18:53:37.021276,2.58
+PKB10619,42.0,Male,Peshawar,Hayatabad,Self-Employed,166000.0,Business Loan,170000.0,120,16.74,2927.0,361.0,Business Expansion,Rejected,2023-11-14 15:06:31.989987,0.212
+PKB10620,39.0,Female,Multan,Cantt,Freelancer,79000.0,Personal Loan,1070000.0,48,19.77,32430.0,709.0,Education,Approved,2022-08-13 06:59:55.494367,4.926
+PKB10621,51.0,Male,Karachi,Clifton,Freelancer,69000.0,Business Loan,2190000.0,12,18.09,200873.0,621.0,Wedding,Approved,2021-01-23 08:35:26.658322,34.934
+PKB10622,39.0,Female,Karachi,Clifton,Self-Employed,48000.0,Home Loan,490000.0,48,10.02,12432.0,719.0,Home Renovation,Closed,2023-09-30 21:55:38.673341,3.108
+PKB10623,52.0,Female,Lahore,Gulberg,Self-Employed,237000.0,Home Loan,1600000.0,12,18.43,147016.0,511.0,Wedding,Rejected,2021-06-20 21:05:10.888610,7.444
+PKB10624,59.0,Male,Islamabad,G-9,Freelancer,72000.0,Home Loan,2630000.0,120,12.21,38053.0,622.0,Wedding,Rejected,2023-05-02 04:46:33.491864,6.342
+PKB10625,53.0,Male,Rawalpindi,Saddar,Government,88000.0,Auto Loan,610000.0,84,17.13,12512.0,640.0,Electronics,Approved,2021-05-03 23:14:56.620775,1.706
+PKB10626,32.0,Female,Lahore,Model Town,Salaried,118000.0,Auto Loan,580000.0,60,13.1,13226.0,566.0,Electronics,Closed,2022-02-01 01:19:17.947434,1.345
+PKB10627,46.0,Male,ISLAMABAD,G-9,Self-Employed,117000.0,Home Loan,390000.0,120,21.97,8053.0,472.0,Wedding,Rejected,2024-05-13 02:09:45.732165,0.826
+PKB10628,54.0,Male,Multan,Husain Agahi,Salaried,154000.0,Auto Loan,510000.0,12,12.06,45327.0,785.0,Home Renovation,Rejected,2023-01-10 09:49:20.200250,3.532
+PKB10629,59.0,Male,Karachi,Saddar,Self-Employed,79000.0,Auto Loan,410000.0,12,12.27,36480.0,752.0,Electronics,Approved,2022-03-11 09:11:29.361702,5.541
+PKB10630,62.0,Male,Lahore,Model Town,Self-Employed,50000.0,Auto Loan,390000.0,12,21.06,36326.0,583.0,Vehicle Purchase,Closed,2024-03-21 09:20:30.037546,8.718
+PKB10631,29.0,Male,Faisalabad,Peoples Colony,Self-Employed,45000.0,Personal Loan,1690000.0,120,8.83,21253.0,668.0,Travel,Defaulted,2024-06-17 05:22:36.195244,5.667
+PKB10632,32.0,Male,Quetta,Satellite Town,Salaried,70000.0,Business Loan,420000.0,24,17.91,20950.0,573.0,Travel,Defaulted,2022-08-16 11:39:16.445556,3.591
+PKB10633,43.0,Male,Islamabad,F-10,Salaried,56000.0,Home Loan,870000.0,84,18.29,18434.0,525.0,Electronics,Approved,2022-05-09 11:19:26.958698,3.95
+PKB10634,45.0,Male,Islamabad,G-9,Self-Employed,82000.0,Personal Loan,750000.0,24,19.79%,38095.0,793.0,Home Renovation,Approved,2023-06-27 02:15:10.137672,5.575
+PKB10635,62.0,Female,Karachi,Clifton,Business Owner,,Personal Loan,2080000.0,60,21.65,57034.0,462.0,Travel,Rejected,2024-02-28 00:45:03.379224,3.169
+PKB10636,38.0,Female,Lahore,Model Town,Government,79000.0,Home Loan,510000.0,120,21.67,10427.0,592.0,Medical,Rejected,2021-10-21 20:20:07.509386,1.584
+PKB10637,33.0,Female,Islamabad,I-8,Salaried,79000.0,Business Loan,950000.0,12,9.38,83246.0,628.0,Travel,Defaulted,2021-07-13 05:40:37.546933,12.645
+PKB10638,53.0,Male,KARACHI,Gulshan,Freelancer,98000.0,Home Loan,1270000.0,84,19.59,27889.0,,Business Expansion,Approved,2022-01-25 16:00:36.045056,3.415
+PKB10639,36.0,Female,Lahore,Johar Town,Business Owner,77000.0,Auto Loan,2070000.0,84,17.23,42578.0,705.0,Home Renovation,Approved,2023-07-27 10:28:59.173967,6.636
+PKB10640,37.0,Male,Lahore,Model Town,Salaried,95000.0,Personal Loan,510000.0,36,17.24,18244.0,461.0,Electronics,Rejected,2022-05-04 16:20:25.531914,2.305
+PKB10641,43.0,Male,Karachi,Clifton,Salaried,137000.0,Home Loan,470000.0,60,10.23,10039.0,619.0,Electronics,Approved,2024-05-24 06:27:29.061326,0.879
+PKB10642,49.0,Female,Lahore,Gulberg,Government,168000.0,Education Loan,350000.0,84,17.28,7209.0,622.0,Travel,Approved,2021-10-05 21:03:22.753441,0.515
+PKB10643,41.0,Female,Karachi,Gulshan,Business Owner,180000.0,Business Loan,3490000.0,120,21.76,71568.0,598.0,Home Renovation,Defaulted,2021-01-13 18:37:23.804755,4.771
+PKB10644,54.0,Female,Lahore,Model Town,Freelancer,339000.0,Personal Loan,1920000.0,12,20.81,178603.0,678.0,Vehicle Purchase,Rejected,2021-09-18 07:26:57.521902,6.322
+PKB10645,31.0,Female,Karachi,Saddar,Business Owner,139000.0,Home Loan,710000.0,12,14.43,63893.0,486.0,Medical,Approved,2023-03-23 06:34:41.602002,5.516
+PKB10646,61.0,Male,Quetta,Airport Road,Government,,Personal Loan,2820000.0,84,9.04%,45428.0,581.0,Electronics,Rejected,2024-06-30 00:00:00.000000,1.446
+PKB10647,53.0,Male,Rawalpindi,Saddar,Self-Employed,62000.0,Home Loan,680000.0,24,13.39,32453.0,665.0,Home Renovation,Approved,2022-07-29 22:02:51.214017,6.281
+PKB10648,54.0,Female,Faisalabad,Canal Road,Salaried,,Business Loan,1210000.0,60,19.66,31829.0,684.0,Electronics,Approved,2023-05-11 18:44:36.345431,1.104
+PKB10649,23.0,Male,MULTAN,Husain Agahi,Salaried,79000.0,Business Loan,730000.0,12,17.97,66916.0,634.0,Electronics,Rejected,2021-05-02 08:55:16.145181,10.164
+PKB10650,54.0,Male,Islamabad,F-10,Self-Employed,83000.0,Personal Loan,960000.0,84,14.7,18364.0,592.0,Business Expansion,Defaulted,2021-05-07 03:54:17.571964,2.655
+PKB10651,54.0,Female,Karachi,DHA,Government,92000.0,Education Loan,890000.0,12,9.24,77931.0,608.0,Travel,Rejected,2023-01-13 14:28:41.151439,10.165
+PKB10652,62.0,Female,islamabad,G-9,Self-Employed,,Auto Loan,540000.0,84,14.26,10197.0,690.0,Business Expansion,Rejected,2024-03-16 14:21:28.610763,1.406
+PKB10653,34.0,Male,Rawalpindi,Bahria Town,Government,104000.0,Home Loan,1570000.0,60,14.83,37210.0,623.0,Travel,Approved,2022-10-17 18:26:34.993742,4.293
+PKB10654,51.0,Female,Multan,Gulgasht,Salaried,70000.0,Home Loan,1200000.0,84,21.04,27404.0,521.0,Electronics,Closed,2022-06-16 19:11:38.372966,4.698
+PKB10655,54.0,Female,Lahore,DHA,Self-Employed,162000.0,Auto Loan,1500000.0,36,17.15,53591.0,502.0,Home Renovation,Defaulted,2022-09-23 19:31:27.859824,3.97
+PKB10656,34.0,Female,Karachi,DHA,Salaried,71000.0,Auto Loan,910000.0,84,12.71,16412.0,478.0,Wedding,Closed,2021-04-06 19:40:28.535669,2.774
+PKB10657,47.0,Male,Lahore,Johar Town,Self-Employed,146000.0,Home Loan,390000.0,84,15.59,7655.0,758.0,Travel,Approved,2022-04-29 21:21:24.105131,0.629
+PKB10658,43.0,Male,Lahore,Gulberg,Government,247000.0,Home Loan,2410000.0,120,9.39,31040.0,696.0,Wedding,Closed,2021-05-18 08:12:00.901126,1.508
+PKB10659,60.0,Male,Rawalpindi,Bahria Town,Government,80000.0,Personal Loan,610000.0,60,21.63,16719.0,609.0,Medical,Defaulted,2023-06-12 17:18:05.857321,2.508
+PKB10660,23.0,Male,Rawalpindi,Bahria Town,Freelancer,159000.0,Business Loan,940000.0,120,13.36,14236.0,576.0,Business Expansion,Defaulted,2024-06-07 15:24:33.341677,1.074
+PKB10661,,Male,Lahore,DHA,Salaried,138000.0,Home Loan,1140000.0,84,14.95,21966.0,565.0,Wedding,Approved,2021-02-17 21:50:14.267834,1.91
+PKB10662,60.0,Male,Hyderabad,Latifabad,Self-Employed,381000.0,Personal Loan,940000.0,60,13.3,21533.0,723.0,Business Expansion,Approved,2024-01-09 12:35:08.635794,0.678
+PKB10663,47.0,Male,Rawalpindi,Saddar,Salaried,73000.0,Business Loan,1380000.0,36,17.71,49690.0,800.0,Travel,Closed,2024-05-14 16:29:26.207759,8.168
+PKB10664,36.0,Female,Karachi,DHA,Self-Employed,159000.0,Education Loan,1550000.0,60,17.44,38889.0,562.0,Travel,Defaulted,2023-08-02 19:47:41.076345,2.935
+PKB10665,55.0,Male,Karachi,Gulshan,Business Owner,37000.0,Education Loan,620000.0,12,18.16,56889.0,728.0,Medical,Approved,2022-06-02 10:14:34.092615,18.45
+PKB10666,,Female,KARACHI,Gulshan,Government,73000.0,Home Loan,2280000.0,120,12.12,32870.0,622.0,Travel,Closed,2024-01-15 21:53:50.538172,5.403
+PKB10667,61.0,Female,Karachi,DHA,Business Owner,122000.0,Personal Loan,610000.0,60,12.76,13805.0,599.0,Electronics,Rejected,2021-06-11 07:07:08.035043,1.358
+PKB10668,32.0,Male,Karachi,Saddar,Salaried,228000.0,Home Loan,920000.0,36,10.19,29768.0,762.0,Medical,Approved,2021-02-22 16:49:15.694618,1.567
+PKB10669,24.0,Female,KARACHI,DHA,Business Owner,47000.0,Personal Loan,560000.0,48,17.35,16260.0,619.0,Wedding,Approved,2021-06-14 11:46:28.986232,4.151
+PKB10670,27.0,Male,Lahore,Gulberg,Salaried,158000.0,Education Loan,460000.0,84,9.04,7410.0,,Travel,Closed,2023-01-12 00:09:00.675844,0.563
+PKB10671,30.0,Male,Karachi,DHA,Business Owner,95000.0,Personal Loan,1520000.0,60,16.57,37425.0,643.0,Home Renovation,Approved,2021-09-08 17:28:54.668335,4.727
+PKB10672,27.0,Female,Quetta,Jinnah Road,Salaried,40000.0,Personal Loan,6490000.0,84,20.24,145058.0,465.0,Education,Rejected,2021-11-05 05:17:11.789737,43.517
+PKB10673,30.0,Male,Karachi,Clifton,Salaried,110000.0,Home Loan,570000.0,24,20.53,29158.0,647.0,Vehicle Purchase,Rejected,2022-07-02 18:28:23.128911,3.181
+PKB10674,60.0,Female,Islamabad,I-8,Self-Employed,275000.0,Home Loan,1710000.0,12,14.56,153987.0,566.0,Electronics,Defaulted,2023-01-02 10:10:57.822277,6.719
+PKB10675,52.0,Male,Lahore,Model Town,Freelancer,,Business Loan,580000.0,120,14.7,9251.0,484.0,Education,Rejected,2022-03-24 03:48:53.166458,2.22
+PKB10676,53.0,Female,Hyderabad,Latifabad,Salaried,92000.0,Home Loan,720000.0,12,9.54,63146.0,570.0,Education,Closed,2024-04-22 07:53:59.549436,8.236
+PKB10677,,Male,karachi,Clifton,Salaried,55000.0,Personal Loan,2500000.0,24,17.56,124279.0,570.0,Business Expansion,Closed,2023-01-05 14:50:18.773466,27.115
+PKB10678,33.0,Female,Lahore,Johar Town,Business Owner,75000.0,Personal Loan,340000.0,24,19.59,17237.0,717.0,Electronics,Approved,2022-04-04 08:06:36.495619,2.758
+PKB10679,29.0,Male,Hyderabad,Auto Bhan,Salaried,233000.0,Home Loan,290000.0,120,11.8,4127.0,518.0,Electronics,Rejected,2021-05-11 22:53:18.998748,0.213
+PKB10680,29.0,Female,Peshawar,Saddar,Salaried,84000.0,Personal Loan,690000.0,60,14.19,16123.0,544.0,Medical,Approved,2024-03-27 18:39:11.939924,2.303
+PKB10681,49.0,Female,Peshawar,Saddar,Self-Employed,229000.0,Auto Loan,1160000.0,24,19.82,58937.0,642.0,Business Expansion,Approved,2021-06-19 06:45:30.413016,3.088
+PKB10682,41.0,Male,Lahore,DHA,Salaried,192000.0,Auto Loan,1010000.0,48,20.34,30918.0,494.0,Wedding,Rejected,2022-04-17 02:44:00.300375,1.932
+PKB10683,28.0,Male,Karachi,DHA,Business Owner,79000.0,Auto Loan,940000.0,84,11.78,16483.0,557.0,Vehicle Purchase,Closed,2022-09-25 09:51:08.335419,2.504
+PKB10684,32.0,Male,Faisalabad,Clock Tower,Government,73000.0,Education Loan,750000.0,84,15.93%,14867.0,461.0,Wedding,Defaulted,2022-06-15 04:51:57.897371,2.444
+PKB10685,41.0,Female,Sialkot,Kashmir Road,Self-Employed,58000.0,Education Loan,1260000.0,36,11.1,41310.0,707.0,Home Renovation,Approved,2023-04-09 20:11:06.833541,8.547
+PKB10686,37.0,Male,Islamabad,F-10,Freelancer,,Education Loan,90000.0,24,9.88,4148.0,591.0,Vehicle Purchase,Approved,2023-05-26 03:41:40.625782,0.889
+PKB10687,25.0,Female,Rawalpindi,Bahria Town,Self-Employed,,Personal Loan,430000.0,24,20.8,22054.0,618.0,Business Expansion,Rejected,2023-11-09 20:07:30.563204,2.169
+PKB10688,27.0,Female,Lahore,Johar Town,Salaried,98000.0,Personal Loan,680000.0,48,19.58,,707.0,Travel,Approved,2021-02-27 11:48:17.121401,2.515
+PKB10689,43.0,Male,Multan,Gulgasht,Salaried,68000.0,Home Loan,1190000.0,12,18.76,109530.0,551.0,Travel,Rejected,2023-02-19 08:01:12.090112,19.329
+PKB10690,47.0,Male,Karachi,DHA,Self-Employed,39000.0,Business Loan,2070000.0,12,9.16,181178.0,590.0,Business Expansion,Defaulted,2024-03-18 04:41:09.086357,55.747
+PKB10691,24.0,Male,Lahore,DHA,Salaried,105000.0,Education Loan,390000.0,84,19.89,8635.0,519.0,Wedding,Closed,2022-09-01 10:56:01.201501,0.987
+PKB10692,62.0,Female,Lahore,Johar Town,Freelancer,74000.0,Business Loan,2020000.0,84,14.41,38314.0,519.0,Business Expansion,Rejected,2023-01-26 09:06:04.956195,6.213
+PKB10693,63.0,Male,ISLAMABAD,I-8,Government,88000.0,Personal Loan,530000.0,60,13.12,12092.0,532.0,Business Expansion,Defaulted,2022-01-24 01:40:55.569461,1.649
+PKB10694,35.0,Male,KARACHI,Gulshan,Salaried,119000.0,Education Loan,670000.0,120,15.88,11173.0,573.0,Education,Rejected,2023-03-16 21:15:59.699624,1.127
+PKB10695,32.0,Female,Karachi,Gulshan,Self-Employed,22000.0,Home Loan,1100000.0,48,9.73,27756.0,583.0,Home Renovation,Defaulted,2023-10-04 02:34:59.624530,15.14
+PKB10696,39.0,Male,Rawalpindi,Satellite Town,Government,39000.0,Personal Loan,630000.0,120,18.71,11641.0,647.0,Electronics,Approved,2023-10-16 21:12:23.429286,3.582
+PKB10697,33.0,Female,Lahore,Model Town,Freelancer,392000.0,Home Loan,1590000.0,120,16.36,26992.0,535.0,Travel,Approved,2022-12-28 15:11:56.395494,0.826
+PKB10698,44.0,Male,Rawalpindi,Satellite Town,Business Owner,73000.0,Personal Loan,550000.0,36,11.02,18012.0,650.0,Education,Closed,2021-07-26 00:18:01.351689,2.961
+PKB10699,33.0,Male,Karachi,Gulshan,Self-Employed,22000.0,Home Loan,560000.0,120,11.04,7727.0,666.0,Business Expansion,Approved,2021-08-25 08:31:50.387984,4.215
+PKB10700,34.0,Female,Islamabad,I-8,Government,41000.0,Home Loan,1520000.0,36,10.99,49756.0,575.0,Medical,Defaulted,2022-11-04 08:03:00.225281,14.563
+PKB10701,46.0,Male,Islamabad,G-9,Self-Employed,438000.0,Home Loan,430000.0,120,9.27,5510.0,543.0,Education,Rejected,2024-04-30 07:32:21.927409,0.151
+PKB10702,40.0,Male,Karachi,Saddar,Self-Employed,65000.0,Auto Loan,870000.0,48,16.44,24853.0,628.0,Business Expansion,Approved,2021-03-15 11:05:01.877346,4.588
+PKB10703,57.0,Female,Lahore,DHA,Salaried,198000.0,Business Loan,230000.0,36,19.84,8529.0,600.0,Travel,Approved,2021-03-13 20:45:21.401752,0.517
+PKB10704,29.0,Male,Karachi,Clifton,Salaried,106000.0,Auto Loan,2610000.0,12,8.74,227934.0,640.0,Electronics,Approved,2024-02-02 11:30:15.769712,25.804
+PKB10705,50.0,Female,Karachi,DHA,Self-Employed,74000.0,Home Loan,1700000.0,36,9.16,54186.0,769.0,Business Expansion,Approved,2023-11-06 15:28:09.612015,8.787
+PKB10706,53.0,Female,Hyderabad,Qasimabad,Salaried,157000.0,Business Loan,5000000.0,36,16.23,176353.0,626.0,Home Renovation,Approved,2023-11-29 00:03:36.270337,13.479
+PKB10707,39.0,Male,Lahore,Model Town,Salaried,24000.0,Education Loan,1860000.0,48,19.56,56165.0,559.0,Wedding,Defaulted,2024-04-20 17:34:19.073842,28.082
+PKB10708,27.0,Male,Peshawar,Saddar,Government,42000.0,Personal Loan,330000.0,48,12.91,8838.0,535.0,Vehicle Purchase,Defaulted,2024-01-17 12:13:31.013767,2.525
+PKB10709,39.0,Female,Lahore,Gulberg,Salaried,73000.0,Home Loan,1160000.0,36,13.22,39208.0,539.0,Education,Defaulted,2024-01-14 07:34:10.062578,6.445
+PKB10710,40.0,Male,Faisalabad,Canal Road,Self-Employed,44000.0,Personal Loan,380000.0,24,16.55,18706.0,481.0,Education,Rejected,2024-04-27 02:53:00.976220,5.102
+PKB10711,43.0,Male,Multan,Husain Agahi,Self-Employed,70000.0,Personal Loan,2200000.0,48,12.2,58151.0,708.0,Education,Closed,2021-05-08 18:13:58.047559,9.969
+PKB10712,58.0,Female,Rawalpindi,Bahria Town,Freelancer,165000.0,Auto Loan,340000.0,60,8.86,7035.0,407.0,Business Expansion,Rejected,2022-08-18 01:58:56.921151,0.512
+PKB10713,53.0,Male,Islamabad,Blue Area,Self-Employed,107000.0,Business Loan,330000.0,60,18.43,8457.0,666.0,Electronics,Approved,2024-06-14 00:43:15.244055,0.948
+PKB10714,62.0,Female,Lahore,Johar Town,Salaried,219000.0,Personal Loan,240000.0,12,16.95,21883.0,537.0,Home Renovation,Approved,2021-04-30 18:35:35.669586,1.199
+PKB10715,24.0,Male,Lahore,DHA,Self-Employed,111000.0,Business Loan,520000.0,120,16.34,8821.0,571.0,Electronics,Rejected,2023-07-06 16:13:12.991239,0.954
+PKB10716,49.0,Male,Sialkot,Paris Road,Business Owner,179000.0,Business Loan,450000.0,36,18.51,16384.0,534.0,Business Expansion,Approved,2023-03-10 11:57:17.797246,1.098
+PKB10717,31.0,Male,Peshawar,Saddar,Freelancer,95000.0,Education Loan,300000.0,24,17.62,14922.0,757.0,Business Expansion,Approved,2024-03-11 19:22:27.183979,1.885
+PKB10718,56.0,Female,Hyderabad,Latifabad,Self-Employed,69000.0,Personal Loan,2940000.0,12,11.28%,260226.0,621.0,Wedding,Approved,2021-10-04 06:43:42.277847,45.257
+PKB10719,50.0,Female,Karachi,Gulshan,Salaried,240000.0,Education Loan,1060000.0,36,13.26,35848.0,695.0,Medical,Approved,2024-01-19 02:33:11.489361,1.792
+PKB10720,36.0,Female,Multan,Husain Agahi,Business Owner,64000.0,Home Loan,970000.0,48,10.2,24695.0,743.0,Home Renovation,Rejected,2024-04-11 03:36:16.220275,4.63
+PKB10721,54.0,Male,Sialkot,Kashmir Road,Salaried,121000.0,Auto Loan,2220000.0,60,10.25,47442.0,,Education,Approved,2021-03-21 20:23:43.779724,4.705
+PKB10722,28.0,Male,Karachi,Gulshan,Government,157000.0,Personal Loan,870000.0,84,17.63,18097.0,506.0,Vehicle Purchase,Rejected,2022-06-19 23:50:59.324155,1.383
+PKB10723,33.0,Male,Karachi,DHA,Self-Employed,164000.0,Personal Loan,430000.0,24,20.09,21904.0,599.0,Education,Approved,2021-02-19 12:09:54.743429,1.603
+PKB10724,,Male,Multan,Cantt,Salaried,49000.0,Auto Loan,220000.0,84,21.5,5086.0,549.0,Electronics,Defaulted,2022-05-25 10:36:11.714643,1.246
+PKB10725,42.0,Male,RAWALPINDI,Satellite Town,Salaried,,Home Loan,420000.0,60,16.98,10434.0,572.0,Business Expansion,Approved,2021-05-16 17:52:20.425531,0.673
+PKB10726,52.0,Female,Peshawar,University Town,Salaried,55000.0,Personal Loan,2090000.0,120,10.99,28778.0,611.0,Home Renovation,Approved,2023-03-13 16:36:38.748435,6.279
+PKB10727,45.0,Male,Karachi,Saddar,Government,161000.0,Personal Loan,300000.0,120,9.93,3953.0,,Travel,Approved,2022-09-30 04:50:09.762202,0.295
+PKB10728,41.0,Female,Multan,Gulgasht,Freelancer,136000.0,Auto Loan,930000.0,84,19.47,20356.0,659.0,Home Renovation,Rejected,2022-03-04 23:52:47.459324,1.796
+PKB10729,58.0,Male,Karachi,Clifton,Salaried,,Personal Loan,1500000.0,48,16.31,42749.0,672.0,Home Renovation,Rejected,2023-09-03 18:21:10.588235,3.186
+PKB10730,25.0,Female,Karachi,Gulshan,Business Owner,48000.0,Business Loan,890000.0,36,16.85,31665.0,607.0,Medical,Defaulted,2022-03-19 08:49:51.739674,7.916
+PKB10731,49.0,Male,Karachi,Saddar,Salaried,140000.0,Personal Loan,960000.0,48,19.05,28729.0,658.0,Education,Approved,2023-09-13 08:19:13.441802,2.462
+PKB10732,41.0,Male,Peshawar,Hayatabad,Self-Employed,189000.0,Personal Loan,1150000.0,84,17.99,24164.0,567.0,Medical,Rejected,2023-04-05 01:12:05.406758,1.534
+PKB10733,45.0,Male,Faisalabad,Peoples Colony,Salaried,111000.0,Home Loan,950000.0,48,19.77,28793.0,,Travel,Approved,2024-01-30 06:50:54.818523,3.113
+PKB10734,53.0,Male,Islamabad,Blue Area,Freelancer,60000.0,Home Loan,2250000.0,60,9.26,46991.0,566.0,Travel,Approved,2022-03-28 22:47:54.593241,9.398
+PKB10735,62.0,Male,Lahore,DHA,Government,171000.0,Home Loan,350000.0,24,18.59,17573.0,733.0,Wedding,Approved,2021-06-12 21:26:48.510638,1.233
+PKB10736,57.0,Male,Quetta,Airport Road,Government,106000.0,Home Loan,860000.0,48,19.99,26166.0,479.0,Electronics,Rejected,2023-08-01 05:28:00.600750,2.962
+PKB10737,55.0,Male,Lahore,Johar Town,Business Owner,36000.0,Education Loan,200000.0,60,12.36,4485.0,583.0,Vehicle Purchase,Rejected,2021-03-29 20:02:06.157697,1.495
+PKB10738,57.0,Female,Peshawar,Hayatabad,Government,58000.0,Auto Loan,170000.0,24,17.15,8417.0,588.0,Wedding,Defaulted,2021-01-24 22:55:07.133917,1.741
+PKB10739,23.0,Female,Lahore,Johar Town,Freelancer,72000.0,Personal Loan,690000.0,120,12.74,10197.0,646.0,Business Expansion,Approved,2021-10-01 02:04:21.326658,1.7
+PKB10740,36.0,Female,Lahore,Model Town,Government,244000.0,Home Loan,1070000.0,36,21.43,40549.0,701.0,Medical,Rejected,2022-12-06 06:36:29.737171,1.994
+PKB10741,55.0,Male,Islamabad,G-9,Freelancer,219000.0,Business Loan,2280000.0,84,8.95,36625.0,501.0,Medical,Rejected,2023-04-25 19:27:51.589486,2.007
+PKB10742,57.0,Male,Lahore,DHA,Self-Employed,219000.0,Home Loan,3970000.0,120,16.33,67321.0,514.0,Wedding,Rejected,2022-11-25 02:18:46.408010,3.689
+PKB10743,27.0,Male,Multan,Gulgasht,Salaried,113000.0,Personal Loan,1840000.0,36,10.75,60022.0,486.0,Business Expansion,Rejected,2021-07-03 15:42:34.693366,6.374
+PKB10744,60.0,Male,Islamabad,F-10,Self-Employed,171000.0,Business Loan,1210000.0,120,18.11,21888.0,745.0,Home Renovation,Approved,2023-12-03 19:02:37.697121,1.536
+PKB10745,63.0,Male,Karachi,Gulshan,Salaried,50000.0,Auto Loan,820000.0,12,10.87,72423.0,648.0,Business Expansion,Approved,2022-10-04 23:49:11.188986,17.382
+PKB10746,33.0,Male,Quetta,Jinnah Road,Self-Employed,99000.0,Auto Loan,250000.0,120,11.68,3541.0,516.0,Education,Rejected,2022-03-09 18:51:48.886107,0.429
+PKB10747,24.0,Male,Lahore,Gulberg,Self-Employed,129000.0,Personal Loan,660000.0,60,15.17,15760.0,577.0,Wedding,Closed,2022-01-27 06:20:16.520650,1.466
+PKB10748,39.0,Male,Islamabad,F-10,Government,52000.0,Personal Loan,1800000.0,24,20.85,92362.0,,Electronics,Approved,2022-07-10 18:06:45.506883,21.314
+PKB10749,61.0,Male,Quetta,Jinnah Road,Salaried,112000.0,Auto Loan,1370000.0,120,11.36,19152.0,593.0,Business Expansion,Approved,2023-08-28 09:02:28.685857,2.052
+PKB10750,42.0,Female,Rawalpindi,Satellite Town,Salaried,272000.0,Personal Loan,300000.0,48,10.45,7674.0,587.0,Home Renovation,Defaulted,2021-05-05 13:34:37.096370,0.339
+PKB10751,36.0,Female,Karachi,Clifton,Self-Employed,138000.0,Home Loan,1120000.0,36,18.75,40913.0,545.0,Business Expansion,Defaulted,2021-12-29 12:26:07.959949,3.558
+PKB10752,,Female,Sialkot,Cantt,Freelancer,171000.0,Home Loan,1060000.0,120,15.26,17271.0,522.0,Medical,Rejected,2021-05-23 03:11:02.327909,1.212
+PKB10753,56.0,Female,Rawalpindi,Satellite Town,Salaried,23000.0,Personal Loan,930000.0,24,20.81,47702.0,732.0,Vehicle Purchase,Defaulted,2023-07-13 01:31:54.893617,24.888
+PKB10754,47.0,Male,LAHORE,Gulberg,Self-Employed,251000.0,Education Loan,720000.0,60,10.48,15468.0,779.0,Medical,Approved,2023-11-27 09:43:55.794743,0.74
+PKB10755,29.0,Female,Karachi,Clifton,Government,88000.0,Business Loan,1160000.0,12,17.22,105919.0,526.0,Electronics,Rejected,2024-02-16 20:27:20.050062,14.444
+PKB10756,57.0,Female,MULTAN,Cantt,Government,62000.0,Auto Loan,1190000.0,36,11.64,39321.0,753.0,Travel,Approved,2021-04-22 18:57:13.291614,7.611
+PKB10757,51.0,Male,Rawalpindi,Satellite Town,Salaried,89000.0,Personal Loan,470000.0,84,10.62,7954.0,573.0,Vehicle Purchase,Rejected,2021-12-08 18:10:21.777221,1.072
+PKB10758,44.0,Male,islamabad,Blue Area,Self-Employed,40000.0,Personal Loan,1000000.0,24,17.73,49794.0,670.0,Travel,Approved,2021-09-19 21:46:37.997496,14.938
+PKB10759,63.0,Female,Quetta,Airport Road,Salaried,185000.0,Home Loan,640000.0,84,16.51,12898.0,,Business Expansion,Approved,2021-06-17 16:25:49.937421,0.837
+PKB10760,35.0,Male,Multan,Cantt,Freelancer,81000.0,Personal Loan,260000.0,24,18.69,13067.0,606.0,Education,Closed,2023-10-18 11:32:03.904881,1.936
+PKB10761,35.0,Female,Karachi,Saddar,Salaried,63000.0,Education Loan,490000.0,24,12.68,23222.0,588.0,Electronics,Closed,2023-05-10 04:24:55.869837,4.423
+PKB10762,23.0,Male,Lahore,Johar Town,Salaried,89000.0,Personal Loan,240000.0,60,14.55,5653.0,696.0,Business Expansion,Defaulted,2024-03-19 19:00:49.561952,0.762
+PKB10763,58.0,Male,Karachi,Clifton,Salaried,193000.0,Home Loan,1450000.0,60,13.97%,33716.0,514.0,Home Renovation,Defaulted,2023-07-21 01:10:17.271589,2.096
+PKB10764,26.0,Male,Multan,Husain Agahi,Salaried,,Home Loan,940000.0,60,21.79,25850.0,728.0,Business Expansion,Closed,2024-02-26 10:25:22.903629,2.899
+PKB10765,59.0,Male,Karachi,Gulshan,Government,42000.0,Auto Loan,570000.0,120,12.45,8327.0,633.0,Vehicle Purchase,Approved,2021-08-14 04:14:07.058823,2.379
+PKB10766,62.0,Female,Islamabad,G-9,Salaried,130000.0,Personal Loan,1970000.0,48,12.48,52343.0,565.0,Medical,Rejected,2023-03-15 06:56:19.224030,4.832
+PKB10767,35.0,Female,Multan,Gulgasht,Salaried,57000.0,Home Loan,760000.0,24,13.29,36235.0,562.0,Education,Rejected,2021-03-31 10:21:46.633291,7.628
+PKB10768,60.0,Male,Quetta,Airport Road,Self-Employed,27000.0,Personal Loan,270000.0,36,16.12,9508.0,488.0,Travel,Defaulted,2023-06-04 17:39:43.479349,4.226
+PKB10769,46.0,Male,Lahore,DHA,Salaried,242000.0,Business Loan,540000.0,84,11.91,9507.0,569.0,Business Expansion,Rejected,2023-03-05 16:58:16.370463,0.471
+PKB10770,41.0,Female,Peshawar,Saddar,Salaried,130000.0,Personal Loan,2290000.0,60,20.86,61772.0,594.0,Business Expansion,Defaulted,2024-02-04 01:49:56.245306,5.702
+PKB10771,23.0,Male,Karachi,Saddar,Business Owner,94000.0,Education Loan,460000.0,120,12.09,6624.0,519.0,Medical,Approved,2021-08-12 13:54:26.583229,0.846
+PKB10772,,Male,Peshawar,University Town,Government,80000.0,Business Loan,880000.0,60,20.59,23604.0,615.0,Education,Approved,2022-01-08 02:24:10.813516,3.541
+PKB10773,27.0,Male,Karachi,Gulshan,Business Owner,,Personal Loan,1230000.0,84,9.9,20356.0,664.0,Wedding,Rejected,2023-10-29 15:49:47.234042,1.071
+PKB10774,38.0,Female,Lahore,Model Town,Business Owner,629000.0,Business Loan,1100000.0,84,17.36,22709.0,599.0,Travel,Approved,2021-11-17 23:54:35.594493,0.433
+PKB10775,46.0,Female,Multan,Husain Agahi,Government,129000.0,Personal Loan,4050000.0,24,20.74,207595.0,682.0,Business Expansion,Approved,2021-11-08 09:56:32.740926,19.311
+PKB10776,49.0,Male,Karachi,Clifton,Salaried,53000.0,Education Loan,320000.0,60,10.78,6923.0,543.0,Business Expansion,Rejected,2021-12-11 22:49:42.728410,1.567
+PKB10777,23.0,Male,Karachi,DHA,Government,90000.0,Home Loan,340000.0,84,21.57,7875.0,715.0,Wedding,Approved,2023-01-07 05:09:59.249061,1.05
+PKB10778,56.0,Female,Faisalabad,Peoples Colony,Business Owner,128000.0,Home Loan,320000.0,48,14.61,8843.0,631.0,Travel,Rejected,2023-09-26 02:56:37.246558,0.829
+PKB10779,58.0,Female,Faisalabad,Canal Road,Government,24000.0,Home Loan,590000.0,48,21.27,18356.0,766.0,Vehicle Purchase,Approved,2023-10-24 20:50:45.807259,9.178
+PKB10780,26.0,Male,Rawalpindi,Saddar,Self-Employed,121000.0,Personal Loan,1570000.0,60,17.64,39561.0,849.0,Vehicle Purchase,Approved,2021-08-30 03:30:51.814768,3.923
+PKB10781,22.0,Male,Faisalabad,Canal Road,Salaried,128000.0,Education Loan,350000.0,120,12.57,5137.0,575.0,Electronics,Approved,2021-12-19 22:28:05.106382,0.482
+PKB10782,61.0,Female,Islamabad,I-8,Business Owner,219000.0,Personal Loan,1590000.0,84,11.04,27258.0,579.0,Electronics,Defaulted,2021-11-16 09:34:55.118898,1.494
+PKB10783,33.0,Male,Lahore,Gulberg,Government,206000.0,Auto Loan,750000.0,24,12.6,35516.0,596.0,Home Renovation,Rejected,2022-05-27 00:55:52.190237,2.069
+PKB10784,57.0,Male,Lahore,Gulberg,Freelancer,106000.0,Home Loan,340000.0,24,9.76,15652.0,676.0,Medical,Rejected,2023-12-14 23:20:21.026282,1.772
+PKB10785,44.0,Male,Karachi,Gulshan,Salaried,245000.0,Education Loan,210000.0,120,10.44,2827.0,745.0,Education,Approved,2023-02-09 18:03:09.236545,0.138
+PKB10786,52.0,Male,QUETTA,Jinnah Road,Salaried,335000.0,Personal Loan,250000.0,24,9.91,11526.0,557.0,Business Expansion,Rejected,2021-04-10 00:19:49.486858,0.413
+PKB10787,32.0,Female,Rawalpindi,Bahria Town,Salaried,100000.0,Home Loan,460000.0,12,14.21,41348.0,656.0,Travel,Defaulted,2022-02-20 05:15:23.654568,4.962
+PKB10788,31.0,Male,Lahore,Johar Town,Government,127000.0,Home Loan,650000.0,60,19.24,16947.0,,Business Expansion,Rejected,2024-04-28 17:12:41.451814,1.601
+PKB10789,24.0,Female,Islamabad,F-10,Salaried,34000.0,Auto Loan,1870000.0,24,10.41,86645.0,678.0,Electronics,Approved,2021-01-01 00:00:00.000000,30.581
+PKB10790,35.0,Male,Sialkot,Cantt,Salaried,,Personal Loan,1280000.0,48,10.26,32624.0,763.0,Home Renovation,Approved,2022-05-19 01:17:29.812265,9.548
+PKB10791,37.0,Male,Karachi,Gulshan,Freelancer,60000.0,Personal Loan,410000.0,84,17.19,8424.0,597.0,Travel,Closed,2021-09-21 12:06:18.473091,1.685
+PKB10792,31.0,Male,Rawalpindi,Bahria Town,Salaried,76000.0,Personal Loan,970000.0,36,11.16,31830.0,461.0,Travel,Defaulted,2023-08-09 05:06:22.978723,5.026
+PKB10793,50.0,Female,Islamabad,I-8,Business Owner,51000.0,Auto Loan,2320000.0,120,9.82,30428.0,690.0,Business Expansion,Approved,2023-05-14 23:23:57.296620,7.16
+PKB10794,31.0,Female,Rawalpindi,Saddar,Salaried,97000.0,Personal Loan,2710000.0,36,10.75,88401.0,540.0,Medical,Rejected,2022-02-26 14:34:05.556946,10.936
+PKB10795,33.0,Male,KARACHI,Gulshan,Business Owner,77000.0,Auto Loan,590000.0,24,20.97,30309.0,606.0,Home Renovation,Defaulted,2023-06-07 22:19:04.430538,4.723
+PKB10796,51.0,Female,Quetta,Jinnah Road,Self-Employed,188000.0,Personal Loan,1430000.0,36,19.59,52846.0,694.0,Medical,Rejected,2023-05-18 04:03:18.247809,3.373
+PKB10797,62.0,Male,Sialkot,Paris Road,Business Owner,74000.0,Business Loan,1930000.0,36,13.28,65290.0,648.0,Home Renovation,Defaulted,2023-02-04 23:04:07.809762,10.588
+PKB10798,22.0,Female,Islamabad,I-8,Freelancer,25000.0,Education Loan,250000.0,12,17.35,22843.0,610.0,Business Expansion,Approved,2022-04-25 02:22:22.678347,10.965
+PKB10799,26.0,Male,Faisalabad,Clock Tower,Salaried,106000.0,Home Loan,510000.0,48,15.75,14388.0,565.0,Home Renovation,Defaulted,2022-06-26 09:09:41.226533,1.629
+PKB10800,41.0,Female,Sialkot,Cantt,Salaried,98000.0,Home Loan,3450000.0,120,17.64,61367.0,344.0,Vehicle Purchase,Rejected,2023-11-01 20:29:08.185231,7.514
+PKB10565,38.0,Female,Lahore,Model Town,Salaried,19000.0,Business Loan,950000.0,48,17.03,27427.0,520.0,Electronics,Rejected,2023-06-28 16:34:50.613266,17.322
+PKB10129,44.0,Male,Karachi,Gulshan,Self-Employed,119000.0,Auto Loan,1080000.0,24,12.93,51310.0,678.0,Medical,Approved,2021-08-06 04:35:44.680851,5.174
+PKB10699,33.0,Male,Karachi,Gulshan,Self-Employed,22000.0,Home Loan,560000.0,120,11.04,7727.0,666.0,Business Expansion,Approved,2021-08-25 08:31:50.387984,4.215
+PKB10235,55.0,Male,Karachi,Saddar,Business Owner,171000.0,Home Loan,810000.0,24,18.88,,807.0,Vehicle Purchase,Approved,2023-08-20 09:24:06.307884,2.862
+PKB10715,24.0,Male,Lahore,DHA,Self-Employed,111000.0,Business Loan,520000.0,120,16.34,8821.0,571.0,Electronics,Rejected,2023-07-06 16:13:12.991239,0.954
+PKB10444,53.0,Female,lahore,Johar Town,Salaried,60000.0,Business Loan,1480000.0,48,19.43,44589.0,,Home Renovation,Rejected,2023-08-06 00:27:02.027534,8.918
+PKB10373,32.0,Female,Karachi,DHA,Salaried,45000.0,Business Loan,1420000.0,84,13.75%,26415.0,550.0,Wedding,Rejected,2021-06-04 21:48:26.132665,7.044
+PKB10770,41.0,Female,Peshawar,Saddar,Salaried,130000.0,Personal Loan,5000000.0,60,20.86,61772.0,594.0,Business Expansion,Defaulted,2024-02-04 01:49:56.245306,5.702
+PKB10659,60.0,Male,Rawalpindi,Bahria Town,Government,80000.0,Personal Loan,8000000.0,60,21.63,16719.0,609.0,Medical,Defaulted,2023-06-12 17:18:05.857321,2.508
+PKB10122,35.0,Male,Quetta,Satellite Town,Salaried,50000000.0,Personal Loan,12000000.0,12,14.41,231249.0,707.0,Electronics,Approved,2023-02-11 08:22:49.712140,7.283
+PKB10178,32.0,Male,Lahore,Johar Town,Government,60000000.0,Auto Loan,300.0,48,16.61,32379.0,687.0,Travel,Rejected,2022-07-25 03:03:49.787234,9.963
+PKB10734,53.0,Male,Islamabad,Blue Area,Freelancer,1200.0,Home Loan,500.0,60,9.26,46991.0,566.0,Travel,Approved,2022-03-28 22:47:54.593241,9.398
